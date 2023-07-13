@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: QinLiLab
+title: Q-Lab
 subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+description: This is where the Q-lab started.
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@QinLiLab.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: qincli@outlook.com
+  orcid: 0000-0002-8948-2717
+  google-scholar: X8vxiMMAAAAJ
   github: QinLiLab
-  twitter: QinLiLab
-  youtube: QinLiLab
+  twitter: QinA2I
+  # youtube: QinLiLab
 
 ### jekyll settings
 
