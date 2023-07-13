@@ -1,23 +1,52 @@
-- id: doi:10.1371/journal.pcbi.1007128
+- id: doi:10.1038/nature24041
   type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+  description:
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature24041/MediaObjects/41586_2017_Article_BFnature24041_Fig1_HTML.jpg?as=webp
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
-    - type: website
-      link: http://manubot.org/
+    # - type: manubot
+    #   link: https://greenelab.github.io/meta-review/
+    # - type: source
+    #   text: Manuscript Source
+    #   link: https://github.com/greenelab/meta-review
+    # - type: website
+    #   link: http://manubot.org/
   tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+    - RNA editing
+    - ADAR
+    - GTEx
+  # repo: greenelab/meta-review
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+- id: doi:10.1038/s41586-022-05052-x
+  type: paper
+  description:
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-022-05052-x/MediaObjects/41586_2022_5052_Fig1_HTML.png?as=webp
+  buttons:
+    # - type: manubot
+    #   link: https://greenelab.github.io/meta-review/
+    # - type: source
+    #   text: Manuscript Source
+    #   link: https://github.com/greenelab/meta-review
+    # - type: website
+    #   link: http://manubot.org/
+  tags:
+    - RNA editing
+    - Autoimmune disease
+    - Genetic variantion
+    - ADAR1
+    - MDA5
+  # repo: greenelab/meta-review
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1038/s41467-021-22489-2
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-22489-2/MediaObjects/41467_2021_22489_Fig7_HTML.png?as=webp
+
+- id: doi:10.1101/2022.08.29.505707
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/08/29/2022.08.29.505707/F1.large.jpg?width=800&height=600&carousel=1
+  publisher: bioRxiv
+  
+- id: doi:10.1038/ng.2371
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fng.2371/MediaObjects/41588_2012_Article_BFng2371_Fig1_HTML.jpg?as=webp
+
+- id: doi:10.1038/ng.2987
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fng.2987/MediaObjects/41588_2014_Article_BFng2987_Fig1_HTML.jpg?as=webp
+
+
