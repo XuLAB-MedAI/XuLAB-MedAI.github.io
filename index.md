@@ -3,7 +3,7 @@
 
 # Q-lab's Website
 
-This is where the Q-lab started.
+This is where the Q-lab starts.
 
 {% include section.html %}
 
