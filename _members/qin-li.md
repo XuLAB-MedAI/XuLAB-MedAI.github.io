@@ -1,6 +1,6 @@
 ---
 name: Qin Li
-image: images/photo.jpg
+image: images/team/QL.jpeg
 role: pi
 aliases:
   - Q. Li
