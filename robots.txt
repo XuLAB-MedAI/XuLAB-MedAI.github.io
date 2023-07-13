@@ -1,1 +1,1 @@
-Sitemap: /qlab.github.io/sitemap.xml
+Sitemap: /lab-website/sitemap.xml
