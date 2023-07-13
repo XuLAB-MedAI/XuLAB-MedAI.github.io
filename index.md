@@ -1,9 +1,9 @@
 ---
 ---
 
-# QinLiLab's Website
+# Q-lab's Website
 
-An engaging 1-3 sentence description of your lab.
+This is where the Q-lab started.
 
 {% include section.html %}
 
