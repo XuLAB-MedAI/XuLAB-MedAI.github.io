@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2022.08.29.505707
+  title: A Small Subset of Cytosolic dsRNAs Must Be Edited by ADAR1 to Evade MDA5-Mediated
+    Autoimmunity
+  authors:
+  - Tao Sun
+  - Qin Li
+  - Jonathan M. Geisinger
+  - Shi-Bin Hu
+  - Boming Fan
+  - Shichen Su
+  - Waitang Tsui
+  - Hongchao Guo
+  - Jinbiao Ma
+  - Jin Billy Li
+  publisher: bioRxiv
+  date: '2022-08-29'
+  link: https://doi.org/gsgk4z
+  orcid: 0000-0002-8948-2717
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.biorxiv.org/content/biorxiv/early/2022/08/29/2022.08.29.505707/F1.large.jpg?width=800&height=600&carousel=1
 - id: doi:10.1038/s41586-022-05052-x
   title: RNA editing underlies genetic risk of common inflammatory diseases
   authors:
@@ -102,26 +123,6 @@
   - RNA editing
   - ADAR
   - GTEx
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1101/2022.08.29.505707
-  title: A Small Subset of Cytosolic dsRNAs Must Be Edited by ADAR1 to Evade MDA5-Mediated
-    Autoimmunity
-  authors:
-  - Tao Sun
-  - Qin Li
-  - Jonathan M. Geisinger
-  - Shi-Bin Hu
-  - Boming Fan
-  - Shichen Su
-  - Waitang Tsui
-  - Hongchao Guo
-  - Jinbiao Ma
-  - Jin Billy Li
-  publisher: bioRxiv
-  date: '2022-08-29'
-  link: https://doi.org/gsgk4z
-  image: https://www.biorxiv.org/content/biorxiv/early/2022/08/29/2022.08.29.505707/F1.large.jpg?width=800&height=600&carousel=1
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/ng.2371
