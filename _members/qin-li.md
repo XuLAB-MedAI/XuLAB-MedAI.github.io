@@ -3,6 +3,7 @@ name: Qin Li
 image: images/team/QL.jpeg
 role: pi
 aliases:
+  - Qin Li
   - Q. Li
   - Q Li
 links:
