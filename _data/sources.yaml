@@ -20,14 +20,19 @@
   type: paper
   description:
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-022-05052-x/MediaObjects/41586_2022_5052_Fig1_HTML.png?as=webp
-  buttons:
-    # - type: manubot
-    #   link: https://greenelab.github.io/meta-review/
-    # - type: source
-    #   text: Manuscript Source
-    #   link: https://github.com/greenelab/meta-review
-    # - type: website
-    #   link: http://manubot.org/
+  authors:
+    - Qin Li
+    - Michael J. Gloudemans
+    - Jonathan M. Geisinger
+    - Boming Fan
+    - François Aguet
+    - Tao Sun
+    - Gokul Ramaswami
+    - Yang I. Li
+    - Jin-Biao Ma
+    - Jonathan K. Pritchard
+    - Stephen B. Montgomery
+    - Jin Billy Li
   tags:
     - RNA editing
     - Autoimmune disease
