@@ -1,6 +1,6 @@
 ---
-title: Example post 3
-author: john-doe
+title: The Q-lab officially launches!
+author: qin-li
 tags: biology, medicine
 ---
 
