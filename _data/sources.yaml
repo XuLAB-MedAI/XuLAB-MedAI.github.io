@@ -45,7 +45,7 @@
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-22489-2/MediaObjects/41467_2021_22489_Fig7_HTML.png?as=webp
 
 - id: doi:10.1101/2022.08.29.505707
-  image: https://www.biorxiv.org/content/biorxiv/early/2022/08/29/2022.08.29.505707/F1.large.jpg?width=800&height=600&carousel=1
+  image: images/citations/2022_bioRxiv_model.png
   publisher: bioRxiv
   
 - id: doi:10.1038/ng.2371
