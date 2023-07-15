@@ -19,7 +19,7 @@
 - id: doi:10.1038/s41586-022-05052-x
   type: paper
   description:
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41586-022-05052-x/MediaObjects/41586_2022_5052_Fig1_HTML.png?as=webp
+  image: images/citations/2022_nature_model.png
   authors:
     - Qin Li
     - Michael J. Gloudemans
