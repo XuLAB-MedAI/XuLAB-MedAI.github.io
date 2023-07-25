@@ -1,9 +1,9 @@
 ---
 ---
 
-# Q-lab's Website
+# Li lab's Website
 
-This is where the Q-lab starts.
+This is where the Li lab starts.
 
 {% include section.html %}
 
