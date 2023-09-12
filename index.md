@@ -40,7 +40,7 @@ We study the genetic basis of self recognition of endogenous RNAs and the diseas
 
 {%
   include button.html
-  link="publlications"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=false

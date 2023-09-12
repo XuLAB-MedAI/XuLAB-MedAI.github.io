@@ -13,7 +13,7 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 {%
   include figure.html
   image="images/RNA_editing.png"
-  caption="A-to-I RNA editing: ADAR converts adenosine to inosine in double-stranded RNA"
+  caption="A-to-I RNA editing: ADAR converts adenosine to inosine on double-stranded RNA"
   width="600px"
 %}
 
