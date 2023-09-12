@@ -82,7 +82,7 @@ Our lab's research goal is to advance basic understanding of dsRNA editing and s
   2. How do disease associated genetic variants affect dsRNA editing and sensing?
   3. Which disease relevant cells are the trigger of immune response due to unwanted RNA sensing?
 
-We employ an integrated approach to address basic questions in dsRNA editing and sensing. By doing so, we aim to bring new insights into autoimmunity and RNA therapeutics.
+We employ an integrated approach including both computational and experimental tools to address basic questions in dsRNA editing and sensing. By doing so, we aim to bring new insights into autoimmunity and RNA therapeutics.
 
 {% include float.html clear=true %}
 
