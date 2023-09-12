@@ -12,7 +12,7 @@ nav:
   include figure.html
   image="images/NA_sensing.png"
   caption="Nucleic acid sensors discriminate self from non-self"
-  width="350px"
+  width="500px"
 %}
 {% endcapture %}
 
