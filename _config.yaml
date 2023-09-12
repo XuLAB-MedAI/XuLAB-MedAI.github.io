@@ -1,6 +1,6 @@
 # site properties and page defaults
 title: University of Pennsylvania
-subtitle: Department of Genetics
+subtitle:
 description:
 header: images/DNA.jpg
 footer: images/dsRNA.jpg
