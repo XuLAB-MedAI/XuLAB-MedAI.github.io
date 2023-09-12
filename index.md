@@ -5,7 +5,7 @@
 
 We are the Li Lab in the [department of genetics](https://genetics.med.upenn.edu/) at the [University of Pennsylvania Perelman School of Medicine](https://www.med.upenn.edu/). 
 
-We study the genetic basis of self recognition of endogenous RNAs and the diseases caused by dysregulated RNA sensing. Read more [here!](research)
+Our lab study the genetic basis of RNA recognition and the diseases caused by dysregulated RNA sensing. We use an integrated approach to  Read more [here!](research)
 
 {% include section.html %}
 
