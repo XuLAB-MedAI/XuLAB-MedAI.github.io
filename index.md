@@ -1,9 +1,11 @@
 ---
 ---
 
-# Li lab's Website
+# Welcome to the Li lab!
 
-This is where the Li lab starts.
+We are the Li Lab in the [department of genetics](https://genetics.med.upenn.edu/) at the [University of Pennsylvania Perelman School of Medicine](https://www.med.upenn.edu/). 
+
+We study the genetic basis of self recognition of endogenous RNAs and the diseases caused by dysregulated RNA sensing. Read more [here!](research)
 
 {% include section.html %}
 
@@ -15,10 +17,10 @@ This is where the Li lab starts.
 
 {%
   include button.html
-  link="publications"
-  text="See our publications"
+  link="research"
+  text="Browse our research"
   icon="fa-solid fa-arrow-right"
-  flip=true
+  flip=false
   style="bare"
 %}
 
@@ -26,9 +28,9 @@ This is where the Li lab starts.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/RNA-7.jpg"
   link="research"
-  title="Our Publications"
+  title="Our Research"
   text=text
 %}
 
@@ -38,10 +40,10 @@ This is where the Li lab starts.
 
 {%
   include button.html
-  link="research"
-  text="Browse our research"
+  link="publlications"
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
-  flip=true
+  flip=false
   style="bare"
 %}
 
@@ -49,9 +51,9 @@ This is where the Li lab starts.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/dsRNA_tree.png"
   link="research"
-  title="Our Research"
+  title="Our Publications"
   flip=true
   style="bare"
   text=text
@@ -66,7 +68,7 @@ This is where the Li lab starts.
   link="team"
   text="Meet our team"
   icon="fa-solid fa-arrow-right"
-  flip=true
+  flip=false
   style="bare"
 %}
 
@@ -74,7 +76,7 @@ This is where the Li lab starts.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/team2.jpeg"
   link="team"
   title="Our Team"
   text=text

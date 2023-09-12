@@ -1,18 +1,19 @@
 # site properties and page defaults
-title: Li Lab @UPenn
-subtitle: 
-description: This is where the Li lab starts.
-header: images/dsRNA.jpg
+title: University of Pennsylvania
+subtitle: Department of Genetics
+description:
+header: images/DNA.jpg
 footer: images/dsRNA.jpg
+header-dark: false
 
 # site social media and other links
 links:
-  email: qincli@outlook.com
+  email: qinl@stanford.edu
   orcid: 0000-0002-8948-2717
   google-scholar: X8vxiMMAAAAJ
   github: QinLiLab
   twitter: QinA2I
-  # youtube: QinLiLab
+  # youtube: QinLiLab   
 
 ### jekyll settings
 

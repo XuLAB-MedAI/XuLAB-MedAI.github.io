@@ -1,5 +1,5 @@
 ---
-name: Qin Li
+name: Qin Li, Ph.D.
 image: images/team/QL.jpeg
 role: pi
 aliases:
@@ -11,10 +11,4 @@ links:
   orcid: 0000-0002-8948-2717
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Faucibus purus in massa tempor nec feugiat nisl pretium fusce.
-Elit at imperdiet dui accumsan.
-Duis tristique sollicitudin nibh sit amet commodo nulla facilisi.
-Vitae elementum curabitur vitae nunc sed velit dignissim sodales.
-Lacinia at quis risus sed vulputate odio ut.
-Magna eget est lorem ipsum.
+Dr. Li is an Assistant Professor in the [Department of Genetics](https://genetics.med.upenn.edu/) at the University of Pennsylvania Perelman School of Medicine. Before joining Penn Genetics in 2024, he completed his postdoctoral training at Stanford University School of Medicine Department of Genetics with [Dr. Jin Billy Li](http://lilab.stanford.edu/), where he studied the regulation and function of Adenosine-to-inosine RNA editing and discovered that immune response caused by insufficient RNA editing is a key genetic driver underlying inflammatory diseases. Before that, he obtained his Ph.D. in Biochemistry and Molecular Biology in 2014 from Peking University School of Life Sciences with Dr. Yu-Xian Zhu. Outside the lab, he enjoys biking and playing video games with his daughter. When he needs to clear up his mind, he builds custom bikes that aim to achieve the perfect balance.

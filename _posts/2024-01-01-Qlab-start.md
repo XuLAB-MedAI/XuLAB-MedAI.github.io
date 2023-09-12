@@ -1,5 +1,5 @@
 ---
-title: The Q-lab officially launches!
+title: The Li Lab officially launches!
 author: qin-li
 tags: biology, medicine
 ---

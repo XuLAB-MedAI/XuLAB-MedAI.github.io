@@ -2,7 +2,7 @@
 title: News
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: What is going on
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
