@@ -1,7 +1,7 @@
 ---
 ---
 
-# Welcome to the Li lab!
+# {% include icon.html icon="fa-solid fa-building-columns" %}Welcome to the Li lab!
 
 We are the Li Lab in the [department of genetics](https://genetics.med.upenn.edu/) at the [University of Pennsylvania Perelman School of Medicine](https://www.med.upenn.edu/). 
 
