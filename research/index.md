@@ -58,7 +58,7 @@ MDA5 is a cytosolic receptor that recognizes viral double-stranded RNAs (dsRNAs)
   flip=false
 %}
 
-During Dr. Li's postdoctoral training, he turned to human genetic for answers to these questions. He discovered that RNA editing quantitative trait loci (edQTLs) are strongly enriched in GWAS signals of common inflammatory diseases, even more than gene expression QTL and RNA splicing QTL. Furthermore, he showed that GWAS risk alleles, by each reducing editing level of their nearby immunogenic dsRNAs, can collectively elicit MDA5-dependent dsRNA sensing and subsequent chronic inflammation in a wide range of autoimmune and inflammatory diseases ([Li et al., Nature 2022](https://www.nature.com/articles/s41586-022-05052-x)). These findings, based on well-established mechanism and human genetic evidence, show that insufficient RNA editing is a major risk factor underlying inflammatory diseases.
+During Dr. Li's postdoctoral training, he turned to human genetics for answers to these questions. He discovered that RNA editing quantitative trait loci (edQTLs) are strongly enriched in GWAS signals of common inflammatory diseases, even more than gene expression QTL and RNA splicing QTL. Furthermore, he showed that GWAS risk alleles, by each reducing editing level of their nearby immunogenic dsRNAs, can collectively elicit MDA5-dependent dsRNA sensing and subsequent chronic inflammation in a wide range of autoimmune and inflammatory diseases ([Li et al., Nature 2022](https://www.nature.com/articles/s41586-022-05052-x)). These findings, based on well-established mechanism and human genetic evidence, show that insufficient RNA editing is a major risk factor underlying inflammatory diseases.
 {% include float.html clear=true %}
 
 {% capture content %}
