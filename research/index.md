@@ -5,7 +5,7 @@ nav:
   tooltip: dsRNA, RNA editing, ADAR, and more
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Research
+# {% include icon.html icon="fa-solid fa-dna" %}Research
 
 {% capture content %}
 {%

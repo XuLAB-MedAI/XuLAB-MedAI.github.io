@@ -5,7 +5,7 @@ nav:
   tooltip: Recent updates
 ---
 
-# {% include icon.html icon="fa-solid fa-feather-pointed" %}News
+# {% include icon.html icon="fa-regular fa-newspaper" %}News
 
 {% include section.html %}
 

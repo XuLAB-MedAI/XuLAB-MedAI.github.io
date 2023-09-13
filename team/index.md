@@ -13,7 +13,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
 {% include section.html %}
-# Join us!
+# {% include icon.html icon="fa-solid fa-bullhorn" %}Join us!
 
 The Li Lab has multiple open positions for postdoctoral fellows, research specialists, and bioinformaticians.
 
