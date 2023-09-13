@@ -15,6 +15,8 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=X8vxiMMAAAA
 
 {% include citation.html lookup="RNA editing underlies genetic risk of common inflammatory diseases" style="rich" %}
 
+{% include citation.html lookup="Dynamic landscape" style="rich" %}
+
 {% include section.html %}
 
 ## All
