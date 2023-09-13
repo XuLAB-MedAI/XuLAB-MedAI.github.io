@@ -11,7 +11,7 @@ nav:
 {%
   include figure.html
   image="images/NA_sensing.png"
-  caption="Nucleic acid sensors discriminate self from non-self"
+  caption="Cytosolic immune sensors for nucleic acids"
   width="500px"
 %}
 {% endcapture %}
@@ -65,7 +65,7 @@ During Dr. Li's postdoctoral training, he turned to human genetics for answers t
 {%
   include figure.html
   image="images/dsRNA_burden.png"
-  caption="Polygenic dsRNA burden model to predict individual's disease risk"
+  caption="Personalized dsRNA burden predicts individual's disease risk"
   width="800px"
 %}
 {% endcapture %}
