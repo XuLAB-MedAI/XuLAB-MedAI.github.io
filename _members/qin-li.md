@@ -7,7 +7,7 @@ aliases:
   - Q. Li
   - Q Li
 links:
-  home-page: https://qinlilab.github.io/lab-website/
+  home-page: https://qinlilab.github.io/
   orcid: 0000-0002-8948-2717
 ---
 
