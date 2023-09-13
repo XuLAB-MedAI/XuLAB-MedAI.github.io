@@ -2,7 +2,7 @@
 title: News
 nav:
   order: 4
-  tooltip: What is going on
+  tooltip: Recent updates
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}News
