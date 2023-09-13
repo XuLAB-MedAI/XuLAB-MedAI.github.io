@@ -78,9 +78,9 @@ During Dr. Li's postdoctoral training, he turned to human genetics for answers t
 
 Our lab's research goal is to advance basic understanding of dsRNA editing and sensing to develop better tools for diagnosis and treatment of inflammatory disease patients. Specifically, we ask three questions:
 
-  1. How do self dsRNAs evade innate immune sensing?
-  2. How do disease associated genetic variants affect dsRNA editing and sensing?
-  3. Which disease relevant cells are the trigger of immune response due to unwanted RNA sensing?
+  - How do self dsRNAs evade innate immune sensing?
+  - How do disease associated genetic variants affect dsRNA editing and sensing?
+  - Which disease relevant cells are the trigger of immune response due to unwanted RNA sensing?
 
 We employ an integrated approach including both computational and experimental tools to address basic questions in dsRNA editing and sensing. By doing so, we aim to bring new insights into autoimmunity and RNA therapeutics.
 
