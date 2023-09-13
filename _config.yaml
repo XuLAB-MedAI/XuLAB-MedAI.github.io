@@ -1,10 +1,13 @@
 # site properties and page defaults
-title: University of Pennsylvania
-subtitle:
+title: Li Lab
+subtitle: University of Pennsylvania
 description:
 header: images/DNA.jpg
 footer: images/dsRNA.jpg
 header-dark: false
+logo-text: true
+show-title: false
+show-subtitle: true
 
 # site social media and other links
 links:
