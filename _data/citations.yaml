@@ -72,10 +72,19 @@
   plugin: sources.py
   file: sources.yaml
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-22489-2/MediaObjects/41467_2021_22489_Fig7_HTML.png?as=webp
-- id: ':'
-  title: The draft genome of a diploid cotton Gossypium raimondii
-  publisher: Nature genetics
-  date: '2021-03-23'
+- id: doi:10.1016/j.celrep.2020.107656
+  title: Unbiased Identification of trans Regulators of ADAR and A-to-I RNA Editing
+  authors:
+  - Emily C. Freund
+  - Anne L. Sapiro
+  - Qin Li
+  - Sandra Linder
+  - James J. Moresco
+  - John R. Yates
+  - Jin Billy Li
+  publisher: Cell Reports
+  date: '2020-05-01'
+  link: https://doi.org/ghprf5
   orcid: 0000-0002-8948-2717
   plugin: orcid.py
   file: orcid.yaml
