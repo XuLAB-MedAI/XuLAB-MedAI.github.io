@@ -12,14 +12,12 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
 
-{% include section.html background="images/background.jpg" dark=true %}
+{% include section.html %}
 # Join us!
 
 The Li Lab has multiple open positions for postdoctoral fellows, research specialists, and bioinformaticians.
 
 The Li Lab is also recruiting several graduate students at the University of Pennsylvania! If interested in rotating in our lab, please email Dr. Li with a brief statement of your interest and CV at qinl@stanford.edu.
-
-{% include section.html %}
 
 <!-- {% capture content %}
 
