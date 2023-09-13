@@ -1,5 +1,84 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2022.08.29.505707
+  title: A Small Subset of Cytosolic dsRNAs Must Be Edited by ADAR1 to Evade MDA5-Mediated
+    Autoimmunity
+  authors:
+  - Tao Sun
+  - Qin Li
+  - Jonathan M. Geisinger
+  - Shi-Bin Hu
+  - Boming Fan
+  - Shichen Su
+  - Waitang Tsui
+  - Hongchao Guo
+  - Jinbiao Ma
+  - Jin Billy Li
+  publisher: bioRxiv
+  date: '2022-08-29'
+  link: https://doi.org/gsgk4z
+  orcid: 0000-0002-8948-2717
+  plugin: sources.py
+  file: sources.yaml
+  image: images/citations/2022_bioRxiv_model.png
+- id: doi:10.1038/s41586-022-05052-x
+  title: RNA editing underlies genetic risk of common inflammatory diseases
+  authors:
+  - Qin Li
+  - Michael J. Gloudemans
+  - Jonathan M. Geisinger
+  - Boming Fan
+  - "Fran\xE7ois Aguet"
+  - Tao Sun
+  - Gokul Ramaswami
+  - Yang I. Li
+  - Jin-Biao Ma
+  - Jonathan K. Pritchard
+  - Stephen B. Montgomery
+  - Jin Billy Li
+  publisher: Nature
+  date: '2022-08-03'
+  link: https://doi.org/gqmk98
+  orcid: 0000-0002-8948-2717
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: null
+  image: images/citations/2022_nature_model.png
+  tags:
+  - RNA editing
+  - Autoimmune disease
+  - Genetic variantion
+  - ADAR1
+  - MDA5
+- id: doi:10.1038/s41467-021-22489-2
+  title: Learning cis-regulatory principles of ADAR-based RNA editing from CRISPR-mediated
+    mutagenesis
+  authors:
+  - Xin Liu
+  - Tao Sun
+  - Anna Shcherbina
+  - Qin Li
+  - Inga Jarmoskaite
+  - Kalli Kappel
+  - Gokul Ramaswami
+  - Rhiju Das
+  - Anshul Kundaje
+  - Jin Billy Li
+  publisher: Nature Communications
+  date: '2021-04-12'
+  link: https://doi.org/gmhhkk
+  orcid: 0000-0002-8948-2717
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-22489-2/MediaObjects/41467_2021_22489_Fig7_HTML.png?as=webp
+- id: ':'
+  title: The draft genome of a diploid cotton Gossypium raimondii
+  publisher: Nature genetics
+  date: '2021-03-23'
+  orcid: 0000-0002-8948-2717
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/nature24041
   title: Dynamic landscape and regulation of RNA editing in mammals
   authors:
@@ -43,75 +122,6 @@
   - RNA editing
   - ADAR
   - GTEx
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41586-022-05052-x
-  title: RNA editing underlies genetic risk of common inflammatory diseases
-  authors:
-  - Qin Li
-  - Michael J. Gloudemans
-  - Jonathan M. Geisinger
-  - Boming Fan
-  - "Fran\xE7ois Aguet"
-  - Tao Sun
-  - Gokul Ramaswami
-  - Yang I. Li
-  - Jin-Biao Ma
-  - Jonathan K. Pritchard
-  - Stephen B. Montgomery
-  - Jin Billy Li
-  publisher: Nature
-  date: '2022-08-03'
-  link: https://doi.org/gqmk98
-  type: paper
-  description: null
-  image: images/citations/2022_nature_model.png
-  tags:
-  - RNA editing
-  - Autoimmune disease
-  - Genetic variantion
-  - ADAR1
-  - MDA5
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/s41467-021-22489-2
-  title: Learning cis-regulatory principles of ADAR-based RNA editing from CRISPR-mediated
-    mutagenesis
-  authors:
-  - Xin Liu
-  - Tao Sun
-  - Anna Shcherbina
-  - Qin Li
-  - Inga Jarmoskaite
-  - Kalli Kappel
-  - Gokul Ramaswami
-  - Rhiju Das
-  - Anshul Kundaje
-  - Jin Billy Li
-  publisher: Nature Communications
-  date: '2021-04-12'
-  link: https://doi.org/gmhhkk
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-22489-2/MediaObjects/41467_2021_22489_Fig7_HTML.png?as=webp
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1101/2022.08.29.505707
-  title: A Small Subset of Cytosolic dsRNAs Must Be Edited by ADAR1 to Evade MDA5-Mediated
-    Autoimmunity
-  authors:
-  - Tao Sun
-  - Qin Li
-  - Jonathan M. Geisinger
-  - Shi-Bin Hu
-  - Boming Fan
-  - Shichen Su
-  - Waitang Tsui
-  - Hongchao Guo
-  - Jinbiao Ma
-  - Jin Billy Li
-  publisher: bioRxiv
-  date: '2022-08-29'
-  link: https://doi.org/gsgk4z
-  image: images/citations/2022_bioRxiv_model.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1038/ng.2371
