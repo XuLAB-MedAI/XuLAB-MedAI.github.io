@@ -1,7 +1,7 @@
 ---
 name: Qin Li, Ph.D.
 image: images/team/QL.jpeg
-description: 
+description: sometimes have trouble distinguish rows vs. columns
 role: pi
 aliases:
   - Qin Li
