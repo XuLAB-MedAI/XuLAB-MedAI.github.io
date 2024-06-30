@@ -1,6 +1,6 @@
 ---
 name: Shizhuo Mu
-image: images/team/Shizhuo.jpg
+image: images/team/shizhuo.jpg
 role: phd
 aliases:
   - Shizhuo Mu

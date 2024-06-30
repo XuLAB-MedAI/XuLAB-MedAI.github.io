@@ -1,6 +1,6 @@
 ---
 name: Haoran Zhang
-image: images/team/Haoran.jpg
+image: images/team/haoran.jpg
 role: postdoc
 aliases:
   - Haoran Zhang
