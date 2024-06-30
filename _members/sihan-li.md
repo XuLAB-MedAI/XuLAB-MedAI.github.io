@@ -1,5 +1,5 @@
 ---
-name: Sihan Li
+name: Sihan Li, Ph.D.
 image: images/team/sihan.jpg
 role: postdoc
 aliases:
