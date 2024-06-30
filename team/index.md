@@ -15,9 +15,9 @@ nav:
 {% include section.html %}
 # {% include icon.html icon="fa-solid fa-bullhorn" %}Join us!
 
-The Li Lab has multiple open positions for postdoctoral fellows, research specialists, and bioinformaticians.
+The Li Lab has open positions at all levels.
 
-The Li Lab is also recruiting several graduate students at the University of Pennsylvania! If interested in rotating in our lab, please email Dr. Li with a brief statement of your interest and CV at qinl@stanford.edu.
+We also welcomes graduate students interested in rotation projects! We are affiliated with the CAMB, GCB, IGG, and Bioengineering programs. If interested, please email Dr. Li with a brief statement of your interest and CV at qinli[at]pennmedicine.upenn.edu.
 
 <!-- {% capture content %}
 
