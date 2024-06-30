@@ -26,8 +26,8 @@ We also welcomes graduate students interested in rotation projects! We are affil
 {%
   include button.html
   type="email"
-  text="qinl@stanford.edu"
-  link="qinl@stanford.edu"
+  text="qinli[at]pennmedicine.upenn.edu"
+  link="qinli@pennmedicine.upenn.edu"
   style="bare"
 %}
 <!-- {%
