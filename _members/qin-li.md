@@ -1,6 +1,7 @@
 ---
 name: Qin Li, Ph.D.
 image: images/team/QL.jpeg
+description: 
 role: pi
 aliases:
   - Qin Li
