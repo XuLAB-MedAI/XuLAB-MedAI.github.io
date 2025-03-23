@@ -1,6 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: 10.1016/j.media.2025.103456
+- id: doi:10.1016/j.media.2025.103456
   title: 'When multiple instance learning meets foundation models: Advancing histological
     whole slide image analysis'
   authors:
@@ -27,53 +27,24 @@
   - Multiple instance learning
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1038/s41586-022-05052-x
-  title: RNA editing underlies genetic risk of common inflammatory diseases
+- id: doi:10.1109/JBHI.2024.3485703
+  title: Multi-Task Adaptive Resolution Network for Lymph Node Metastasis Diagnosis
+    From Whole Slide Images of Colorectal Cancer
   authors:
-  - Qin Li
-  - Michael J. Gloudemans
-  - Jonathan M. Geisinger
-  - Boming Fan
-  - "Fran\xE7ois Aguet"
-  - Tao Sun
-  - Gokul Ramaswami
-  - Yang I. Li
-  - Jin-Biao Ma
-  - Jonathan K. Pritchard
-  - Stephen B. Montgomery
-  - Jin Billy Li
-  publisher: Nature
-  date: '2022-08-03'
-  link: https://doi.org/gqmk98
+  - Tong Wang
+  - Su-Jin Shin
+  - Mingkang Wang
+  - Qi Xu
+  - Guiyang Jiang
+  - Fengyu Cong
+  - Jeonghyun Kang
+  - Hongming Xu
+  publisher: IEEE Journal of Biomedical and Health Informatics
+  date: '2025-01-01'
+  link: https://doi.org/g89gxf
   type: paper
   description: null
-  image: images/citations/2022_nature_model.png
-  tags:
-  - RNA editing
-  - Autoimmune disease
-  - Genetic variantion
-  - ADAR1
-  - MDA5
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/JBHI.2024.3485703
-  title: Learning cis-regulatory principles of ADAR-based RNA editing from CRISPR-mediated
-    mutagenesis
-  authors:
-  - Xin Liu
-  - Tao Sun
-  - Anna Shcherbina
-  - Qin Li
-  - Inga Jarmoskaite
-  - Kalli Kappel
-  - Gokul Ramaswami
-  - Rhiju Das
-  - Anshul Kundaje
-  - Jin Billy Li
-  publisher: Nature Communications
-  date: '2021-04-12'
-  link: https://doi.org/gmhhkk
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fs41467-021-22489-2/MediaObjects/41467_2021_22489_Fig7_HTML.png?as=webp
+  image: images/citations/24jbhi.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2022.08.29.505707
@@ -90,7 +61,7 @@
   - Hongchao Guo
   - Jinbiao Ma
   - Jin Billy Li
-  publisher: bioRxiv
+  publisher: Cold Spring Harbor Laboratory
   date: '2022-08-29'
   link: https://doi.org/gsgk4z
   image: images/citations/2022_bioRxiv_model.png
