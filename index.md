@@ -1,11 +1,11 @@
 ---
 ---
 
-# {% include icon.html icon="fa-solid fa-building-columns" %}Welcome to the Li lab!
+# {% include icon.html icon="fa-solid fa-building-columns" %}Welcome to the Xu lab!
 
-We are the Li Lab in the [department of genetics](https://genetics.med.upenn.edu/) at the [University of Pennsylvania Perelman School of Medicine](https://www.med.upenn.edu/). 
+We are the Xu Lab in the [Faculty of Medicine](https://med.dlut.edu.cn/) at the [Dalian University of Technology](https://www.dlut.edu.cn/). 
 
-Our lab study the genetic basis of RNA recognition and the diseases caused by dysregulated RNA sensing. Read more [here!](research)
+Our lab focuses on artificial intelligence in biomedical imaging, with a particular emphasis on pathology AI and medical image computing. Read more [here!](research)
 
 {% include section.html %}
 
