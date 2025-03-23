@@ -61,6 +61,6 @@
   link: https://doi.org/10.1109/JBHI.2024.3485703
   type: paper
   description: null
-  image: images\citations\24jbhi.jpg
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/6221020/10832115/10733987/xu2-3485703-large.gif
   plugin: sources.py
   file: sources.yaml
