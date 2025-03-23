@@ -15,7 +15,8 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 
 {% include citation.html lookup="When multiple instance learning meets foundation models: Advancing histological whole slide image analysis" style="rich" %}
 
-{% include citation.html lookup="Double-Tier Attention Based Multi-label Learning Network for Predicting Biomarkers from Whole Slide Images of Breast Cancer" style="rich" %}
+{% include citation.html lookup="Double-Tier Attention Based Multi-label Learning Network for\_Predicting\
+    \ Biomarkers from\_Whole Slide Images of\_Breast Cancer" style="rich" %}
 
 {% include section.html %}
 
