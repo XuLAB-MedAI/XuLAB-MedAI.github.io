@@ -1,7 +1,10 @@
 ---
-title: The Li Lab officially launches!
-author: qin-li
-tags: biology, medicine
+title: The Xu Lab officially launches!
+author: Hongming Xu
+tags:
+  - Computer Vision
+  - Computational Pathology
+  - Big Data
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+If you are interested in our works, please feel free to communicate with us!
