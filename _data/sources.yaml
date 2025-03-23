@@ -1,7 +1,7 @@
-- id: doi:10.1038/nature24041
+- id: 10.1016/j.media.2025.103456
   type: paper
   description:
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fnature24041/MediaObjects/41586_2017_Article_BFnature24041_Fig1_HTML.jpg?as=webp
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1361841525000040-gr1.jpg
   buttons:
     # - type: manubot
     #   link: https://greenelab.github.io/meta-review/
@@ -11,9 +11,9 @@
     # - type: website
     #   link: http://manubot.org/
   tags:
-    - RNA editing
-    - ADAR
-    - GTEx
+    - Foundation models
+    - Computational pathology
+    - Multiple instance learning
   # repo: greenelab/meta-review
 
 - id: doi:10.1038/s41586-022-05052-x
