@@ -16,7 +16,7 @@
   - Cheng Lu
   publisher: Medical Image Analysis
   date: '2025-04-01'
-  link: https://doi.org/10.1016/j.media.2025.103456
+  link: https://doi.org/g89gwn
   type: paper
   description: null
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1361841525000040-gr1.jpg
@@ -35,9 +35,9 @@
   - Fengyu Cong
   - Cheng Lu
   - Hongming Xu
-  publisher: International Conference on Medical Image Computing and Computer-Assisted Intervention
-  date: '2024-10-23'
-  link: https://doi.org/10.1007/978-3-031-72378-0_9
+  publisher: Lecture Notes in Computer Science
+  date: '2024-01-01'
+  link: https://doi.org/g89gxk
   image: https://media.springernature.com/full/springer-static/image/chp%3A10.1007%2F978-3-031-72378-0_9/MediaObjects/631669_1_En_9_Fig1_HTML.png?as=webp
   tags:
   - Computational pathology
@@ -57,10 +57,8 @@
   - Jeonghyun Kang
   - Hongming Xu
   publisher: IEEE Journal of Biomedical and Health Informatics
-  date: '2024-10-24'
-  link: https://doi.org/10.1109/JBHI.2024.3485703
-  type: paper
-  description: null
+  date: '2025-01-01'
+  link: https://doi.org/g89gxf
   image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/6221020/10832115/10733987/xu2-3485703-large.gif
   plugin: sources.py
   file: sources.yaml
