@@ -1,19 +1,19 @@
 - id: doi:10.1016/j.media.2025.103456
   type: paper
   description:
-  image: images\citations\25mia.png
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1361841525000040-gr1.jpg
   tags:
     - Foundation models
     - Computational pathology
     - Multiple instance learning
 
 - id: doi:10.1007/978-3-031-72378-0_9
-  image: images/citations/24miccai.jpg
+  image: https://media.springernature.com/full/springer-static/image/chp%3A10.1007%2F978-3-031-72378-0_9/MediaObjects/631669_1_En_9_Fig1_HTML.png?as=webp
   tags:
     - Computational pathology
     - Multiple instance learning
 
 - id: doi:10.1109/JBHI.2024.3485703
-  image: images/citations/24jbhi.jpg
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/6221020/10832115/10733987/xu2-3485703-large.gif
 
 
