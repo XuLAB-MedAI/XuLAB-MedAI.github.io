@@ -28,7 +28,7 @@ Our lab focuses on artificial intelligence in biomedical imaging, with a particu
 
 {%
   include feature.html
-  image="images/RNA-7.jpg"
+  image="images/bg1.png"
   link="research"
   title="Our Research"
   text=text
@@ -51,7 +51,7 @@ Our lab focuses on artificial intelligence in biomedical imaging, with a particu
 
 {%
   include feature.html
-  image="images/dsRNA_tree.png"
+  image="images/bg2.png"
   link="research"
   title="Our Publications"
   flip=true
