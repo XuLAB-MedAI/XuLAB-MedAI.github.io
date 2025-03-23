@@ -1,13 +1,16 @@
 ---
-name: Shizhuo Mu
-image: images/team/XuH.png
+name: Ranran Wang
+image: images/team/WangR.jpg
+description: Doctor Student
 role: phd
 aliases:
-  - Shizhuo Mu
-  - S. Mu
-  - S Mu
+  - Ranran Wang
+  - R. Wang
+  - R Wang
 links:
   home-page: https://qinlilab.github.io/
 ---
 
-Shizhuo Mu is a rotation PhD student in [Bioengineering] (https://be.seas.upenn.edu/) at Penn. She received her BS degree in Theoretical and Applied Mechanics from Fudan University. She joined the Li lab in February, 2024. She is interested in developing long-reads based methods to enhance discoveries in RNA editing.
+Hi, my name is Ranran Wang.
+
+<!-- postdoc -->
