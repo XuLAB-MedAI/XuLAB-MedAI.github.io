@@ -24,6 +24,14 @@ We also welcomes graduate/undergraduate students interested in AI for health! If
 <br>Dalian University of Technology
 <br>Room A1227, Innovation Park Building, North Gate of Dalian University of Technology
 
+<br>Hongming Xu, Ph.D.
+<br>Faculty of Medicine
+<br>Dalian University of Technology
+<br>Room A1227, Innovation Park Building, North Gate of Dalian University of Technology
+<br>Hongming Xu, Ph.D.
+<br>Faculty of Medicine
+<br>Dalian University of Technology
+<br>Room A1227, Innovation Park Building, North Gate of Dalian University of Technology
 {%
   include button.html
   type="email"
