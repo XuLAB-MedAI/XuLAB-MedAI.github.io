@@ -10,7 +10,7 @@ nav:
 {% capture content %}
 {%
   include figure.html
-  image="images\research1.png"
+  image="images/dsRNA_tree.png"
   caption="Cytosolic immune sensors for nucleic acids"
   width="410px"
 %}
