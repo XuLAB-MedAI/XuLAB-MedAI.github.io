@@ -1,6 +1,6 @@
 # site properties and page defaults
-title: Li Lab
-subtitle: University of Pennsylvania
+title: Xu Lab
+subtitle: Dalian University of Technology
 description:
 header: images/DNA.jpg
 footer: images/dsRNA.jpg
@@ -11,11 +11,11 @@ show-subtitle: true
 
 # site social media and other links
 links:
-  email: qinli@pennmedicine.upenn.edu
-  orcid: 0000-0002-8948-2717
-  google-scholar: X8vxiMMAAAAJ
-  github: QinLiLab
-  twitter: QinA2I
+  email: mxu@dlut.edu.cn
+  orcid: 0000-0002-1305-0010
+  google-scholar: Hongming Xu
+  github: XuLab
+  # twitter: QinA2I
   # youtube: QinLiLab   
 
 ### jekyll settings
