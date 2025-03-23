@@ -2,7 +2,7 @@
 title: Research
 nav:
   order: 1
-  tooltip: dsRNA, RNA editing, ADAR, and more
+  tooltip: medical image analysis, computational pathology, and more
 ---
 
 # {% include icon.html icon="fa-solid fa-dna" %}Research
