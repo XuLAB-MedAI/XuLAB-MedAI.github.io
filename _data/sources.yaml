@@ -1,19 +1,65 @@
 - id: doi:10.1016/j.media.2025.103456
+  title: 'When multiple instance learning meets foundation models: Advancing histological
+    whole slide image analysis'
+  authors:
+  - Hongming Xu
+  - Mingkang Wang
+  - Duanbo Shi
+  - Huamin Qin
+  - Yunpeng Zhang
+  - Zaiyi Liu
+  - Anant Madabhushi
+  - Peng Gao
+  - Fengyu Cong
+  - Cheng Lu
+  publisher: Medical Image Analysis
+  date: '2025-04-01'
+  link: https://doi.org/g89gwn
   type: paper
-  description:
+  description: null
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1361841525000040-gr1.jpg
   tags:
-    - Foundation models
-    - Computational pathology
-    - Multiple instance learning
-
+  - Foundation models
+  - Computational pathology
+  - Multiple instance learning
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1007/978-3-031-72378-0_9
+  title: "Double-Tier Attention Based Multi-label Learning Network for\_Predicting\
+    \ Biomarkers from\_Whole Slide Images of\_Breast Cancer"
+  authors:
+  - Mingkang Wang
+  - Tong Wang
+  - Fengyu Cong
+  - Cheng Lu
+  - Hongming Xu
+  publisher: Medical Image Computing and Computer Assisted Intervention (MICCAI 2024)
+  date: '2024-10-03'
+  link: https://doi.org/g89gxk
   image: https://media.springernature.com/full/springer-static/image/chp%3A10.1007%2F978-3-031-72378-0_9/MediaObjects/631669_1_En_9_Fig1_HTML.png?as=webp
   tags:
-    - Computational pathology
-    - Multiple instance learning
-
+  - Computational pathology
+  - Multiple instance learning
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1109/JBHI.2024.3485703
-  image: images\citations\24jbhi.jpg
-
-
+  title: Multi-Task Adaptive Resolution Network for Lymph Node Metastasis Diagnosis
+    From Whole Slide Images of Colorectal Cancer
+  authors:
+  - Tong Wang
+  - Su-Jin Shin
+  - Mingkang Wang
+  - Qi Xu
+  - Guiyang Jiang
+  - Fengyu Cong
+  - Jeonghyun Kang
+  - Hongming Xu
+  publisher: IEEE Journal of Biomedical and Health Informatics
+  date: '2025-01-01'
+  link: https://doi.org/g89gxf
+  image: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/6221020/10832115/10733987/xu2-3485703-large.gif
+  tags:
+  - Computational pathology
+  - Multiple instance learning
+  plugin: sources.py
+  file: sources.yaml
