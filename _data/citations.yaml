@@ -1,6 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:doi:10.1016/j.media.2025.103456
+- id: doi:10.1016/j.media.2025.103456
   title: 'When multiple instance learning meets foundation models: Advancing histological
     whole slide image analysis'
   authors:
@@ -16,13 +16,30 @@
   - Cheng Lu
   publisher: Medical Image Analysis
   date: '2025-04-01'
-  link: https://doi.org/10.1016/j.media.2025.103456
+  link: https://doi.org/g89gwn
   type: paper
   description: null
   image: images\citations\25mia.png
-  buttons: null
   tags:
   - Foundation models
+  - Computational pathology
+  - Multiple instance learning
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-3-031-72378-0_9
+  title: "Double-Tier Attention Based Multi-label Learning Network for\_Predicting\
+    \ Biomarkers from\_Whole Slide Images of\_Breast Cancer"
+  authors:
+  - Mingkang Wang
+  - Tong Wang
+  - Fengyu Cong
+  - Cheng Lu
+  - Hongming Xu
+  publisher: Lecture Notes in Computer Science
+  date: '2024-01-01'
+  link: https://doi.org/g89gxk
+  image: images/citations/24miccai.jpg
+  tags:
   - Computational pathology
   - Multiple instance learning
   plugin: sources.py
@@ -42,132 +59,6 @@
   publisher: IEEE Journal of Biomedical and Health Informatics
   date: '2025-01-01'
   link: https://doi.org/g89gxf
-  type: paper
-  description: null
-  image: images/citations/24jbhi.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1101/2022.08.29.505707
-  title: A Small Subset of Cytosolic dsRNAs Must Be Edited by ADAR1 to Evade MDA5-Mediated
-    Autoimmunity
-  authors:
-  - Tao Sun
-  - Qin Li
-  - Jonathan M. Geisinger
-  - Shi-Bin Hu
-  - Boming Fan
-  - Shichen Su
-  - Waitang Tsui
-  - Hongchao Guo
-  - Jinbiao Ma
-  - Jin Billy Li
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-08-29'
-  link: https://doi.org/gsgk4z
-  image: images/citations/2022_bioRxiv_model.png
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/ng.2371
-  title: The draft genome of a diploid cotton Gossypium raimondii
-  authors:
-  - Kunbo Wang
-  - Zhiwen Wang
-  - Fuguang Li
-  - Wuwei Ye
-  - Junyi Wang
-  - Guoli Song
-  - Zhen Yue
-  - Lin Cong
-  - Haihong Shang
-  - Shilin Zhu
-  - Changsong Zou
-  - Qin Li
-  - Youlu Yuan
-  - Cairui Lu
-  - Hengling Wei
-  - Caiyun Gou
-  - Zequn Zheng
-  - Ye Yin
-  - Xueyan Zhang
-  - Kun Liu
-  - Bo Wang
-  - Chi Song
-  - Nan Shi
-  - Russell J Kohel
-  - Richard G Percy
-  - John Z Yu
-  - Yu-Xian Zhu
-  - Jun Wang
-  - Shuxun Yu
-  publisher: Nature Genetics
-  date: '2012-08-26'
-  link: https://doi.org/f4csq2
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fng.2371/MediaObjects/41588_2012_Article_BFng2371_Fig1_HTML.jpg?as=webp
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1038/ng.2987
-  title: Genome sequence of the cultivated cotton Gossypium arboreum
-  authors:
-  - Fuguang Li
-  - Guangyi Fan
-  - Kunbo Wang
-  - Fengming Sun
-  - Youlu Yuan
-  - Guoli Song
-  - Qin Li
-  - Zhiying Ma
-  - Cairui Lu
-  - Changsong Zou
-  - Wenbin Chen
-  - Xinming Liang
-  - Haihong Shang
-  - Weiqing Liu
-  - Chengcheng Shi
-  - Guanghui Xiao
-  - Caiyun Gou
-  - Wuwei Ye
-  - Xun Xu
-  - Xueyan Zhang
-  - Hengling Wei
-  - Zhifang Li
-  - Guiyin Zhang
-  - Junyi Wang
-  - Kun Liu
-  - Russell J Kohel
-  - Richard G Percy
-  - John Z Yu
-  - Yu-Xian Zhu
-  - Jun Wang
-  - Shuxun Yu
-  publisher: Nature Genetics
-  date: '2014-05-18'
-  link: https://doi.org/f55vt8
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fng.2987/MediaObjects/41588_2014_Article_BFng2987_Fig1_HTML.jpg?as=webp
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1016/j.celrep.2023.112038
-  title: Ablation of Adar1 in myeloid cells imprints a global antiviral state in the
-    lung and heightens early immunity against SARS-CoV-2
-  authors:
-  - Julia Z. Adamska
-  - Rohit Verma
-  - Shakti Gupta
-  - Thomas Hagan
-  - Florian Wimmers
-  - Katharine Floyd
-  - Qin Li
-  - Erika V. Valore
-  - Yanli Wang
-  - Meera Trisal
-  - "Jos\xE9 G. Vilches-Moure"
-  - Shankar Subramaniam
-  - Carl R. Walkley
-  - Mehul S. Suthar
-  - Jin Billy Li
-  - Bali Pulendran
-  publisher: Cell Reports
-  date: '2023-01-01'
-  link: https://doi.org/gsgk42
-  image: https://www.cell.com/cms/attachment/684f3ebf-2d3d-4931-82f8-9786f7238621/fx1.jpg
+  image: images/citations/24jbhi.jpg
   plugin: sources.py
   file: sources.yaml
