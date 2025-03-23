@@ -1,58 +1,19 @@
 - id: doi:10.1016/j.media.2025.103456
   type: paper
   description:
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1361841525000040-gr1.jpg
-  buttons:
-    # - type: manubot
-    #   link: https://greenelab.github.io/meta-review/
-    # - type: source
-    #   text: Manuscript Source
-    #   link: https://github.com/greenelab/meta-review
-    # - type: website
-    #   link: http://manubot.org/
+  image: images\citations\25mia.png
   tags:
     - Foundation models
     - Computational pathology
     - Multiple instance learning
-  # repo: greenelab/meta-review
+
+- id: doi:10.1007/978-3-031-72378-0_9
+  image: images/citations/24miccai.jpg
+  tags:
+    - Computational pathology
+    - Multiple instance learning
 
 - id: doi:10.1109/JBHI.2024.3485703
-  type: paper
-  description:
-  image: images/citations/24jbhi.png
-  # authors:
-  #   - Qin Li
-  #   - Michael J. Gloudemans
-  #   - Jonathan M. Geisinger
-  #   - Boming Fan
-  #   - François Aguet
-  #   - Tao Sun
-  #   - Gokul Ramaswami
-  #   - Yang I. Li
-  #   - Jin-Biao Ma
-  #   - Jonathan K. Pritchard
-  #   - Stephen B. Montgomery
-  #   - Jin Billy Li
-  # tags:
-  #   - RNA editing
-  #   - Autoimmune disease
-  #   - Genetic variantion
-  #   - ADAR1
-  #   - MDA5
-  # repo: greenelab/meta-review
+  image: images/citations/24jbhi.jpg
 
-- id: doi:10.1109/JBHI.2024.3485703
-  image: images/citations/24jbhi.png
-
-- id: doi:10.1101/2022.08.29.505707
-  image: images/citations/2022_bioRxiv_model.png
-  
-- id: doi:10.1038/ng.2371
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fng.2371/MediaObjects/41588_2012_Article_BFng2371_Fig1_HTML.jpg?as=webp
-
-- id: doi:10.1038/ng.2987
-  image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fng.2987/MediaObjects/41588_2014_Article_BFng2987_Fig1_HTML.jpg?as=webp
-
-- id: doi:10.1016/j.celrep.2023.112038
-  image: https://www.cell.com/cms/attachment/684f3ebf-2d3d-4931-82f8-9786f7238621/fx1.jpg
 

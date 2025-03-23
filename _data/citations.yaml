@@ -1,6 +1,6 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: 10.1016/j.media.2025.103456
+- id: doi:10.1016/j.media.2025.103456
   title: 'When multiple instance learning meets foundation models: Advancing histological
     whole slide image analysis'
   authors:
@@ -16,10 +16,10 @@
   - Cheng Lu
   publisher: Medical Image Analysis
   date: '2025-04-01'
-  link: https://doi.org/g89gwn
+  link: https://doi.org/10.1016/j.media.2025.103456
   type: paper
   description: null
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S1361841525000040-gr1.jpg
+  image: images\citations\25mia.png
   buttons: null
   tags:
   - Foundation models
@@ -27,8 +27,8 @@
   - Multiple instance learning
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1038/s41586-022-05052-x
-  title: RNA editing underlies genetic risk of common inflammatory diseases
+- id: doi:10.1007/978-3-031-72378-0_9
+  title: Double-Tier Attention Based Multi-label Learning Network for Predicting Biomarkers from Whole Slide Images of Breast Cancer
   authors:
   - Qin Li
   - Michael J. Gloudemans
