@@ -76,7 +76,7 @@ Our lab focuses on artificial intelligence in biomedical imaging, with a particu
 
 {%
   include feature.html
-  image="images/team2.jpeg"
+  image="images/team.jpg"
   link="team"
   title="Our Team"
   text=text
