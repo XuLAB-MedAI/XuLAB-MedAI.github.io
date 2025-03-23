@@ -16,11 +16,10 @@
   - Cheng Lu
   publisher: Medical Image Analysis
   date: '2025-04-01'
-  link: https://doi.org/10.1016/j.media.2025.103456
+  link: https://doi.org/g89gwn
   type: paper
   description: null
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1361841525000040-gr1.jpg
-  buttons: null
   tags:
   - Foundation models
   - Computational pathology
@@ -28,22 +27,21 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-3-031-72378-0_9
-  title: Double-Tier Attention Based Multi-label Learning Network for Predicting Biomarkers from Whole Slide Images of Breast Cancer
+  title: "Double-Tier Attention Based Multi-label Learning Network for\_Predicting\
+    \ Biomarkers from\_Whole Slide Images of\_Breast Cancer"
   authors:
-  - Tao Sun
-  - Qin Li
-  - Jonathan M. Geisinger
-  - Shi-Bin Hu
-  - Boming Fan
-  - Shichen Su
-  - Waitang Tsui
-  - Hongchao Guo
-  - Jinbiao Ma
-  - Jin Billy Li
-  publisher: Cold Spring Harbor Laboratory
-  date: '2024-10-03'
-  link: https://doi.org/10.1007/978-3-031-72378-0_9
-  image: https://media.springernature.com/full/springer-static/image/chp%3A10.1007%2F978-3-031-72378-0_9/MediaObjects/631669_1_En_9_Fig1_HTML.png?as=webp
+  - Mingkang Wang
+  - Tong Wang
+  - Fengyu Cong
+  - Cheng Lu
+  - Hongming Xu
+  publisher: Lecture Notes in Computer Science
+  date: '2024-01-01'
+  link: https://doi.org/g89gxk
+  image: images/citations/24miccai.jpg
+  tags:
+  - Computational pathology
+  - Multiple instance learning
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JBHI.2024.3485703
@@ -59,6 +57,9 @@
   - Jeonghyun Kang
   - Hongming Xu
   publisher: IEEE Journal of Biomedical and Health Informatics
+  date: '2025-01-01'
+  link: https://doi.org/g89gxf
+  image: images/citations/24jbhi.jpg
   date: '2024-10-24'
   link: https://doi.org/10.1109/JBHI.2024.3485703
   type: paper
