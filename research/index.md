@@ -22,7 +22,7 @@ nav:
   flip=false
 %}
 
-A hallmark of our immune system is the ability to discriminate between self and non-self molecules. T
+A hallmark of our immune system is the ability to discriminate between self and non-self molecules. To achieve this goal, cells utilize various sensors to recognize patterns frequently found in pathogens. These sensors are known as Pattern Recognition Receptors (PRRs). PRRs recognize DNA and RNA from microbial and viral pathogens. For example, in the cytosol, cGAS detects both viral and host DNA while RIG-I and MDA5 detect RNA. These sensors pass down the signals through different adapter proteins, which eventually merge to trigger the interferon (IFN) immune response, as the body's first line of defense against viruses. Yet how cells avoid unwanted recognition of self molecules to prevent autoimmunity is poorly understood.
 {% include float.html clear=true %}
 
 {% capture content %}
