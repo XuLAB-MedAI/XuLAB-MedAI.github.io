@@ -1,4 +1,4 @@
-- id: 10.1016/j.media.2025.103456
+- id: doi:10.1016/j.media.2025.103456
   type: paper
   description:
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1361841525000040-gr1.jpg
@@ -16,29 +16,29 @@
     - Multiple instance learning
   # repo: greenelab/meta-review
 
-- id: doi:10.1038/s41586-022-05052-x
+- id: doi:10.1109/JBHI.2024.3485703
   type: paper
   description:
-  image: images/citations/2022_nature_model.png
-  authors:
-    - Qin Li
-    - Michael J. Gloudemans
-    - Jonathan M. Geisinger
-    - Boming Fan
-    - François Aguet
-    - Tao Sun
-    - Gokul Ramaswami
-    - Yang I. Li
-    - Jin-Biao Ma
-    - Jonathan K. Pritchard
-    - Stephen B. Montgomery
-    - Jin Billy Li
-  tags:
-    - RNA editing
-    - Autoimmune disease
-    - Genetic variantion
-    - ADAR1
-    - MDA5
+  image: images/citations/24jbhi.png
+  # authors:
+  #   - Qin Li
+  #   - Michael J. Gloudemans
+  #   - Jonathan M. Geisinger
+  #   - Boming Fan
+  #   - François Aguet
+  #   - Tao Sun
+  #   - Gokul Ramaswami
+  #   - Yang I. Li
+  #   - Jin-Biao Ma
+  #   - Jonathan K. Pritchard
+  #   - Stephen B. Montgomery
+  #   - Jin Billy Li
+  # tags:
+  #   - RNA editing
+  #   - Autoimmune disease
+  #   - Genetic variantion
+  #   - ADAR1
+  #   - MDA5
   # repo: greenelab/meta-review
 
 - id: doi:10.1038/s41467-021-22489-2
@@ -46,7 +46,6 @@
 
 - id: doi:10.1101/2022.08.29.505707
   image: images/citations/2022_bioRxiv_model.png
-  publisher: bioRxiv
   
 - id: doi:10.1038/ng.2371
   image: https://media.springernature.com/lw685/springer-static/image/art%3A10.1038%2Fng.2371/MediaObjects/41588_2012_Article_BFng2371_Fig1_HTML.jpg?as=webp
