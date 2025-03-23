@@ -13,7 +13,7 @@ nav:
 
 The Xu Lab has open positions at all levels.
 
-We also welcomes graduate students interested in AI for health! If interested, please email Dr. Xu with a brief statement of your interest and CV at mxu[at]dlut.edu.cn.
+We also welcomes graduate/undergraduate students interested in AI for health! If interested, please email Dr. Xu with a brief statement of your interest and CV at mxu[at]dlut.edu.cn.
 
 {% include section.html %}
 
