@@ -1,6 +1,6 @@
 ---
 name: Tianyi Bian
-image: images/team/tianyi.jpg
+image: images/team/XuH.png
 description: Master Student
 role: undergrad
 aliases:

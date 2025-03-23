@@ -1,6 +1,6 @@
 ---
 name: Haoran Zhang, Ph.D.
-image: images/team/haoran.jpg
+image: images/team/XuH.png
 role: postdoc
 aliases:
   - Haoran Zhang

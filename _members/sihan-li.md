@@ -1,6 +1,6 @@
 ---
 name: Sihan Li, Ph.D.
-image: images/team/sihan.jpg
+image: images/team/XuH.png
 role: postdoc
 aliases:
   - Sihan Li
