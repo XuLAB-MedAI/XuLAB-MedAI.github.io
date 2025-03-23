@@ -1,8 +1,7 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2022.08.29.505707
-  title: A Small Subset of Cytosolic dsRNAs Must Be Edited by ADAR1 to Evade MDA5-Mediated
-    Autoimmunity
+- id: 10.1016/j.media.2025.103456
+  title: When multiple instance learning meets foundation models: Advancing histological whole slide image analysis
   authors:
   - Tao Sun
   - Qin Li
@@ -14,13 +13,13 @@
   - Hongchao Guo
   - Jinbiao Ma
   - Jin Billy Li
-  publisher: bioRxiv
-  date: '2022-08-29'
-  link: https://doi.org/gsgk4z
-  orcid: 0000-0002-8948-2717
+  publisher: ELSEVIER
+  date: '2024-04-01'
+  link: https://doi.org/10.1016/j.media.2025.103456
+  orcid: 0000-0002-1305-0010
   plugin: sources.py
   file: sources.yaml
-  image: images/citations/2022_bioRxiv_model.png
+  image: images/citations/25mia.png
 - id: doi:10.1038/s41586-022-05052-x
   title: RNA editing underlies genetic risk of common inflammatory diseases
   authors:
