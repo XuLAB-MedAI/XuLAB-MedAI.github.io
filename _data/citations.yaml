@@ -62,6 +62,6 @@
   image: images\citations\24jbhi.jpg
   tags:
   - Computational pathology
-  - Multiple instance learning
+  - Multi task learning
   plugin: sources.py
   file: sources.yaml
