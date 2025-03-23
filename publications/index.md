@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-book" %}Publications
 
-See [Google Scholar](https://scholar.google.com/citations?hl=en&user=X8vxiMMAAAAJ&view_op=list_works&sortby=pubdate) for a complete chronological list of papers and patents.
+See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAAJ&view_op=list_works&sortby=pubdate) for a complete chronological list of papers.
 
 {% include section.html %}
 
