@@ -56,7 +56,7 @@
   - MDA5
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1038/s41467-021-22489-2
+- id: doi:10.1109/JBHI.2024.3485703
   title: Learning cis-regulatory principles of ADAR-based RNA editing from CRISPR-mediated
     mutagenesis
   authors:
