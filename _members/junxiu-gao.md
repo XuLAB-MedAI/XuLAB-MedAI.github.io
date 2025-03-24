@@ -1,7 +1,7 @@
 ---
 name: Junxiu Gao
 image: images/team/GaoJ.jpg
-description: Master Student
+description: M.Sc., 2024, China Mobile
 role: graduate
 aliases:
   - Junxiu Gao
