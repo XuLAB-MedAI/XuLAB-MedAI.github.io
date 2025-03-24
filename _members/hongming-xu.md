@@ -1,6 +1,6 @@
 ---
 name: Hongming Xu, Ph.D.
-image: images/team/XuH.png
+image: images/team/XuH.jpg
 role: pi
 aliases:
   - Hongming Xu
