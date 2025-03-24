@@ -2,7 +2,7 @@
 name: Yuqi Ding
 image: images/team/DingY.jpg
 description: Master Student
-role: undergrad
+role: undergrad1
 aliases:
   - Yuqi Ding
   - Y. Ding

@@ -2,7 +2,7 @@
 name: Weiwei Zhou
 image: images/team/ZhouW.jpg
 description: Master Student
-role: undergrad
+role: undergrad2
 aliases:
   - Weiwei Zhou
   - W. Zhou

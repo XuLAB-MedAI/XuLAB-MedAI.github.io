@@ -2,7 +2,7 @@
 name: Tong Wang
 image: images/team/WangT.jpg
 description: Master Student
-role: undergrad
+role: undergrad3
 aliases:
   - Tong Wang
   - T. Wang
