@@ -17,6 +17,7 @@ nav:
 <!-- {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %} -->
 ----
 # graduate
+{% include list.html data="members" component="portrait" filters="role: undergrad3" %}
 
 {% include section.html %}
 # {% include icon.html icon="fa-solid fa-bullhorn" %}Join us!
