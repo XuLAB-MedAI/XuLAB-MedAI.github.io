@@ -8,9 +8,9 @@ aliases:
   - S. Jin
   - S Jin
 links:
-  email: w827482361@gmail.com
+  email: 20jinshan@mail.dlut.edu.cn
 ---
 
-Hi, my name is Shan Jin.
+Hi, I am Shan.My research focuses on the analysis of medical images (eg. digital pathological images, MRI) with deep learning method. 
 
 <!-- postdoc -->
