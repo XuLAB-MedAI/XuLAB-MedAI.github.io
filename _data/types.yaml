@@ -27,7 +27,7 @@ undergrad1:
   description: Undergraduate Student
 
 graduate:
-  icon: fa-solid fa-user-cap
+  icon: fa-solid fa-graduation-cap
   description: Graduate Student
 
 programmer:

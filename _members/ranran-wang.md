@@ -2,7 +2,7 @@
 name: Ranran Wang
 image: images/team/WangR.jpg
 description: Doctor Student
-role: graduate
+role: phd
 aliases:
   - Ranran Wang
   - R. Wang
