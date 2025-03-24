@@ -7,6 +7,8 @@ aliases:
   - Ranran Wang
   - R. Wang
   - R Wang
+links:
+  email: w827482361@gmail.com
 ---
 
 Hi, my name is Ranran Wang.

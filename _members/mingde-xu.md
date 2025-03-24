@@ -7,6 +7,8 @@ aliases:
   - Mingde Xu
   - M. Xu
   - M Xu
+links:
+  email: w827482361@gmail.com
 ---
 
 Hello, my name is Mingde Xu.

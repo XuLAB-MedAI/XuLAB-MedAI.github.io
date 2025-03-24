@@ -7,6 +7,8 @@ aliases:
   - Qibin Zhang
   - Q. Zhang
   - Q Zhang
+links:
+  email: w827482361@gmail.com
 ---
 
 Hi, my name is Qibin Zhang.
