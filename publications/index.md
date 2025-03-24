@@ -25,7 +25,6 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 
 {% include list.html data="citations" component="citation" style="rich" %}
 
-----
 
 ## Publications Summary Table
 
