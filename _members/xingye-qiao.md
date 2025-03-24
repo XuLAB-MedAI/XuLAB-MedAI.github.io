@@ -7,10 +7,6 @@ aliases:
   - Xingye Qiao
   - X. Qiao
   - X Qiao
-links:
-  home-page: https://qinlilab.github.io/
 ---
 
 Hi, my name is Xingye Qiao.
-
-<!-- postdoc -->

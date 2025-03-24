@@ -8,6 +8,7 @@ aliases:
   - H Xu
 links:
   home-page: https://xhm1014.github.io/index.html
+  email: xmu@dlut.edu.cn
   orcid: 0000-0002-1305-0010
 ---
 

@@ -7,8 +7,6 @@ aliases:
   - Ranran Wang
   - R. Wang
   - R Wang
-links:
-  home-page: https://qinlilab.github.io/
 ---
 
 Hi, my name is Ranran Wang.

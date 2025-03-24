@@ -7,8 +7,6 @@ aliases:
   - Junxiu Gao
   - J. Gao
   - J Gao
-links:
-  home-page: https://ittong.github.io/
 ---
 
-My name is Junxiu Gao
+I graduated from Xu Lab in 2024 and subsequently joined China Mobile. During my time at Xu Lab, my research primarily focused on survival prediction analysis.
