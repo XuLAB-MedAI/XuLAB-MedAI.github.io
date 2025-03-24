@@ -9,6 +9,9 @@ aliases:
   - T Wang
 links:
   home-page: https://ittong.github.io/
+  phone: 18238670639
+  email: wangtong8868@gmail.com
+  
 ---
 
-I am a third-year graduate student majoring in the Biomedical Engineering at Dalian University of Technology’s Faculty of Medicine. I’m working on medical imaging AI (computational pathology) under the supervision of Associate Professor Hongming Xu. Before coming to Dalian University of Technology, I studied Electronic Information Engineering at the School of Information Science and Engineering, Yanshan University. Currently, I am focused on deep learning and computer vision, particularly in Multi-modal data analysis (e.g., image, gene), Generative AI (e.g., GANs), and Weakly supervised learning, to advance scientific discovery. Additionally, I am also interested in Diffusion model and Rubost AI (domain adaptation technich), etc.
+I graduated from Xu Lab in 2025 and then started my Ph.D. studies at the University of North Carolina at Chapel Hill (USA). During my time in Xu Lab, my research primarily focused on Generative Adversarial Networks (GANs), aiming to generate IHC images from H&E stained slides. If you have any questions or would like to connect, feel free to reach out to me! 😄
