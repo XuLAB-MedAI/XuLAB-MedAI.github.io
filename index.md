@@ -5,7 +5,7 @@
 
 We are the Xu Lab in the [Faculty of Medicine](https://med.dlut.edu.cn/) at the [Dalian University of Technology](https://www.dlut.edu.cn/).
 
-Our lab focuses on artificial intelligence in biomedical imaging, with a particular emphasis on pathology AI and medical image computing. Read more [here!](research)
+Our lab focuses on artificial intelligence in biomedical imaging, with a particular emphasis on Medical AI and pathology computing. Read more [here!](research)
 
 {% include section.html %}
 
