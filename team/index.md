@@ -16,7 +16,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: undergrad1" %}
 <!-- {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %} -->
 ----
-毕业的同学
+
 {% include section.html %}
 # {% include icon.html icon="fa-solid fa-bullhorn" %}Join us!
 
