@@ -30,6 +30,21 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 
 #Co-first authors, * Corresponding authors  
 
+#Co-first authors, * Corresponding authors  
+
+<ol reversed>
+<li>Qin, Fengying#, Xinyan Sun, Mingke Tian, Shan Jin, Jian Yu, Jing Song, Feng Wen, Hongming Xu, Tao Yu, Yue Dong*. Prediction of lymph node metastasis in operable cervical cancer using clinical parameters and deep learning with MRI data: a multicentre study. *Insights into Imaging*, vo.15, no.1, pp.1-14, 2024 (2022 IF: 4.7) (中科院2区)</li>
+
+<li>Shan Jin#, Hongming Xu*, Yue Dong, Xiaofeng Wang, Xinyu Hao, Fengying Qin, Ranran Wang, Fengyu Cong. Ranking attention multiple instance learning for lymph node metastasis prediction on multicenter cervical cancer MRI. *Journal of Applied Clinical Medical Physics*, e14547, 2024 (2023 IF: 2.0)</li>
+
+<li>Tong Wang#, Su-Jin Shin#, Mingkang Wang, Qi Xu, Guiyang Jiang, Fengyu Cong, Jeonghyun Kang, Hongming Xu*. Multi-task Adaptive Resolution Network for Lymph Node Metastasis Diagnosis from Whole Slide Images of Colorectal Cancer. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, vol.29, no.1, pp.420-432, 2025 (2023 IF: 6.7) (中科院1区-Top)</li>
+
+<li>Hongming Xu#, Mingkang Wang, Duanbo Shi, Huamin Qin, Yunpeng Zhang, Zaiyi Liu, Anant Madabhushi, Peng Gao, Fengyu Cong, Cheng Lu*. When multiple instance learning meets foundation models: Advancing histological whole slide image analysis. *Medical Image Analysis*, pp.103456, 2025 (2023 IF: 10.7) (中科院1区-Top)</li>
+</ol>
+
+
+
+<!-- 
 ### Peer-reviewed Journal Publications
 
 1. Hongming Xu#, Mingkang Wang, Duanbo Shi, Huamin Qin, Yunpeng Zhang, Zaiyi Liu, Anant Madabhushi, Peng Gao, Fengyu Cong, Cheng Lu*. **When multiple instance learning meets foundation models: Advancing histological whole slide image analysis**. *Medical Image Analysis*, pp.103456, 2025 (2023 IF: 10.7) (中科院1区-Top).
@@ -123,3 +138,5 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 15. Hongming Xu, Mrinal Mandal. **Eficient segmentation of skin epidermis in whole slide histopathological images**. *In Proceedings of 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, pp. 3869-3872, 2015.
 
 16. Hongming Xu, Cheng Lu, Mrinal Mandal. **Automated segmentation of regions of interest in whole slide skin histopathological images**. *In Proceedings of 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, pp. 3855-3858, 2015.
+
+ -->
