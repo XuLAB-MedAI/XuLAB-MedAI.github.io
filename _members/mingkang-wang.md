@@ -8,7 +8,6 @@ aliases:
   - M. Wang
   - M Wang
 links:
-    phone: 15667084259
     email: wangmingkang233@gmail.com
 ---
 
