@@ -65,3 +65,22 @@
   - Multi task learning
   plugin: sources.py
   file: sources.yaml
+- title: ODA-GAN:Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised
+    Learning for Virtual Immunohistochemistry Staining
+  authors:
+  - Tong Wang
+  - Mingkang Wang
+  - Zhongze Wang
+  - Hongkai Wang
+  - Qi Xu
+  - Fengyu Cong
+  - Hongming Xu
+  publisher: Conference on Computer Vision and Pattern Recognition (CVPR 2025)
+  date: '2025-06-16'
+  image: images/citations/25cvpr.jpg
+  tags:
+  - Virtual Staining
+  - Generative Adversarial Network
+  - Domain Adapation
+  plugin: sources.py
+  file: sources.yaml
