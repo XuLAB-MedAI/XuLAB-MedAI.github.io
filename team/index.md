@@ -9,15 +9,22 @@ nav:
 
 {% include section.html %}
 
+# Principal Investigator
 {% include list.html data="members" component="portrait" filters="role: pi" %}
+
+----
+# Phd
 {% include list.html data="members" component="portrait" filters="role: phd" %}
+
+----
+# Master
 {% include list.html data="members" component="portrait" filters="role: undergrad3" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad2" %}
 {% include list.html data="members" component="portrait" filters="role: undergrad1" %}
 <!-- {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %} -->
 ----
-# graduate
-{% include list.html data="members" component="portrait" filters="role: undergrad3" %}
+# Graduate
+{% include list.html data="members" component="portrait" filters="role: graduate" %}
 
 {% include section.html %}
 # {% include icon.html icon="fa-solid fa-bullhorn" %}Join us!

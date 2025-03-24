@@ -2,7 +2,7 @@
 name: Mingkang Wang
 image: images/team/WangM.jpg
 description: Master Student
-role: undergrad3
+role: graduate
 aliases:
   - Mingkang Wang
   - M. Wang

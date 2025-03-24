@@ -26,6 +26,10 @@ undergrad1:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
 
+graduate:
+  icon: fa-solid fa-user-cap
+  description: Graduate Student
+
 programmer:
   icon: fa-solid fa-code
   description: Programmer

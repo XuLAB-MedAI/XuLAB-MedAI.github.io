@@ -2,7 +2,7 @@
 name: Qibin Zhang
 image: images/team/ZhangQ.jpg
 description: Master Student
-role: undergrad2
+role: undergrad3
 aliases:
   - Qibin Zhang
   - Q. Zhang
