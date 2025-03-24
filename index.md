@@ -52,7 +52,7 @@ Our lab focuses on artificial intelligence in biomedical imaging, with a particu
 {%
   include feature.html
   image="images/bg2.png"
-  link="research"
+  link="publications"
   title="Our Publications"
   flip=true
   style="bare"
