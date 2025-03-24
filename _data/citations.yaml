@@ -65,9 +65,7 @@
   - Multi task learning
   plugin: sources.py
   file: sources.yaml
-
-- id: Not applied
-  title: ODA-GAN:Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised
+- title: ODA-GAN:Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised
     Learning for Virtual Immunohistochemistry Staining
   authors:
   - Tong Wang
