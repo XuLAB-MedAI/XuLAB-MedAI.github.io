@@ -22,7 +22,7 @@ nav:
   flip=false
 %}
 
-A hallmark of our immune system is the ability to discriminate between self and non-self molecules. To achieve this goal, cells utilize various sensors to recognize patterns frequently found in pathogens. These sensors are known as Pattern Recognition Receptors (PRRs). PRRs recognize DNA and RNA from microbial and viral pathogens. For example, in the cytosol, cGAS detects both viral and host DNA while RIG-I and MDA5 detect RNA. These sensors pass down the signals through different adapter proteins, which eventually merge to trigger the interferon (IFN) immune response, as the body's first line of defense against viruses. Yet how cells avoid unwanted recognition of self molecules to prevent autoimmunity is poorly understood.
+Whole slide images (WSIs) contain rich information for cancer diagnosis, biomarker expression prediction, and patient survival outcome estimation. However, analyzing WSIs remains challenging due to their large size and the scarcity of expert annotations. Multiple instance learning (MIL) models have emerged as the dominant approach for WSI classification. Our lab is dedicated to developing novel MIL models by leveraging foundation models, graph-based methods, and attention mechanisms to advance WSI-based diagnostic tasks.
 {% include float.html clear=true %}
 
 {% capture content %}
