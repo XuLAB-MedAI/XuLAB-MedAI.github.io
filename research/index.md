@@ -10,8 +10,8 @@ nav:
 {% capture content %}
 {%
   include figure.html
-  image="images/research1.png"
-  caption="Cytosolic immune sensors for nucleic acids"
+  image="images/research1.PNG"
+  caption="The pipeline for multiple instance learning"
   width="410px"
 %}
 {% endcapture %}
