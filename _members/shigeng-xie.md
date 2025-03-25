@@ -11,4 +11,4 @@ links:
   email: shigeng.s.xie@jyu.fi
 ---
 
-Hi, I am a Ph.D. student at the University of Jyväskylä, and my research focuses on virtual staining for histological images.
+Hi, I’m a Ph.D. student at the University of Jyväskylä. My research focuses on generative AI, especially virtual staining for histological images. I’m always happy to chat and collaborate!

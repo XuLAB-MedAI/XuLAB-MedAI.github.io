@@ -7,8 +7,6 @@ aliases:
   - Xingye Qiao
   - X. Qiao
   - X Qiao
-links:
-  email: w827482361@gmail.com
 ---
 
-Hi, my name is Xingye Qiao.
+Hi, I’m Xingye Qiao. I’ve spent many years living in Dalian, and I know the local food scene very well. If you’re ever looking for delicious recommendations or want to chat about Dalian cuisine, feel free to reach out!

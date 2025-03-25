@@ -8,7 +8,7 @@ aliases:
   - Q. Zhang
   - Q Zhang
 links:
-  email: w827482361@gmail.com
+  email: zhangqibin@mail.dlut.edu.cn
 ---
 
-Hi, my name is Qibin Zhang.
+I joined Xu Lab in 2023. My research focuses on multimodal data analysis and knowledge distillation. If you have any novel ideas or questions, please don’t hesitate to contact me! I’m always happy to chat and collaborate! 😊
