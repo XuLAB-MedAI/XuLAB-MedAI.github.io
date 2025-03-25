@@ -28,8 +28,8 @@ Whole slide images (WSIs) contain rich information for cancer diagnosis, biomark
 {% capture content %}
 {%
   include figure.html
-  image="images/ADAR1-dsRNA-MDA5.png"
-  caption="The ADAR1-dsRNA-MDA5 axis"
+  image="images/kd.PNG"
+  caption="Knowledge distillation example for molecular predictions"
   width="600px"
 %}
 {% endcapture %}
