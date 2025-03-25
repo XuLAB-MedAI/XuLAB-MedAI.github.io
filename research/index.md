@@ -39,7 +39,7 @@ Whole slide images (WSIs) contain rich information for cancer diagnosis, biomark
   content=content
   flip=true
 %}
-MDA5 is a cytosolic receptor that recognizes viral double-stranded RNAs (dsRNAs) to activate the antiviral IFN response. How does MDA5 avoid sensing self dsRNAs? The answer is Adenosine-to-Inosine (A-to-I) RNA editing catalyzed by ADAR that labels endogenous dsRNAs as self to evade MDA5 sensing. Mice deficient with ADAR1 editing are embryonic lethal, but can be rescued to full life span when MDA5 is removed. In humans, ADAR1 loss-of-function and MDA5 gain-of-function mutations lead to rare autoimmune diseases such as Aicardi-Gouteries Syndrome. While aberrant activation of MDA5 sensing is deleterious in healthy individuals, it can be beneficial in cancer immunotherapy. RNA editing occurs at millions of sites across human tissues ([Tan, Li et al., Nature 2017](https://www.nature.com/articles/nature24041)), but it was unclear which dsRNAs, if not properly edited, are immunogenic, and what role the ADAR1-dsRNA-MDA5 axis plays in common diseases.
+Multimodal learning, which integrates radiological images (e.g., CT, MRI), H&E-stained slides, and genomic data, enhances the prediction of molecular biomarker status, patient treatment responses, and survival outcomes. However, the simultaneous acquisition of genomic, pathological, and radiological data is often limited by cost and technical constraints. To overcome this challenge, our lab focuses on developing novel knowledge-distillation models that effectively integrate multimodal data during training while dynamically adapting to available data during inference.
 
 {% include float.html clear=true %}
 
