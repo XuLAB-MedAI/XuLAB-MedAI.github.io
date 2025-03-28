@@ -29,7 +29,7 @@ Whole slide images (WSIs) contain rich information for cancer diagnosis, biomark
 {%
   include figure.html
   image="images/kd.PNG"
-  caption="Knowledge distillation example for molecular predictions"
+  caption="Knowledge distillation example for molecular biomarker predictions"
   width="600px"
 %}
 {% endcapture %}
@@ -58,14 +58,14 @@ Multimodal learning, which integrates radiological images (e.g., CT, MRI), H&E-s
   flip=false
 %}
 
-In clinical applications, generating medical images such as IHC slides is costly and time-consuming. Additionally, acquiring multimodal medical images is challenging, as missing modalities frequently occur across different patients and clinical centers. To address these limitations, our lab focuses on developing novel generative AI models by leveraging GANs, diffusion models, and contrastive learning strategies for biomedical applications.
+In clinical applications, generating medical images such as IHC slides is costly and time-consuming. Additionally, acquiring multimodal medical images for analysis is challenging, as missing modalities frequently occur across different patients and clinical centers. To address these limitations, our lab focuses on developing novel generative AI models by leveraging GANs, diffusion models, and contrastive learning strategies for biomedical applications.
 {% include float.html clear=true %}
 
 {% capture content %}
 {%
   include figure.html
-  image="images/dsRNA_burden.png"
-  caption="Personalized dsRNA burden predicts individual's disease risk"
+  image="images/GAN.PNG"
+  caption="Generating virtual IHC slide from H&E slide"
   width="800px"
 %}
 {% endcapture %}
