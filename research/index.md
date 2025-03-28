@@ -46,7 +46,7 @@ Multimodal learning, which integrates radiological images (e.g., CT, MRI), H&E-s
 {% capture content %}
 {%
   include figure.html
-  image="images/GAN.PNG"
+  image="images/gan.png"
   caption="Generating virtual IHC slide from H&E slide"
   width="375px"
 %}
