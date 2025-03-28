@@ -46,8 +46,8 @@ Multimodal learning, which integrates radiological images (e.g., CT, MRI), H&E-s
 {% capture content %}
 {%
   include figure.html
-  image="images/edQTL_enrichment.png"
-  caption="edQTLs mediate heritability of inflammatory diseases "
+  image="images/GAN.PNG"
+  caption="Generating virtual IHC slide from H&E slide"
   width="375px"
 %}
 {% endcapture %}
@@ -64,8 +64,8 @@ In clinical applications, generating medical images such as IHC slides is costly
 {% capture content %}
 {%
   include figure.html
-  image="images/GAN.PNG"
-  caption="Generating virtual IHC slide from H&E slide"
+  image="images/multimodal.PNG"
+  caption="Multimodal learning for CT imaging and clinical data."
   width="800px"
 %}
 {% endcapture %}
@@ -76,13 +76,13 @@ In clinical applications, generating medical images such as IHC slides is costly
   flip=true
 %}
 
-Our lab's research goal is to advance basic understanding of dsRNA editing and sensing to develop better tools for diagnosis and treatment of inflammatory disease patients. Specifically, we ask three questions:
+Cancer diagnosis relys on multi-modal, multi-time point, multi-scale data information. To construct advanced AI models to assist in cancer diagnosis and treatment, our lab focuses on developing novel multi-modal learning AI models. Specifically, we have devoted our efforts to the following tasks:
 
-  - How do self dsRNAs evade innate immune sensing?
-  - How do disease associated genetic variants affect dsRNA editing and sensing?
-  - Which disease relevant cells are the trigger of immune response due to unwanted RNA sensing?
+  - How to effectively intregrate MRI and pathology slides for cervical cancer diagnosis and prognosis?
+  - How to effectively integrate CT imaging and clinical variables for colorectal cancer treatment response prediction?
+  - How to effectively integrate pathology slides and genomic data for cancer patient survival risk prediction?
 
-We employ an integrated approach including both computational and experimental tools to address basic questions in dsRNA editing and sensing. By doing so, we aim to bring new insights into autoimmunity and RNA therapeutics.
+We employ multimodal learning methods, cross-attention mechanisms, diffusion models, domain adaptations, feature decoupling and many other techniques in this topic.
 
 {% include float.html clear=true %}
 
