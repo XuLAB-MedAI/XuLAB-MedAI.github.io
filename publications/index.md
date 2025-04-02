@@ -32,7 +32,9 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 
 #Co-first authors, * Corresponding authors  
 
-### Journal Publications
+### First auhor/corresonding author Publications
+
+#### Journal Papers
 
 <ol>
 <li>Hongming Xu#, Mingkang Wang, Duanbo Shi, Huamin Qin, Yunpeng Zhang, Zaiyi Liu, Anant Madabhushi, Peng Gao, Fengyu Cong, Cheng Lu*. **When multiple instance learning meets foundation models: Advancing histological whole slide image analysis**. *Medical Image Analysis*, pp.103456, 2025 (2023 IF: 10.7) (中科院1区-Top).</li>
@@ -94,7 +96,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 <li>Hongming Xu, Cheng Lu, Mrinal Mandal. **An efficient technique for nuclei segmentation based on ellipse descriptor analysis and improved seed detection algorithm**. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, vol. 18, no. 5, pp. 1729-1741, 2014 (IF: 5.772) (中科院1区-Top).</li>
 </ol>
 
-### Conference Publications
+#### Conference Papers
 
 <ol>
 <li>Mingkang Wang, Tong Wang, Fengyu Cong, Cheng Lu*, Hongming Xu*. **Double-tier Attention based Multi-label Learning Network for Predicting Biomarkers from Whole Slide Images of Breast Cancer**. *Accepted in International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*, pp. xx, 2024 (CCF-B，医学图像处理顶会).</li>
@@ -129,3 +131,10 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 
 <li>Hongming Xu, Cheng Lu, Mrinal Mandal. **Automated segmentation of regions of interest in whole slide skin histopathological images**. *In Proceedings of 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, pp. 3855-3858, 2015.</li>
 </ol>
+
+### Co-auhor Publications
+#### Journal Papers
+<li>Qin, Fengying#, Xinyan Sun, Mingke Tian, Shan Jin, Jian Yu, Jing Song, Feng Wen, Hongming Xu, Tao Yu, Yue Dong*. **Prediction of lymph node metastasis in operable cervical cancer using clinical parameters and deep learning with MRI data: a multicentre study**. *Insights into Imaging*, vo.15, no.1, pp.1-14, 2024 (2022 IF: 4.7) (中科院2区).</li>
+
+#### Conference Papers
+<li>Huiquan Wang, S. Nizam Ahmed, Hongming Xu, Mrinal Mandal. **Automated detection of cavernous malformations in Brain MRI images**. *In 8th International IEEE EMBS Conference on Neural Engineering*, pp.17-20, 2017.</li>
