@@ -36,7 +36,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 #### Journal Papers
 
 <ol>
-<li>Hongming Xu#, Mingkang Wang, Duanbo Shi, Huamin Qin, Yunpeng Zhang, Zaiyi Liu, Anant Madabhushi, Peng Gao, Fengyu Cong, Cheng Lu*. "When multiple instance learning meets foundation models: Advancing histological whole slide image analysis". Medical Image Analysis, pp.103456, 2025 (2023 IF: 10.7) (中科院1区-Top).</li>
+<li>Hongming Xu#, Mingkang Wang, Duanbo Shi, Huamin Qin, Yunpeng Zhang, Zaiyi Liu, Anant Madabhushi, Peng Gao, Fengyu Cong, Cheng Lu*. "When multiple instance learning meets foundation models: Advancing histological whole slide image analysis". <bold>Medical Image Analysis</bold>, pp.103456, 2025 (2023 IF: 10.7) (中科院1区-Top).</li>
 
 <li>Tong Wang#, Su-Jin Shin#, Mingkang Wang, Qi Xu, Guiyang Jiang, Fengyu Cong, Jeonghyun Kang, Hongming Xu*. "Multi-task Adaptive Resolution Network for Lymph Node Metastasis Diagnosis from Whole Slide Images of Colorectal Cancer". IEEE Journal of Biomedical and Health Informatics (JBHI), vol.29, no.1, pp.420-432, 2025 (2023 IF: 6.7) (中科院1区-Top).</li>
 
