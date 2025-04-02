@@ -109,6 +109,11 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 <li>Hongming Xu, Cheng Lu, Mrinal Mandal. **Automated segmentation of regions of interest in whole slide skin histopathological images**. *In Proceedings of 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, pp. 3855-3858, 2015.</li>
 </ol>
 
+### Book Chapters
+<ol>
+   <li>Salah Alheejawi, Mrinal Mandal, Hongming Xu, Cheng Lu, Richard Berendt and Naresh Jha. **Deep learning based histopathological image analysis for automated detection and staging of melanoma**. *Book Chapter in Deep Learning Techniques for Biomedical and Health Informatics*, pp. 237-265, Chapter 10, Springer, 2020.</li>
+</ol>
+
 ### Co-auhor Publications
 #### Journal Papers
 <ol>
