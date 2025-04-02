@@ -82,7 +82,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 #### Conference Papers
 
 <ol>
-<li>Mingkang Wang, Tong Wang, Fengyu Cong, Cheng Lu*, Hongming Xu*. **Double-tier Attention based Multi-label Learning Network for Predicting Biomarkers from Whole Slide Images of Breast Cancer**. *Accepted in International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*, pp. xx, 2024 (CCF-B，医学图像处理顶会).</li>
+<li>Mingkang Wang, Tong Wang, Fengyu Cong, Cheng Lu*, Hongming Xu*. "Double-tier Attention based Multi-label Learning Network for Predicting Biomarkers from Whole Slide Images of Breast Cancer". International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*, pp. 91-101, 2024 (CCF-B，医学图像处理顶会).</li>
 
 <li>Yali Wang, Haochun Shi, Xingye Qiao, Mingkang Wang, Fengyu Cong, Yanbin Zhao, Hongming Xu*. **Benchmarking Deep Learning Models for Zebrafish Ventricle Segmentation**. *In 4th International Conference on Image, Vision and Intelligent Systems*, pp. xx, 2024.</li>
 
