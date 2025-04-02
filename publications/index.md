@@ -38,45 +38,45 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 <ol>
 <li>Hongming Xu#, Mingkang Wang, Duanbo Shi, Huamin Qin, Yunpeng Zhang, Zaiyi Liu, Anant Madabhushi, Peng Gao, Fengyu Cong, Cheng Lu*. "When multiple instance learning meets foundation models: Advancing histological whole slide image analysis". Medical Image Analysis, pp.103456, 2025 (2023 IF: 10.7) (中科院1区-Top).</li>
 
-<li>Tong Wang#, Su-Jin Shin#, Mingkang Wang, Qi Xu, Guiyang Jiang, Fengyu Cong, Jeonghyun Kang, Hongming Xu*. "Multi-task Adaptive Resolution Network for Lymph Node Metastasis Diagnosis from Whole Slide Images of Colorectal Cancer". IEEE Journal of Biomedical and Health Informatics (JBHI)*, vol.29, no.1, pp.420-432, 2025 (2023 IF: 6.7) (中科院1区-Top).</li>
+<li>Tong Wang#, Su-Jin Shin#, Mingkang Wang, Qi Xu, Guiyang Jiang, Fengyu Cong, Jeonghyun Kang, Hongming Xu*. "Multi-task Adaptive Resolution Network for Lymph Node Metastasis Diagnosis from Whole Slide Images of Colorectal Cancer". IEEE Journal of Biomedical and Health Informatics (JBHI), vol.29, no.1, pp.420-432, 2025 (2023 IF: 6.7) (中科院1区-Top).</li>
 
-<li>Shan Jin#, Hongming Xu*, Yue Dong, Xiaofeng Wang, Xinyu Hao, Fengying Qin, Ranran Wang, Fengyu Cong. **Ranking attention multiple instance learning for lymph node metastasis prediction on multicenter cervical cancer MRI**. *Journal of Applied Clinical Medical Physics*, e14547, 2024 (2023 IF: 2.0).</li>
+<li>Shan Jin, Hongming Xu*, Yue Dong, Xiaofeng Wang, Xinyu Hao, Fengying Qin, Ranran Wang, Fengyu Cong. "Ranking attention multiple instance learning for lymph node metastasis prediction on multicenter cervical cancer MRI". Journal of Applied Clinical Medical Physics*, e14547, 2024 (2023 IF: 2.0).</li>
 
-<li>Xinyu Hao#, Hongming Xu#, Nannan Zhao, Tao Yu, Timo Hamalainenc, Fengyu Cong. **Predicting pathological complete response based on weakly and semi-supervised joint learning in breast cancer multi-parametric MRI**. *Biomedical Signal Processing and Control (BSPC)*, 93 (2024): 106164 (2022 IF: 5.1) (中科院2区).</li>
+<li>Xinyu Hao, Hongming Xu*, Nannan Zhao, Tao Yu, Timo Hamalainenc, Fengyu Cong. "Predicting pathological complete response based on weakly and semi-supervised joint learning in breast cancer multi-parametric MRI". Biomedical Signal Processing and Control (BSPC), 93 (2024): 106164 (2022 IF: 5.1) (中科院2区).</li>
 
-<li>Ranran Wang#, Yusong Qiu, Xinyu Hao, Shan Jin, Junxiu Gao, Heng Qi, Qi Xu, Yong Zhang#, Hongming Xu#. **Simultaneously segmenting and classifying cell nuclei by using multi-task learning in multiplex immunohistochemical tissue microarray sections**. *Biomedical Signal Processing and Control (BSPC)*, 93 (2024): 106143 (2022 IF: 5.1) (中科院2区).</li>
+<li>Ranran Wang, Yusong Qiu, Xinyu Hao, Shan Jin, Junxiu Gao, Heng Qi, Qi Xu, Yong Zhang#, Hongming Xu#. "Simultaneously segmenting and classifying cell nuclei by using multi-task learning in multiplex immunohistochemical tissue microarray sections". Biomedical Signal Processing and Control (BSPC), 93 (2024): 106143 (2022 IF: 5.1) (中科院2区).</li>
 
-<li>Ranran Wang#, Yusong Qiu, Tong Wang, Mingkang Wang, Shan Jin, Fengyu Cong, Yong Zhang#, Hongming Xu#. **MIHIC: A multiplex IHC histopathological image classification dataset for lung cancer immune microenvironment quantification**. *Frontiers in Immunology*, 15 (2024): 1334348 (2022 IF: 7.3) (中科院2区).</li>
+<li>Ranran Wang, Yusong Qiu, Tong Wang, Mingkang Wang, Shan Jin, Fengyu Cong, Yong Zhang#, Hongming Xu#. "MIHIC: A multiplex IHC histopathological image classification dataset for lung cancer immune microenvironment quantification". Frontiers in Immunology, 15 (2024): 1334348 (2022 IF: 7.3) (中科院2区).</li>
 
-<li>Hongming Xu, Qi Xu, Fengyu Cong, Jeonghyun Kang, Chu Han, Zaiyi Liu, Anant Madabhushi, Cheng Lu. **Vision Transformers for Computational Histopathology**. *IEEE Reviews in Biomedical Engineering (RBME)*, vol.17, pp.63-79, 2024 (2022 IF: 17.6) (中科院1区-Top).</li>
+<li>Hongming Xu, Qi Xu, Fengyu Cong, Jeonghyun Kang, Chu Han, Zaiyi Liu, Anant Madabhushi, Cheng Lu. "Vision Transformers for Computational Histopathology". *IEEE Reviews in Biomedical Engineering (RBME), vol.17, pp.63-79, 2024 (2022 IF: 17.6) (中科院1区-Top, ESI Highly Cited Paper).</li>
 
-<li>Xinyu Hao#, Dongying Zheng, Muhanmmad Khan, Lixia Wang, Timo Hamalainen, Fengyu Cong, Hongming Xu#, Kedong Song#. **Machine learning models for predicting adverse pregnancy outcomes in pregnant women with systemic lupus erythematosous**. *Diagnostics*, 13, no. 4 (2023): 612 (2022 IF: 3.6).</li>
+<li>Xinyu Hao, Dongying Zheng, Muhanmmad Khan, Lixia Wang, Timo Hamalainen, Fengyu Cong, Hongming Xu#, Kedong Song#. "Machine learning models for predicting adverse pregnancy outcomes in pregnant women with systemic lupus erythematosous". Diagnostics, 13, no. 4 (2023): 612 (2022 IF: 3.6).</li>
 
-<li>Shan Jin, Hongming Xu#, Yue Dong, Xinyu Hao, Fengying Qin, Qi Xu, Yong Zhu, Fengyu Cong. **Automatic cervical cancer segmentation in multimodal MRI using an EfficientNet encoder in UNet++ architecture**. *International Journal of Imaging Systems and Technology*, vol.33, pp.362-377, 2023 (2022 IF: 3.3).</li>
+<li>Shan Jin, Hongming Xu*, Yue Dong, Xinyu Hao, Fengying Qin, Qi Xu, Yong Zhu, Fengyu Cong. "Automatic cervical cancer segmentation in multimodal MRI using an EfficientNet encoder in UNet++ architecture". International Journal of Imaging Systems and Technology, vol.33, pp.362-377, 2023 (2022 IF: 3.3).</li>
 
-<li>Hongming Xu, Sunho Park, Jean R. Clemenceau, Jinhwan Choi, Sung Hak Lee, Tae Hyun Hwang. **Spatial heterogeneity and organization of tumor mutation burden with immune infiltrates within tumors based on whole slide images correlated with patient survival in bladder cancer**. *Journal of Pathology Informatics*, vol.13, pp.100105, 2022.</li>
+<li>Hongming Xu, Sunho Park, Jean R. Clemenceau, Jinhwan Choi, Sung Hak Lee, Tae Hyun Hwang. "Spatial heterogeneity and organization of tumor mutation burden with immune infiltrates within tumors based on whole slide images correlated with patient survival in bladder cancer". Journal of Pathology Informatics, vol.13, pp.100105, 2022.</li>
 
-<li>Hongming Xu, Yoon Jin Cha, Jean R. Clemenceau, Jinhwan Choi, Sung Hak Lee, Jeonghyun Kang, Tae Hyun Hwang. **Spatial analysis of tumor infiltrating lymphocytes in histological sections using deep learning techniques predicts progression-free survival in colorectal carcinoma**. *The Journal of Pathology: Clinical Research*, vol.8, no.4, pp.327-339, 2022 (2021 IF: 4.373) (中科院病理学1区-Top).</li>
+<li>Hongming Xu, Yoon Jin Cha, Jean R. Clemenceau, Jinhwan Choi, Sung Hak Lee, Jeonghyun Kang, Tae Hyun Hwang. "Spatial analysis of tumor infiltrating lymphocytes in histological sections using deep learning techniques predicts progression-free survival in colorectal carcinoma". The Journal of Pathology: Clinical Research, vol.8, no.4, pp.327-339, 2022 (2021 IF: 4.373) (中科院病理学1区-Top).</li>
 
-<li>Hongming Xu, Lina Liu, Xiujuan Lei, Mrinal Mandal, Cheng Lu. **An Unsupervised Method for Histological Image Segmentation based on Tissue Cluster Level Graph Cut**. *Computerized Medical Imaging and Graphics*, vol.93, pp.101974, August 2021 (2021 IF: 7.422) (中科院2区).</li>
+<li>Hongming Xu, Lina Liu, Xiujuan Lei, Mrinal Mandal, Cheng Lu. "An Unsupervised Method for Histological Image Segmentation based on Tissue Cluster Level Graph Cut". Computerized Medical Imaging and Graphics, vol.93, pp.101974, August 2021 (2021 IF: 7.422) (中科院2区).</li>
 
-<li>Hongming Xu, Fengyu Cong, Tae Hyun Hwang. **Machine Learning and Artificial Intelligence–driven Spatial Analysis of the Tumor Immune Microenvironment in Pathology Slides**. *European Urology Focus*, vol.7, no.4, pp.706-709, August 2021 (2021 IF: 5.952).  
+<li>Hongming Xu, Fengyu Cong, Tae Hyun Hwang. "Machine Learning and Artificial Intelligence–driven Spatial Analysis of the Tumor Immune Microenvironment in Pathology Slides". European Urology Focus, vol.7, no.4, pp.706-709, August 2021 (2021 IF: 5.952).  
    - Invited Mini-Review Paper (中科院1区-Top).</li>
 
-<li>Hongming Xu, Sunho Park, Tae Hyun Hwang. **Computerized classification of prostate cancer Gleason scores from whole slide images**. *IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)*, vol.17, no.6, pp.1871-1882, 2020 (IF: 3.371).  
+<li>Hongming Xu, Sunho Park, Tae Hyun Hwang. "Computerized classification of prostate cancer Gleason scores from whole slide images". IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB), vol.17, no.6, pp.1871-1882, 2020 (IF: 3.371).  
    - Recommended to be published as the top-3 oral papers in BioKDD workshop 2018 (CCF-B).</li>
 
-<li>Hongming Xu, Cheng Lu, Richard Berendt, Naresh Jha, Mrinal Mandal. **Automated analysis and classification of melanocytic tumor on skin whole slide images**. *Computerized Medical Imaging and Graphics (CMIG)*, vol. 66, pp. 124-134, 2018 (IF: 4.79) (中科院2区).</li>
+<li>Hongming Xu, Cheng Lu, Richard Berendt, Naresh Jha, Mrinal Mandal. "Automated analysis and classification of melanocytic tumor on skin whole slide images". Computerized Medical Imaging and Graphics (CMIG), vol. 66, pp. 124-134, 2018 (IF: 4.79) (中科院2区).</li>
 
-<li>Hongming Xu, Cheng Lu, Richard Berendt, Naresh Jha, Mrinal Mandal. **Automatic nuclear segmentation using multi-scale radial line scanning with dynamic programming**. *IEEE Transactions on Biomedical Engineering (TBME)*, vol. 64, no. 10, pp. 2475-2485, 2017 (IF: 4.538) (中科院2区).</li>
+<li>Hongming Xu, Cheng Lu, Richard Berendt, Naresh Jha, Mrinal Mandal. "Automatic nuclear segmentation using multi-scale radial line scanning with dynamic programming". IEEE Transactions on Biomedical Engineering (TBME), vol. 64, no. 10, pp. 2475-2485, 2017 (IF: 4.538) (中科院2区).</li>
 
-<li>Hongming Xu, Cheng Lu, Richard Berendt, Naresh Jha, Mrinal Mandal. **Automatic nuclei detection based on generalized Laplacian of Gaussian Filters**. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, vol. 21, no. 3, pp. 826-837, 2017 (IF: 5.772) (中科院1区-Top).</li>
+<li>Hongming Xu, Cheng Lu, Richard Berendt, Naresh Jha, Mrinal Mandal. "Automatic nuclei detection based on generalized Laplacian of Gaussian Filters". IEEE Journal of Biomedical and Health Informatics (JBHI), vol. 21, no. 3, pp. 826-837, 2017 (IF: 5.772) (中科院1区-Top).</li>
 
-<li>Hongming Xu, Richard Berendt, Naresh Jha, Mrinal Mandal. **Automatic measurement of melanoma depth of invasion in skin histopathological images**. *Micron*, vol. 97, pp. 56-67, 2017 (IF: 2.251).</li>
+<li>Hongming Xu, Richard Berendt, Naresh Jha, Mrinal Mandal. "Automatic measurement of melanoma depth of invasion in skin histopathological images". Micron, vol. 97, pp. 56-67, 2017 (IF: 2.251).</li>
 
-<li>Hongming Xu, Mrinal Mandal. **Epidermis segmentation in skin histopathological images based on thickness measurement and k-means algorithm**. *EURASIP Journal on Image and Video Processing*, vol. 2015, no. 1, pp. 1-14, 2015 (IF: 1.789).</li>
+<li>Hongming Xu, Mrinal Mandal. "Epidermis segmentation in skin histopathological images based on thickness measurement and k-means algorithm". EURASIP Journal on Image and Video Processing, vol. 2015, no. 1, pp. 1-14, 2015 (IF: 1.789).</li>
 
-<li>Hongming Xu, Cheng Lu, Mrinal Mandal. **An efficient technique for nuclei segmentation based on ellipse descriptor analysis and improved seed detection algorithm**. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, vol. 18, no. 5, pp. 1729-1741, 2014 (IF: 5.772) (中科院1区-Top).</li>
+<li>Hongming Xu, Cheng Lu, Mrinal Mandal. "An efficient technique for nuclei segmentation based on ellipse descriptor analysis and improved seed detection algorithm". IEEE Journal of Biomedical and Health Informatics (JBHI), vol. 18, no. 5, pp. 1729-1741, 2014 (IF: 5.772) (中科院1区-Top).</li>
 </ol>
 
 #### Conference Papers
