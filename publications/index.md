@@ -36,7 +36,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 #### Journal Papers
 
 <ol>
-<li>Hongming Xu#, Mingkang Wang, Duanbo Shi, Huamin Qin, Yunpeng Zhang, Zaiyi Liu, Anant Madabhushi, Peng Gao, Fengyu Cong, Cheng Lu*. "When multiple instance learning meets foundation models: Advancing histological whole slide image analysis". <bold>Medical Image Analysis</bold>, pp.103456, 2025 (2023 IF: 10.7) (中科院1区-Top).</li>
+<li><b>Hongming Xu#</b>, Mingkang Wang, Duanbo Shi, Huamin Qin, Yunpeng Zhang, Zaiyi Liu, Anant Madabhushi, Peng Gao, Fengyu Cong, Cheng Lu*. "When multiple instance learning meets foundation models: Advancing histological whole slide image analysis". <b>Medical Image Analysis</b>, pp.103456, 2025 (2023 IF: 10.7) (中科院1区-Top).</li>
 
 <li>Tong Wang#, Su-Jin Shin#, Mingkang Wang, Qi Xu, Guiyang Jiang, Fengyu Cong, Jeonghyun Kang, Hongming Xu*. "Multi-task Adaptive Resolution Network for Lymph Node Metastasis Diagnosis from Whole Slide Images of Colorectal Cancer". IEEE Journal of Biomedical and Health Informatics (JBHI), vol.29, no.1, pp.420-432, 2025 (2023 IF: 6.7) (中科院1区-Top).</li>
 
@@ -44,7 +44,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 
 <li>Xinyu Hao, Hongming Xu*, Nannan Zhao, Tao Yu, Timo Hamalainenc, Fengyu Cong. "Predicting pathological complete response based on weakly and semi-supervised joint learning in breast cancer multi-parametric MRI". Biomedical Signal Processing and Control (BSPC), 93 (2024): 106164 (2022 IF: 5.1) (中科院2区).</li>
 
-<li>Ranran Wang, Yusong Qiu, Xinyu Hao, Shan Jin, Junxiu Gao, Heng Qi, Qi Xu, Yong Zhang#, Hongming Xu#. "Simultaneously segmenting and classifying cell nuclei by using multi-task learning in multiplex immunohistochemical tissue microarray sections". Biomedical Signal Processing and Control (BSPC), 93 (2024): 106143 (2022 IF: 5.1) (中科院2区).</li>
+<li>Ranran Wang, Yusong Qiu, Xinyu Hao, Shan Jin, Junxiu Gao, Heng Qi, Qi Xu, Yong Zhang*, Hongming Xu*. "Simultaneously segmenting and classifying cell nuclei by using multi-task learning in multiplex immunohistochemical tissue microarray sections". Biomedical Signal Processing and Control (BSPC), 93 (2024): 106143 (2022 IF: 5.1) (中科院2区).</li>
 
 <li>Ranran Wang, Yusong Qiu, Tong Wang, Mingkang Wang, Shan Jin, Fengyu Cong, Yong Zhang#, Hongming Xu#. "MIHIC: A multiplex IHC histopathological image classification dataset for lung cancer immune microenvironment quantification". Frontiers in Immunology, 15 (2024): 1334348 (2022 IF: 7.3) (中科院2区).</li>
 
