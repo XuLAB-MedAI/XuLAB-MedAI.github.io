@@ -30,10 +30,9 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 
 ## ALL
 
-#Co-first authors, * Corresponding authors  
 
 ### First auhor/corresonding author Publications
-
+#Co-first authors, * Corresponding authors  
 #### Journal Papers
 
 <ol>
@@ -43,27 +42,17 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 
 <li>Shan Jin#, Hongming Xu*, Yue Dong, Xiaofeng Wang, Xinyu Hao, Fengying Qin, Ranran Wang, Fengyu Cong. **Ranking attention multiple instance learning for lymph node metastasis prediction on multicenter cervical cancer MRI**. *Journal of Applied Clinical Medical Physics*, e14547, 2024 (2023 IF: 2.0).</li>
 
-<li>Qin, Fengying#, Xinyan Sun, Mingke Tian, Shan Jin, Jian Yu, Jing Song, Feng Wen, Hongming Xu, Tao Yu, Yue Dong*. **Prediction of lymph node metastasis in operable cervical cancer using clinical parameters and deep learning with MRI data: a multicentre study**. *Insights into Imaging*, vo.15, no.1, pp.1-14, 2024 (2022 IF: 4.7) (中科院2区).</li>
-
 <li>Xinyu Hao#, Hongming Xu#, Nannan Zhao, Tao Yu, Timo Hamalainenc, Fengyu Cong. **Predicting pathological complete response based on weakly and semi-supervised joint learning in breast cancer multi-parametric MRI**. *Biomedical Signal Processing and Control (BSPC)*, 93 (2024): 106164 (2022 IF: 5.1) (中科院2区).</li>
 
 <li>Ranran Wang#, Yusong Qiu, Xinyu Hao, Shan Jin, Junxiu Gao, Heng Qi, Qi Xu, Yong Zhang#, Hongming Xu#. **Simultaneously segmenting and classifying cell nuclei by using multi-task learning in multiplex immunohistochemical tissue microarray sections**. *Biomedical Signal Processing and Control (BSPC)*, 93 (2024): 106143 (2022 IF: 5.1) (中科院2区).</li>
 
-<li>Dongdong Zhou, Qi Xu, Jiacheng Zhang, Lei Wu, Hongming Xu, Lauri Kettunen, Zheng Chang, Qiang Zhang, Fengyu Cong. **Interpretable Sleep Stage Classification Based on Layer-wise Relevance Propagation**. *Accepted at IEEE Transactions on Instrumentation and Measurement*, Jan 2024 (2022 IF: 5.6) (中科院2区).</li>
-
 <li>Ranran Wang#, Yusong Qiu, Tong Wang, Mingkang Wang, Shan Jin, Fengyu Cong, Yong Zhang#, Hongming Xu#. **MIHIC: A multiplex IHC histopathological image classification dataset for lung cancer immune microenvironment quantification**. *Frontiers in Immunology*, 15 (2024): 1334348 (2022 IF: 7.3) (中科院2区).</li>
-
-<li>Qin, Fengying, Huiting Pang, Jintao Ma, Hongming Xu, Tao Yu, Yahong Luo, Yue Dong. **The value of multiparametric MRI combined with clinical prognostic parameters in predicting the 5-year survival of stage IIIC1 cervical squamous cell carcinoma**. *European Journal of Radiology*, pp.111181, 2023 (2022 IF: 3.3).</li>
-
-<li>Md. Ziaul Hoque, Anja Keskinarkaus, Pia Nyberg, Hongming Xu, Tapio Seppänena. **Invasion Depth Estimation of Carcinoma Cells using Adaptive Stain Normalization to Improve Epidermis Segmentation Accuracy**. *Computerized Medical Imaging and Graphics (CMIG)*, vol.108, pp.102276, 2023 (2022 IF: 5.7) (中科院2区).</li>
 
 <li>Hongming Xu, Qi Xu, Fengyu Cong, Jeonghyun Kang, Chu Han, Zaiyi Liu, Anant Madabhushi, Cheng Lu. **Vision Transformers for Computational Histopathology**. *IEEE Reviews in Biomedical Engineering (RBME)*, vol.17, pp.63-79, 2024 (2022 IF: 17.6) (中科院1区-Top).</li>
 
 <li>Xinyu Hao#, Dongying Zheng, Muhanmmad Khan, Lixia Wang, Timo Hamalainen, Fengyu Cong, Hongming Xu#, Kedong Song#. **Machine learning models for predicting adverse pregnancy outcomes in pregnant women with systemic lupus erythematosous**. *Diagnostics*, 13, no. 4 (2023): 612 (2022 IF: 3.6).</li>
 
 <li>Shan Jin, Hongming Xu#, Yue Dong, Xinyu Hao, Fengying Qin, Qi Xu, Yong Zhu, Fengyu Cong. **Automatic cervical cancer segmentation in multimodal MRI using an EfficientNet encoder in UNet++ architecture**. *International Journal of Imaging Systems and Technology*, vol.33, pp.362-377, 2023 (2022 IF: 3.3).</li>
-
-<li>Dongdong Zhou, Qi Xu, Jian Wang, Hongming Xu, Lauri Kettunen, Zheng Chang, Fengyu Cong. **Alleviating Class Imbalance Problem in Automatic Sleep Stage Classification**. *IEEE Transactions on Instrumentation & Measurement*, vol.71, pp.1-12, 2022 (2022 IF: 5.6) (中科院2区).</li>
 
 <li>Hongming Xu, Sunho Park, Jean R. Clemenceau, Jinhwan Choi, Sung Hak Lee, Tae Hyun Hwang. **Spatial heterogeneity and organization of tumor mutation burden with immune infiltrates within tumors based on whole slide images correlated with patient survival in bladder cancer**. *Journal of Pathology Informatics*, vol.13, pp.100105, 2022.</li>
 
@@ -74,12 +63,8 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 <li>Hongming Xu, Fengyu Cong, Tae Hyun Hwang. **Machine Learning and Artificial Intelligence–driven Spatial Analysis of the Tumor Immune Microenvironment in Pathology Slides**. *European Urology Focus*, vol.7, no.4, pp.706-709, August 2021 (2021 IF: 5.952).  
    - Invited Mini-Review Paper (中科院1区-Top).</li>
 
-<li>Jeonghyun Kang, Jae-hoon Lee, Hye-Sun Lee, Eun-Suk Cho, Eun Jung Park, Seung Hyuk Baik, Kang Young Lee, Chihyun Park, Yunku Yeu, Jean Clemenceau, Sunho Park, Hongming Xu, Changjin Hong, Tae Hyun Hwang. **Radiomics Features of F-fluorodeoxyglucose Positron-Emission Tomography as a Novel Prognostic Signature in Colorectal Cancer**. *Cancers*, vol.13, no.3, pp.392, 2021 (IF: 6.636) (中科院2区).</li>
-
 <li>Hongming Xu, Sunho Park, Tae Hyun Hwang. **Computerized classification of prostate cancer Gleason scores from whole slide images**. *IEEE/ACM Transactions on Computational Biology and Bioinformatics (TCBB)*, vol.17, no.6, pp.1871-1882, 2020 (IF: 3.371).  
    - Recommended to be published as the top-3 oral papers in BioKDD workshop 2018 (CCF-B).</li>
-
-<li>Salah Alheejaw, Hongming Xu, Richard Berendt, Naresh Jha, Mrinal Mandal. **Novel lymph node segmentation and proliferation index measurement for skin melanoma biopsy images**. *Computerized Medical Imaging and Graphics (CMIG)*, vol. 73, pp. 19-29, 2019 (IF: 4.79) (中科院2区).</li>
 
 <li>Hongming Xu, Cheng Lu, Richard Berendt, Naresh Jha, Mrinal Mandal. **Automated analysis and classification of melanocytic tumor on skin whole slide images**. *Computerized Medical Imaging and Graphics (CMIG)*, vol. 66, pp. 124-134, 2018 (IF: 4.79) (中科院2区).</li>
 
@@ -88,8 +73,6 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 <li>Hongming Xu, Cheng Lu, Richard Berendt, Naresh Jha, Mrinal Mandal. **Automatic nuclei detection based on generalized Laplacian of Gaussian Filters**. *IEEE Journal of Biomedical and Health Informatics (JBHI)*, vol. 21, no. 3, pp. 826-837, 2017 (IF: 5.772) (中科院1区-Top).</li>
 
 <li>Hongming Xu, Richard Berendt, Naresh Jha, Mrinal Mandal. **Automatic measurement of melanoma depth of invasion in skin histopathological images**. *Micron*, vol. 97, pp. 56-67, 2017 (IF: 2.251).</li>
-
-<li>Cheng Lu, Hongming Xu, Jun Xu, Hannah Gilmore, Mrinal Mandal, Anant Madabhushi. **Multi-pass adaptive voting for nuclei detection in histopathological Images**. *Scientific Reports*, vol. 6, sp. 33985, 2016 (IF: 4.379).</li>
 
 <li>Hongming Xu, Mrinal Mandal. **Epidermis segmentation in skin histopathological images based on thickness measurement and k-means algorithm**. *EURASIP Journal on Image and Video Processing*, vol. 2015, no. 1, pp. 1-14, 2015 (IF: 1.789).</li>
 
@@ -105,8 +88,6 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 
 <li>Qiao Chen, Hongming Xu*, Huamin Qin, Xinyu Hao, Shan Jin, Timo Hämäläinen, Fengyu Cong. **Comparative Validation of Graph Neural Networks for Glioma Grading in Whole Slide Images**. *In 4th International Conference on Image, Vision and Intelligent Systems*, pp. xx, 2024.</li>
 
-<li>Yaxin Li, Qi Xu, Jiangrong Shen, Hongming Xu, Long Chen, Gang Pan. **Towards efficient deep spiking neural networks construction with spiking activity based pruning**. *Accepted in International Conference on Machine Learning (ICML)*, pp. xx, 2024 (CCF-A).</li>
-
 <li>Junxiu Gao, Shan Jin, Ranran Wang, Mingkang Wang, Tong Wang, Hongming Xu*. **Dual-stream Context-aware Neural Network for Survival Prediction from Whole Slide Images**. *In Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, pp.3-14, 2023 (CCF-C, Acceptance rate: 37.95%).</li>
 
 <li>Junxiu Gao, Xinyu Hao, Shan Jin, Hongming Xu*. **Self-supervised contrastive pre-training integrated with multi-level co-attention for survival prognosis from whole slide images**. *In 3rd International Conference on Image, Vision and Intelligent Systems*, pp. 650-658, 2023.</li>
@@ -119,13 +100,9 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 
 <li>Hongming Xu, Tae Hyun Hwang. **Statistical Local Binary Patterns (SLBP): application to prostate cancer Gleason score prediction from whole slide pathology images**. *In 16th IEEE International Symposium on Biomedical Imaging (ISBI)*, pp. 895-899, 2019.</li>
 
-<li>Huiquan Wang, S. Nizam Ahmed, Hongming Xu, Mrinal Mandal. **Automated detection of cavernous malformations in Brain MRI images**. *In 8th International IEEE EMBS Conference on Neural Engineering*, pp.17-20, 2017.</li>
-
 <li>Hongming Xu, Huiquan Wang, Richard Berendt, Naresh Jha, Mrinal Mandal. **Computerized measurement of melanoma depth of invasion in skin biopsy images**. *In 2017 International Conference on Biomedical and Health Informatics (BHI)*, pp. 17-20, 2017 (Acceptance Rate: 38%).</li>
 
 <li>Hongming Xu, Huiquan Wang, Richard Berendt, Naresh Jha, Mrinal Mandal. **Automated nuclear segmentation in skin histopathological images using multi-scale radial line scanning**. *In IEEE-NIH Special Topics Conference on Healthcare Innovations and Point-of-Care Technologies*, pp. 175-178, 2016.</li>
-
-<li>Huiquan Wang, Hongming Xu, S. Nizam Ahmed, Mrinal Mandal. **Computer aided detection of cavernous malformation in T2-weighted brain MR images**. *In IEEE-NIH Special Topics Conference on Healthcare Innovations and Point-of-Care Technologies*, pp. 101–104, 2016.</li>
 
 <li>Hongming Xu, Mrinal Mandal. **Eficient segmentation of skin epidermis in whole slide histopathological images**. *In Proceedings of 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, pp. 3869-3872, 2015.</li>
 
@@ -134,7 +111,29 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 
 ### Co-auhor Publications
 #### Journal Papers
-<li>Qin, Fengying#, Xinyan Sun, Mingke Tian, Shan Jin, Jian Yu, Jing Song, Feng Wen, Hongming Xu, Tao Yu, Yue Dong*. **Prediction of lymph node metastasis in operable cervical cancer using clinical parameters and deep learning with MRI data: a multicentre study**. *Insights into Imaging*, vo.15, no.1, pp.1-14, 2024 (2022 IF: 4.7) (中科院2区).</li>
+<ol>
+  <li>Dongdong Zhou, Qi Xu, Jiacheng Zhang, Lei Wu, Hongming Xu, Lauri Kettunen, Zheng Chang, Qiang Zhang, Fengyu Cong. **Interpretable Sleep Stage Classification Based on Layer-wise Relevance Propagation**. *Accepted at IEEE Transactions on Instrumentation and Measurement*, Jan 2024 (2022 IF: 5.6) (中科院2区).</li>
+  
+  <li>Qin, Fengying#, Xinyan Sun, Mingke Tian, Shan Jin, Jian Yu, Jing Song, Feng Wen, Hongming Xu, Tao Yu, Yue Dong*. **Prediction of lymph node metastasis in operable cervical cancer using clinical parameters and deep learning with MRI data: a multicentre study**. *Insights into Imaging*, vo.15, no.1, pp.1-14, 2024 (2022 IF: 4.7) (中科院2区).</li>
+
+  <li>Qin, Fengying, Huiting Pang, Jintao Ma, Hongming Xu, Tao Yu, Yahong Luo, Yue Dong. **The value of multiparametric MRI combined with clinical prognostic parameters in predicting the 5-year survival of stage IIIC1 cervical squamous cell carcinoma**. *European Journal of Radiology*, pp.111181, 2023 (2022 IF: 3.3).</li>
+ 
+  <li>Md. Ziaul Hoque, Anja Keskinarkaus, Pia Nyberg, Hongming Xu, Tapio Seppänena. **Invasion Depth Estimation of Carcinoma Cells using Adaptive Stain Normalization to Improve Epidermis Segmentation Accuracy**. *Computerized Medical Imaging and Graphics (CMIG)*, vol.108, pp.102276, 2023 (2022 IF: 5.7) (中科院2区).</li>
+  
+  <li>Dongdong Zhou, Qi Xu, Jian Wang, Hongming Xu, Lauri Kettunen, Zheng Chang, Fengyu Cong. **Alleviating Class Imbalance Problem in Automatic Sleep Stage Classification**. *IEEE Transactions on Instrumentation & Measurement*, vol.71, pp.1-12, 2022 (2022 IF: 5.6) (中科院2区).</li>
+  
+  <li>Jeonghyun Kang, Jae-hoon Lee, Hye-Sun Lee, Eun-Suk Cho, Eun Jung Park, Seung Hyuk Baik, Kang Young Lee, Chihyun Park, Yunku Yeu, Jean Clemenceau, Sunho Park, Hongming Xu, Changjin Hong, Tae Hyun Hwang. **Radiomics Features of F-fluorodeoxyglucose Positron-Emission Tomography as a Novel Prognostic Signature in Colorectal Cancer**. *Cancers*, vol.13, no.3, pp.392, 2021 (IF: 6.636) (中科院2区).</li>
+  
+  <li>Salah Alheejaw, Hongming Xu, Richard Berendt, Naresh Jha, Mrinal Mandal. **Novel lymph node segmentation and proliferation index measurement for skin melanoma biopsy images**. *Computerized Medical Imaging and Graphics (CMIG)*, vol. 73, pp. 19-29, 2019 (IF: 4.79) (中科院2区).</li>
+
+  <li>Cheng Lu, Hongming Xu, Jun Xu, Hannah Gilmore, Mrinal Mandal, Anant Madabhushi. **Multi-pass adaptive voting for nuclei detection in histopathological Images**. *Scientific Reports*, vol. 6, sp. 33985, 2016 (IF: 4.379).</li>
+</ol>
 
 #### Conference Papers
-<li>Huiquan Wang, S. Nizam Ahmed, Hongming Xu, Mrinal Mandal. **Automated detection of cavernous malformations in Brain MRI images**. *In 8th International IEEE EMBS Conference on Neural Engineering*, pp.17-20, 2017.</li>
+<ol>
+  <li>Yaxin Li, Qi Xu, Jiangrong Shen, Hongming Xu, Long Chen, Gang Pan. **Towards efficient deep spiking neural networks construction with spiking activity based pruning**. *Accepted in International Conference on Machine Learning (ICML)*, pp. xx, 2024 (CCF-A).</li>
+  
+  <li>Huiquan Wang, S. Nizam Ahmed, Hongming Xu, Mrinal Mandal. **Automated detection of cavernous malformations in Brain MRI images**. *In 8th International IEEE EMBS Conference on Neural Engineering*, pp.17-20, 2017.</li>
+
+  <li>Huiquan Wang, Hongming Xu, S. Nizam Ahmed, Mrinal Mandal. **Computer aided detection of cavernous malformation in T2-weighted brain MR images**. *In IEEE-NIH Special Topics Conference on Healthcare Innovations and Point-of-Care Technologies*, pp. 101–104, 2016.</li>
+</ol>
