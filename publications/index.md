@@ -144,4 +144,31 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
   <li>Huiquan Wang, S. Nizam Ahmed, <b>Hongming Xu</b>, Mrinal Mandal. “Automated detection of cavernous malformations in Brain MRI images”. In 8th International IEEE EMBS Conference on Neural Engineering, pp.17-20, 2017.</li>
 
   <li>Huiquan Wang, <b>Hongming Xu</b>, S. Nizam Ahmed, Mrinal Mandal. “Computer aided detection of cavernous malformation in T2-weighted brain MR images”. In IEEE-NIH Special Topics Conference on Healthcare Innovations and Point-of-Care Technologies, pp. 101–104, 2016.</li>
+
+</ol>
+### Conference Abstracts
+<ol>
+  <li>Hongming Xu, Yoon Jin Cha, Jean R. Clemenceau, Jinhwan Choi, Sung Hak Lee, Jeonghyun Kang, and Tae Hyun Hwang Tae Hyun Hwang. "Spatial analysis of tumor infiltrating lymphocytes based on deep learning using histopathology image to predict progression-free survival in colorectal cancer".American Association for Cancer Research Annual Meeting (AACR), April 2022 (<b>selected as the Oral Presentation</b>)</li>
+
+  <li>Hongming Xu, Sung Hak Lee and Tae Hyun Hwang. "Transfer learning for tumor mutation burden prediction and spatial heterogeneity analysis from histopathology slides in bladder cancer". American Association for Cancer Research Annual Meeting (AACR), June 2020</li>
+
+  <li>Isaiah S. Pressman, Hongming Xu, Jeonghyun Kang, Yoon Jin Cha, Sung Hak Lee and Tae Hyun Hwang. "Deep learning can predict microsatellite instability from histology in colorectal cancer across different ethnic groups". American Association for Cancer Research Annual Meeting (AACR), June 2020</li>
+
+  <li>Sunho Park, Saehoon Kim, Hongming Xu and Tae Hyun Hwang. "Deep Gaussian processes for weakly supervised learning: tumor mutation burden (TMB) prediction". Bayesian Deep Learning NeurIPS 2019 Workshop, Dec 2019</li>
+
+  <li>Hongming Xu, Sunho Park and Tae Hyun Hwang. "Automatic classification of prostate cancer Gleason scores from digitized whole slide tissue biopsies". In 17th International Workshop on Data Mining in Bioinformatics (BioKDD), August, 2018. (<b>The top-3 oral presentations in BioKDD and poster award, and poster presentation in KDD 2018</b>)</li>
+
+  <li>Hongming Xu, Sunho Park, Sung Hak Lee and Tae Hyun Hwang. "Using transfer learning on whole slide images to predict tumor mutational burden in bladder cancer patients". In 5th Digital Pathology AI Congress: USA, June 2019</li>
+
+  <li>Hongming Xu and Tae Hyun Hwang. "Machine learning for classification of prostate cancer Gleason scores from digitized whole slide tissue biopsies". In 38th Annual Cleveland Clinic Research Day, Sep 2018</li>
+
+  <li>Salah Alheejawi, Hongming Xu, Richard Berendt, Naresh Jha and Mrinal Mandal. "Novel lymph node segmentation for skin cancer biopsy images". In Proceedings of BHI-2018 International Conference on Biomedical and Health Informatics (BHI), Mar 2018
+</li>
+
+ <li>Hongming Xu, Richard Berendt, Naresh Jha and Mrinal Mandal. "Automated diagnosis of melanoma from skin biopsy images". In Proceedings of BHI-2017 International Conference on Biomedical and Health Informatics (BHI), Feb 2017</li>
+
+ <li>Hongming Xu and Mrinal Mandal. "Robust segmentation of regions of interest in skin histopathological images". The 6th Annual Graduate Research Symposium, University of Alberta, June 2015
+Oral Presentation </li>
+
+<li>Hongming Xu and Mrinal Mandal. "A novel technique for nuclei segmentation in skin histopathological images". The 5th Annual Graduate Research Symposium, University of Alberta, June 2014</li>
 </ol>
