@@ -139,9 +139,9 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 
 #### Conference Papers
 <ol>
-  <li>Yaxin Li, Qi Xu, Jiangrong Shen, Hongming Xu, Long Chen, Gang Pan. **Towards efficient deep spiking neural networks construction with spiking activity based pruning**. *Accepted in International Conference on Machine Learning (ICML)*, pp. xx, 2024 (CCF-A).</li>
+  <li>Yaxin Li, Qi Xu, Jiangrong Shen, <b>Hongming Xu</b>, Long Chen, Gang Pan. "Towards efficient deep spiking neural networks construction with spiking activity based pruning". Proceedings of the 41st International Conference on Machine Learning (ICML)*, pp. 29063 - 29073, 2024 (CCF-A类).</li>
   
-  <li>Huiquan Wang, S. Nizam Ahmed, Hongming Xu, Mrinal Mandal. **Automated detection of cavernous malformations in Brain MRI images**. *In 8th International IEEE EMBS Conference on Neural Engineering*, pp.17-20, 2017.</li>
+  <li>Huiquan Wang, S. Nizam Ahmed, <b>Hongming Xu</b>, Mrinal Mandal. “Automated detection of cavernous malformations in Brain MRI images”. In 8th International IEEE EMBS Conference on Neural Engineering, pp.17-20, 2017.</li>
 
-  <li>Huiquan Wang, Hongming Xu, S. Nizam Ahmed, Mrinal Mandal. **Computer aided detection of cavernous malformation in T2-weighted brain MR images**. *In IEEE-NIH Special Topics Conference on Healthcare Innovations and Point-of-Care Technologies*, pp. 101–104, 2016.</li>
+  <li>Huiquan Wang, <b>Hongming Xu</b>, S. Nizam Ahmed, Mrinal Mandal. “Computer aided detection of cavernous malformation in T2-weighted brain MR images”. In IEEE-NIH Special Topics Conference on Healthcare Innovations and Point-of-Care Technologies, pp. 101–104, 2016.</li>
 </ol>
