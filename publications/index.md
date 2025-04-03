@@ -146,6 +146,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
   <li>Huiquan Wang, <b>Hongming Xu</b>, S. Nizam Ahmed, Mrinal Mandal. “Computer aided detection of cavernous malformation in T2-weighted brain MR images”. In IEEE-NIH Special Topics Conference on Healthcare Innovations and Point-of-Care Technologies, pp. 101–104, 2016.</li>
 
 </ol>
+
 ### Conference Abstracts
 <ol>
   <li>Hongming Xu, Yoon Jin Cha, Jean R. Clemenceau, Jinhwan Choi, Sung Hak Lee, Jeonghyun Kang, and Tae Hyun Hwang Tae Hyun Hwang. "Spatial analysis of tumor infiltrating lymphocytes based on deep learning using histopathology image to predict progression-free survival in colorectal cancer".American Association for Cancer Research Annual Meeting (AACR), April 2022 (<b>selected as the Oral Presentation</b>)</li>
