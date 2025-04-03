@@ -114,27 +114,27 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 
 ### Book Chapters
 <ol>
-   <li>Salah Alheejawi, Mrinal Mandal, Hongming Xu, Cheng Lu, Richard Berendt and Naresh Jha. **Deep learning based histopathological image analysis for automated detection and staging of melanoma**. *Book Chapter in Deep Learning Techniques for Biomedical and Health Informatics*, pp. 237-265, Chapter 10, Springer, 2020.</li>
+   <li>Salah Alheejawi, Mrinal Mandal, <b>Hongming Xu</b>, Cheng Lu, Richard Berendt and Naresh Jha. "Deep learning based histopathological image analysis for automated detection and staging of melanoma". Book Chapter in Deep Learning Techniques for Biomedical and Health Informatics, pp. 237-265, Chapter 10, Springer, 2020.</li>
 </ol>
 
 ### Co-auhor Publications
 #### Journal Papers
 <ol>
-  <li>Dongdong Zhou, Qi Xu, Jiacheng Zhang, Lei Wu, Hongming Xu, Lauri Kettunen, Zheng Chang, Qiang Zhang, Fengyu Cong. **Interpretable Sleep Stage Classification Based on Layer-wise Relevance Propagation**. *Accepted at IEEE Transactions on Instrumentation and Measurement*, Jan 2024 (2022 IF: 5.6) (中科院2区).</li>
+  <li>Dongdong Zhou, Qi Xu, Jiacheng Zhang, Lei Wu, <b>Hongming Xu</b>, Lauri Kettunen, Zheng Chang, Qiang Zhang, Fengyu Cong. "Interpretable Sleep Stage Classification Based on Layer-wise Relevance Propagation". IEEE Transactions on Instrumentation and Measurement, vol.73, pp.3511710, 2024 (2022 IF: 5.6) (中科院2区).</li>
   
-  <li>Qin, Fengying#, Xinyan Sun, Mingke Tian, Shan Jin, Jian Yu, Jing Song, Feng Wen, Hongming Xu, Tao Yu, Yue Dong*. **Prediction of lymph node metastasis in operable cervical cancer using clinical parameters and deep learning with MRI data: a multicentre study**. *Insights into Imaging*, vo.15, no.1, pp.1-14, 2024 (2022 IF: 4.7) (中科院2区).</li>
+  <li>Qin, Fengying, Xinyan Sun, Mingke Tian, Shan Jin, Jian Yu, Jing Song, Feng Wen, <b>Hongming Xu</b>, Tao Yu, Yue Dong. "Prediction of lymph node metastasis in operable cervical cancer using clinical parameters and deep learning with MRI data: a multicentre study". Insights into Imaging, vo.15, no.1, pp.1-14, 2024 (2022 IF: 4.7) (中科院2区).</li>
 
-  <li>Qin, Fengying, Huiting Pang, Jintao Ma, Hongming Xu, Tao Yu, Yahong Luo, Yue Dong. **The value of multiparametric MRI combined with clinical prognostic parameters in predicting the 5-year survival of stage IIIC1 cervical squamous cell carcinoma**. *European Journal of Radiology*, pp.111181, 2023 (2022 IF: 3.3).</li>
+  <li>Qin, Fengying, Huiting Pang, Jintao Ma, <b>Hongming Xu</b>, Tao Yu, Yahong Luo, Yue Dong. "The value of multiparametric MRI combined with clinical prognostic parameters in predicting the 5-year survival of stage IIIC1 cervical squamous cell carcinoma". European Journal of Radiology, pp.111181, 2023 (2022 IF: 3.3).</li>
  
-  <li>Md. Ziaul Hoque, Anja Keskinarkaus, Pia Nyberg, Hongming Xu, Tapio Seppänena. **Invasion Depth Estimation of Carcinoma Cells using Adaptive Stain Normalization to Improve Epidermis Segmentation Accuracy**. *Computerized Medical Imaging and Graphics (CMIG)*, vol.108, pp.102276, 2023 (2022 IF: 5.7) (中科院2区).</li>
+  <li>Md. Ziaul Hoque, Anja Keskinarkaus, Pia Nyberg, <b>Hongming Xu</b>, Tapio Seppänena. "Invasion Depth Estimation of Carcinoma Cells using Adaptive Stain Normalization to Improve Epidermis Segmentation Accuracy". Computerized Medical Imaging and Graphics (CMIG), vol.108, pp.102276, 2023 (2022 IF: 5.7) (中科院2区).</li>
   
-  <li>Dongdong Zhou, Qi Xu, Jian Wang, Hongming Xu, Lauri Kettunen, Zheng Chang, Fengyu Cong. **Alleviating Class Imbalance Problem in Automatic Sleep Stage Classification**. *IEEE Transactions on Instrumentation & Measurement*, vol.71, pp.1-12, 2022 (2022 IF: 5.6) (中科院2区).</li>
+  <li>Dongdong Zhou, Qi Xu, Jian Wang, <b>Hongming Xu</b>, Lauri Kettunen, Zheng Chang, Fengyu Cong. "Alleviating Class Imbalance Problem in Automatic Sleep Stage Classification". IEEE Transactions on Instrumentation and Measurement, vol.71, pp.1-12, 2022 (2022 IF: 5.6) (中科院2区).</li>
   
-  <li>Jeonghyun Kang, Jae-hoon Lee, Hye-Sun Lee, Eun-Suk Cho, Eun Jung Park, Seung Hyuk Baik, Kang Young Lee, Chihyun Park, Yunku Yeu, Jean Clemenceau, Sunho Park, Hongming Xu, Changjin Hong, Tae Hyun Hwang. **Radiomics Features of F-fluorodeoxyglucose Positron-Emission Tomography as a Novel Prognostic Signature in Colorectal Cancer**. *Cancers*, vol.13, no.3, pp.392, 2021 (IF: 6.636) (中科院2区).</li>
+  <li>Jeonghyun Kang, Jae-hoon Lee, Hye-Sun Lee, Eun-Suk Cho, Eun Jung Park, Seung Hyuk Baik, Kang Young Lee, Chihyun Park, Yunku Yeu, Jean Clemenceau, Sunho Park, <b>Hongming Xu</b>, Changjin Hong, Tae Hyun Hwang. "Radiomics Features of F-fluorodeoxyglucose Positron-Emission Tomography as a Novel Prognostic Signature in Colorectal Cancer". Cancers, vol.13, no.3, pp.392, 2021 (IF: 6.636) (中科院2区).</li>
   
-  <li>Salah Alheejaw, Hongming Xu, Richard Berendt, Naresh Jha, Mrinal Mandal. **Novel lymph node segmentation and proliferation index measurement for skin melanoma biopsy images**. *Computerized Medical Imaging and Graphics (CMIG)*, vol. 73, pp. 19-29, 2019 (IF: 4.79) (中科院2区).</li>
+  <li>Salah Alheejaw, <b>Hongming Xu</b>, Richard Berendt, Naresh Jha, Mrinal Mandal. "Novel lymph node segmentation and proliferation index measurement for skin melanoma biopsy images". Computerized Medical Imaging and Graphics (CMIG), vol. 73, pp. 19-29, 2019 (IF: 4.79) (中科院2区).</li>
 
-  <li>Cheng Lu, Hongming Xu, Jun Xu, Hannah Gilmore, Mrinal Mandal, Anant Madabhushi. **Multi-pass adaptive voting for nuclei detection in histopathological Images**. *Scientific Reports*, vol. 6, sp. 33985, 2016 (IF: 4.379).</li>
+  <li>Cheng Lu, <b>Hongming Xu</b>, Jun Xu, Hannah Gilmore, Mrinal Mandal, Anant Madabhushi. "Multi-pass adaptive voting for nuclei detection in histopathological Images". Scientific Reports, vol. 6, sp. 33985, 2016 (IF: 4.379).</li>
 </ol>
 
 #### Conference Papers
