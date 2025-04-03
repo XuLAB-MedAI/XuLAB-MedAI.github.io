@@ -82,31 +82,34 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 #### Conference Papers
 
 <ol>
-<li>Mingkang Wang, Tong Wang, Fengyu Cong, Cheng Lu*, Hongming Xu*. "Double-tier Attention based Multi-label Learning Network for Predicting Biomarkers from Whole Slide Images of Breast Cancer". International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)*, pp. 91-101, 2024 (CCF-B，医学图像处理顶会).</li>
 
-<li>Yali Wang, Haochun Shi, Xingye Qiao, Mingkang Wang, Fengyu Cong, Yanbin Zhao, Hongming Xu*. **Benchmarking Deep Learning Models for Zebrafish Ventricle Segmentation**. *In 4th International Conference on Image, Vision and Intelligent Systems*, pp. xx, 2024.</li>
+<li>Tong Wang, Mingkang Wang, Zhongze Wang, Hongkai Wang, Qi Xu, Fengyu Cong, <b>Hongming Xu*</b>. "ODA-GAN:Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised Learning for Virtual Immunohistochemistry Staining". Accepted by <b>The IEEE/CVF Computer Vision and Pattern Recognition (CVPR)</b>, 2024 (CCF-A，CV领域顶会).</li>
 
-<li>Qiao Chen, Hongming Xu*, Huamin Qin, Xinyu Hao, Shan Jin, Timo Hämäläinen, Fengyu Cong. **Comparative Validation of Graph Neural Networks for Glioma Grading in Whole Slide Images**. *In 4th International Conference on Image, Vision and Intelligent Systems*, pp. xx, 2024.</li>
+<li>Mingkang Wang, Tong Wang, Fengyu Cong, Cheng Lu*, <b>Hongming Xu*</b>. "Double-tier Attention based Multi-label Learning Network for Predicting Biomarkers from Whole Slide Images of Breast Cancer". <b>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</b>, pp. 91-101, 2024 (CCF-B，医学图像处理顶会).</li>
 
-<li>Junxiu Gao, Shan Jin, Ranran Wang, Mingkang Wang, Tong Wang, Hongming Xu*. **Dual-stream Context-aware Neural Network for Survival Prediction from Whole Slide Images**. *In Chinese Conference on Pattern Recognition and Computer Vision (PRCV)*, pp.3-14, 2023 (CCF-C, Acceptance rate: 37.95%).</li>
+<li>Yali Wang, Haochun Shi, Xingye Qiao, Mingkang Wang, Fengyu Cong, Yanbin Zhao, <b>Hongming Xu*</b>. "Benchmarking Deep Learning Models for Zebrafish Ventricle Segmentation". In 4th International Conference on Image, Vision and Intelligent Systems (ICIVIS), pp. xx, 2024.</li>
 
-<li>Junxiu Gao, Xinyu Hao, Shan Jin, Hongming Xu*. **Self-supervised contrastive pre-training integrated with multi-level co-attention for survival prognosis from whole slide images**. *In 3rd International Conference on Image, Vision and Intelligent Systems*, pp. 650-658, 2023.</li>
+<li>Qiao Chen, <b>Hongming Xu*</b>, Huamin Qin, Xinyu Hao, Shan Jin, Timo Hämäläinen, Fengyu Cong. "Comparative Validation of Graph Neural Networks for Glioma Grading in Whole Slide Images". In 4th International Conference on Image, Vision and Intelligent Systems (ICIVIS), pp. xx, 2024.</li>
 
-<li>Xinyu Hao, Hongming Xu*, Zhao Nannan, Yu Tao, Hamalainen Timo, Fengyu Cong. **Predicting pathological complete response based on weakly and semi-supervised joint learning from breast cancer MRI**. *In 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, pp. 1-4, 2023.</li>
+<li>Junxiu Gao, Shan Jin, Ranran Wang, Mingkang Wang, Tong Wang, <b>Hongming Xu*</b>. "Dual-stream Context-aware Neural Network for Survival Prediction from Whole Slide Images". <b>In Chinese Conference on Pattern Recognition and Computer Vision (PRCV)</b>, pp.3-14, 2023 (CCF-C类, Acceptance rate: 37.95%).</li>
 
-<li>Ranran Wang, Yusong Qiu, Yong Zhang, Hongming Xu*. **SRSA-Net: Separable ResUnit and Self-Attention optimized network for simultaneous nuclei segmentation and classification in histology images**. *In Asian-Pacific Conference on Medical and Biological Engineering*, pp. 105-112, 2023.</li>
+<li>Junxiu Gao, Xinyu Hao, Shan Jin, <b>Hongming Xu*</b>. “Self-supervised contrastive pre-training integrated with multi-level co-attention for survival prognosis from whole slide images”. In 3rd International Conference on Image, Vision and Intelligent Systems (ICIVIS), pp. 650-658, 2023.</li>
 
-<li>Shan Jin, Hongming Xu*, Yue Dong, Xinyu Hao, Fengying Qin, Ranran Wang, Fengyu Cong. **Multiple instance learning for lymph node metastasis prediction from cervical cancer MRI**. *In 20th IEEE International Symposium on Biomedical Imaging (ISBI)*, pp. 1-4, 2023.</li>
+<li>Xinyu Hao, <b>Hongming Xu*</b>, Zhao Nannan, Yu Tao, Hamalainen Timo, Fengyu Cong. "Predicting pathological complete response based on weakly and semi-supervised joint learning from breast cancer MRI". In 45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), pp. 1-4, 2023.</li>
 
-<li>Hongming Xu, Tae Hyun Hwang. **Statistical Local Binary Patterns (SLBP): application to prostate cancer Gleason score prediction from whole slide pathology images**. *In 16th IEEE International Symposium on Biomedical Imaging (ISBI)*, pp. 895-899, 2019.</li>
+<li>Ranran Wang, Yusong Qiu, Yong Zhang, <b>Hongming Xu*</b>. "SRSA-Net: Separable ResUnit and Self-Attention optimized network for simultaneous nuclei segmentation and classification in histology images". In Asian-Pacific Conference on Medical and Biological Engineering, pp. 105-112, 2023.</li>
 
-<li>Hongming Xu, Huiquan Wang, Richard Berendt, Naresh Jha, Mrinal Mandal. **Computerized measurement of melanoma depth of invasion in skin biopsy images**. *In 2017 International Conference on Biomedical and Health Informatics (BHI)*, pp. 17-20, 2017 (Acceptance Rate: 38%).</li>
+<li>Shan Jin, <b>Hongming Xu*</b>, Yue Dong, Xinyu Hao, Fengying Qin, Ranran Wang, Fengyu Cong. "Multiple instance learning for lymph node metastasis prediction from cervical cancer MRI". <b>In 20th IEEE International Symposium on Biomedical Imaging (ISBI)</b>, pp. 1-4, 2023.</li>
 
-<li>Hongming Xu, Huiquan Wang, Richard Berendt, Naresh Jha, Mrinal Mandal. **Automated nuclear segmentation in skin histopathological images using multi-scale radial line scanning**. *In IEEE-NIH Special Topics Conference on Healthcare Innovations and Point-of-Care Technologies*, pp. 175-178, 2016.</li>
+<li><b>Hongming Xu</b>, Tae Hyun Hwang. "Statistical Local Binary Patterns (SLBP): application to prostate cancer Gleason score prediction from whole slide pathology images". <b>In 16th IEEE International Symposium on Biomedical Imaging (ISBI)</b>, pp. 895-899, 2019.</li>
 
-<li>Hongming Xu, Mrinal Mandal. **Eficient segmentation of skin epidermis in whole slide histopathological images**. *In Proceedings of 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, pp. 3869-3872, 2015.</li>
+<li><b>Hongming Xu</b>, Huiquan Wang, Richard Berendt, Naresh Jha, Mrinal Mandal. "Computerized measurement of melanoma depth of invasion in skin biopsy images". In 2017 International Conference on Biomedical and Health Informatics (BHI), pp. 17-20, 2017 (Acceptance Rate: 38%).</li>
 
-<li>Hongming Xu, Cheng Lu, Mrinal Mandal. **Automated segmentation of regions of interest in whole slide skin histopathological images**. *In Proceedings of 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)*, pp. 3855-3858, 2015.</li>
+<li><b>Hongming Xu</b>, Huiquan Wang, Richard Berendt, Naresh Jha, Mrinal Mandal. "Automated nuclear segmentation in skin histopathological images using multi-scale radial line scanning". In IEEE-NIH Special Topics Conference on Healthcare Innovations and Point-of-Care Technologies, pp. 175-178, 2016.</li>
+
+<li><b>Hongming Xu</b>, Mrinal Mandal. "Eficient segmentation of skin epidermis in whole slide histopathological images". In Proceedings of 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), pp. 3869-3872, 2015.</li>
+
+<li><b>Hongming Xu</b>, Cheng Lu, Mrinal Mandal. "Automated segmentation of regions of interest in whole slide skin histopathological images". In Proceedings of 37th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), pp. 3855-3858, 2015.</li>
 </ol>
 
 ### Book Chapters
