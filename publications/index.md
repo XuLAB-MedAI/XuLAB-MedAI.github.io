@@ -83,7 +83,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 
 <ol>
 
-<li>Tong Wang, Mingkang Wang, Zhongze Wang, Hongkai Wang, Qi Xu, Fengyu Cong, <b>Hongming Xu*</b>. "ODA-GAN:Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised Learning for Virtual Immunohistochemistry Staining". Accepted by <b>The IEEE/CVF Computer Vision and Pattern Recognition (CVPR)</b>, 2024 (CCF-A，CV领域顶会).</li>
+<li>Tong Wang, Mingkang Wang, Zhongze Wang, Hongkai Wang, Qi Xu, Fengyu Cong, <b>Hongming Xu*</b>. "ODA-GAN:Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised Learning for Virtual Immunohistochemistry Staining". Accepted by <b>The IEEE/CVF Computer Vision and Pattern Recognition (CVPR)</b>, 2025 (CCF-A，CV领域顶会).</li>
 
 <li>Mingkang Wang, Tong Wang, Fengyu Cong, Cheng Lu*, <b>Hongming Xu*</b>. "Double-tier Attention based Multi-label Learning Network for Predicting Biomarkers from Whole Slide Images of Breast Cancer". <b>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</b>, pp. 91-101, 2024 (CCF-B，医学图像处理顶会).</li>
 
