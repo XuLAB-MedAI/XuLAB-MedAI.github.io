@@ -1,10 +1,10 @@
 ---
-name: Qaio Chen
+name: Qiao Chen
 image: images/team/ChenQ.jpg
 description: Doctor Student
 role: phd
 aliases:
-  - Qaio Chen
+  - Qiao Chen
   - Q. Chen
   - Q Chen
 links:
