@@ -42,7 +42,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 
 <li>Shan Jin, <b>Hongming Xu*</b>, Yue Dong, Xiaofeng Wang, Xinyu Hao, Fengying Qin, Ranran Wang, Fengyu Cong. "Ranking attention multiple instance learning for lymph node metastasis prediction on multicenter cervical cancer MRI". <b>Journal of Applied Clinical Medical Physics</b>, e14547, 2024 (2023 IF: 2.0).</li>
 
-<li>Xinyu Hao,<b>Hongming Xu*</b>, Nannan Zhao, Tao Yu, Timo Hamalainenc, Fengyu Cong. "Predicting pathological complete response based on weakly and semi-supervised joint learning in breast cancer multi-parametric MRI". <b>Biomedical Signal Processing and Control (BSPC)</b>, 93 (2024): 106164 (2022 IF: 5.1) (中科院2区).</li>
+<li>Xinyu Hao, <b>Hongming Xu*</b>, Nannan Zhao, Tao Yu, Timo Hamalainenc, Fengyu Cong. "Predicting pathological complete response based on weakly and semi-supervised joint learning in breast cancer multi-parametric MRI". <b>Biomedical Signal Processing and Control (BSPC)</b>, 93 (2024): 106164 (2022 IF: 5.1) (中科院2区).</li>
 
 <li>Ranran Wang, Yusong Qiu, Xinyu Hao, Shan Jin, Junxiu Gao, Heng Qi, Qi Xu, Yong Zhang*, <b>Hongming Xu*</b>. "Simultaneously segmenting and classifying cell nuclei by using multi-task learning in multiplex immunohistochemical tissue microarray sections". <b>Biomedical Signal Processing and Control (BSPC)</b>, 93 (2024): 106143 (2022 IF: 5.1) (中科院2区).</li>
 
@@ -85,13 +85,15 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 
 <li>Tong Wang, Mingkang Wang, Zhongze Wang, Hongkai Wang, Qi Xu, Fengyu Cong, <b>Hongming Xu*</b>. "ODA-GAN:Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised Learning for Virtual Immunohistochemistry Staining". Accepted by <b>The IEEE/CVF Computer Vision and Pattern Recognition (CVPR)</b>, 2025 (CCF-A，CV领域顶会).</li>
 
-<li>Hongbo Liu,<b>Hongming Xu*</b>, Xinyu Hao, Mingliang Zhang, Cheng Lu, Ilkka, Polonen, and Fengyu Cong. "UNI-HoverNet: nuclei segmentation and classification across diverse tissue sections based on the UNI foundation model". Accepted by the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2025 </li> 
+<li>Qiao Chen, <b>Hongming Xu*</b>, Xinyu Hao, Qibin Zhang, Huamin Qin, Tommi Karkkainen, and Fengyu Cong. "Distilling Genomic Knowledge into Whole Slide Imaging for Glioma Molecular Classification". Accepted by the 38th IEEE International Symposium on Computer-Based Medical Systems (CBMS), 2025 </li> 
+
+<li>Hongbo Liu, <b>Hongming Xu*</b>, Xinyu Hao, Mingliang Zhang, Cheng Lu, Ilkka, Polonen, and Fengyu Cong. "UNI-HoverNet: nuclei segmentation and classification across diverse tissue sections based on the UNI foundation model". Accepted by the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2025 </li> 
   
-<li>Shan Jin,<b>Hongming Xu*</b>, Yanmei Zhu, Xiaozhuo Gao, Mingkang Wang, and Fengyu Cong. "Multi-Scale Multiple Instance Learning for Lymph Node Metastasis Prediction in Early Gastric Cancer". Accepted by the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2025 </li> 
+<li>Shan Jin, <b>Hongming Xu*</b>, Yanmei Zhu, Xiaozhuo Gao, Mingkang Wang, and Fengyu Cong. "Multi-Scale Multiple Instance Learning for Lymph Node Metastasis Prediction in Early Gastric Cancer". Accepted by the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2025 </li> 
   
-<li>Xiaorui Ma,<b>Hongming Xu*</b>, Ranran Wang, Liqun Zhang, and Jingdong Zhang. "Predicting the efficacy of first-line therapy for patients with colorectal cancer liver metastases using CT imaging and clinical data". Accepted by the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2025 </li> 
+<li>Xiaorui Ma, <b>Hongming Xu*</b>, Ranran Wang, Liqun Zhang, and Jingdong Zhang. "Predicting the efficacy of first-line therapy for patients with colorectal cancer liver metastases using CT imaging and clinical data". Accepted by the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2025 </li> 
   
-<li>Xinyu Hao,<b>Hongming Xu*</b>, Hongbo Liu, Timo Hamalainen, and Fengyu Cong. "Immunohistochemical information integrated pre-training improves HER2 status prediction from whole slide images of breast cancer". Accepted by the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2025 </li> 
+<li>Xinyu Hao, <b>Hongming Xu*</b>, Hongbo Liu, Timo Hamalainen, and Fengyu Cong. "Immunohistochemical information integrated pre-training improves HER2 status prediction from whole slide images of breast cancer". Accepted by the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2025 </li> 
    
 <li>Mingkang Wang, Tong Wang, Fengyu Cong, Cheng Lu*, <b>Hongming Xu*</b>. "Double-tier Attention based Multi-label Learning Network for Predicting Biomarkers from Whole Slide Images of Breast Cancer". <b>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</b>, pp. 91-101, 2024 (CCF-B，医学图像处理顶会).</li>
 
