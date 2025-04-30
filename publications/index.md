@@ -85,6 +85,14 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 
 <li>Tong Wang, Mingkang Wang, Zhongze Wang, Hongkai Wang, Qi Xu, Fengyu Cong, <b>Hongming Xu*</b>. "ODA-GAN:Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised Learning for Virtual Immunohistochemistry Staining". Accepted by <b>The IEEE/CVF Computer Vision and Pattern Recognition (CVPR)</b>, 2025 (CCF-A，CV领域顶会).</li>
 
+<li>Hongbo Liu,<b>Hongming Xu*</b>, Xinyu Hao, Mingliang Zhang, Cheng Lu, Ilkka, Polonen, and Fengyu Cong. "UNI-HoverNet: nuclei segmentation and classification across diverse tissue sections based on the UNI foundation model". Accepted by the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2025 </li> 
+  
+<li>Shan Jin,<b>Hongming Xu*</b>, Yanmei Zhu, Xiaozhuo Gao, Mingkang Wang, and Fengyu Cong. "Multi-Scale Multiple Instance Learning for Lymph Node Metastasis Prediction in Early Gastric Cancer". Accepted by the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2025 </li> 
+  
+<li>Xiaorui Ma,<b>Hongming Xu*</b>, Ranran Wang, Liqun Zhang, and Jingdong Zhang. "Predicting the efficacy of first-line therapy for patients with colorectal cancer liver metastases using CT imaging and clinical data". Accepted by the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2025 </li> 
+  
+<li>Xinyu Hao,<b>Hongming Xu*</b>, Hongbo Liu, Timo Hamalainen, and Fengyu Cong. "Immunohistochemical information integrated pre-training improves HER2 status prediction from whole slide images of breast cancer". Accepted by the 47th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2025 </li> 
+   
 <li>Mingkang Wang, Tong Wang, Fengyu Cong, Cheng Lu*, <b>Hongming Xu*</b>. "Double-tier Attention based Multi-label Learning Network for Predicting Biomarkers from Whole Slide Images of Breast Cancer". <b>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</b>, pp. 91-101, 2024 (CCF-B，医学图像处理顶会).</li>
 
 <li>Yali Wang, Haochun Shi, Xingye Qiao, Mingkang Wang, Fengyu Cong, Yanbin Zhao, <b>Hongming Xu*</b>. "Benchmarking Deep Learning Models for Zebrafish Ventricle Segmentation". In 4th International Conference on Image, Vision and Intelligent Systems (ICIVIS), pp. xx, 2024.</li>
