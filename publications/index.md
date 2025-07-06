@@ -83,7 +83,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 
 <ol>
 
-<li>Tong Wang, Mingkang Wang, Zhongze Wang, Hongkai Wang, Qi Xu, Fengyu Cong, <b>Hongming Xu*</b>. "ODA-GAN:Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised Learning for Virtual Immunohistochemistry Staining". Accepted by <b>The IEEE/CVF Computer Vision and Pattern Recognition (CVPR)</b>, 2025 (CCF-A，CV领域顶会).</li>
+<li>Tong Wang, Mingkang Wang, Zhongze Wang, Hongkai Wang, Qi Xu, Fengyu Cong, <b>Hongming Xu*</b>. "ODA-GAN:Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised Learning for Virtual Immunohistochemistry Staining". <b>The IEEE/CVF Computer Vision and Pattern Recognition (CVPR)</b>, pp. 25920-25929, 2025 (CCF-A，CV领域顶会).</li>
 
 <li>Qiao Chen, <b>Hongming Xu*</b>, Xinyu Hao, Qibin Zhang, Huamin Qin, Tommi Karkkainen, and Fengyu Cong. "Distilling Genomic Knowledge into Whole Slide Imaging for Glioma Molecular Classification". Accepted by the 38th IEEE International Symposium on Computer-Based Medical Systems (CBMS), 2025 </li> 
 
