@@ -82,8 +82,9 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 #### Conference Papers
 
 <ol>
+<li>Xinyu Hao, <b>Hongming Xu*</b>, Qibin Zhang, Qi Xu, Ilkka Polonen, and Fengyu Cong. "Predicting Radiation Therapy Response based on Dynamic Temporal Feature Difference Fusion from Longitudinal MRI". Accepted by <b>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</b>, 2025 (CCF-B，医学图像处理顶会).</li>
 
-<li>Tong Wang, Mingkang Wang, Zhongze Wang, Hongkai Wang, Qi Xu, Fengyu Cong, <b>Hongming Xu*</b>. "ODA-GAN:Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised Learning for Virtual Immunohistochemistry Staining". <b>The IEEE/CVF Computer Vision and Pattern Recognition (CVPR)</b>, pp. 25920-25929, 2025 (CCF-A，CV领域顶会).</li>
+<li>Tong Wang, Mingkang Wang, Zhongze Wang, Hongkai Wang, Qi Xu, Fengyu Cong, and <b>Hongming Xu*</b>. "ODA-GAN:Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised Learning for Virtual Immunohistochemistry Staining". <b>Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)</b>, pp. 25920-25929, 2025 (CCF-A，CV领域顶会).</li>
 
 <li>Qiao Chen, <b>Hongming Xu*</b>, Xinyu Hao, Qibin Zhang, Huamin Qin, Tommi Karkkainen, and Fengyu Cong. "Distilling Genomic Knowledge into Whole Slide Imaging for Glioma Molecular Classification". Accepted by the 38th IEEE International Symposium on Computer-Based Medical Systems (CBMS), 2025 </li> 
 
