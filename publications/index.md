@@ -154,7 +154,9 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 
 #### Conference Papers
 <ol>
-  <li>Yaxin Li, Qi Xu, Jiangrong Shen, <b>Hongming Xu</b>, Long Chen, Gang Pan. "Towards efficient deep spiking neural networks construction with spiking activity based pruning". Proceedings of the 41st International Conference on Machine Learning (ICML)*, pp. 29063 - 29073, 2024 (CCF-A类).</li>
+   <li>Wei Miao, Jiangrong Shen, <b>Hongming Xu</b>, Tommi Kärkkäinen, Qi Xu, Yi Xu, Fengyu Cong. "Advanced SpikingYOLOX: Extending Spiking Neural Network on Object Detection with Spike-based Partial Self-Attention and 2D-Spiking Transformer". Accepted by ACM Multimedia, 2025 (CCF-A类).</li>
+  
+  <li>Yaxin Li, Qi Xu, Jiangrong Shen, <b>Hongming Xu</b>, Long Chen, Gang Pan. "Towards efficient deep spiking neural networks construction with spiking activity based pruning". Proceedings of the 41st International Conference on Machine Learning (ICML), pp. 29063 - 29073, 2024 (CCF-A类).</li>
   
   <li>Huiquan Wang, S. Nizam Ahmed, <b>Hongming Xu</b>, Mrinal Mandal. “Automated detection of cavernous malformations in Brain MRI images”. In 8th International IEEE EMBS Conference on Neural Engineering, pp.17-20, 2017.</li>
 
