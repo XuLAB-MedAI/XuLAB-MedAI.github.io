@@ -36,6 +36,11 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 #### Journal Papers
 
 <ol>
+<li>Xinyu Hao, <b>Hongming Xu*</b>, Xiaofeng Wang, Tong Wang, Timo Hamalainen, Fengyu Cong. "Cyclic translations between pathomics and genomics improve automatic cancer diagnosis from whole slide images". <b>Engineering Applications of Artificial Intelligence (EAAI)</b>, pp.112302 2025 (2024 IF: 8.0)(中科院1区-Top).</li>
+  
+<li>Yali Wang, Haochun Shi, Xingye Qiao, Fengyu Cong, Yanbin Zhao, <b>Hongming Xu*</b>. "Exploring universal segmentation models for automatic quantification
+of cardiac functional parameters from zebrafish heartbeat videos". <b>Medical & Biological Engineering & Computing (MBEC)</b>, Sep. 2025 (2024 IF: 2.6).</li>
+
 <li><b>Hongming Xu#</b>, Mingkang Wang, Duanbo Shi, Huamin Qin, Yunpeng Zhang, Zaiyi Liu, Anant Madabhushi, Peng Gao, Fengyu Cong, Cheng Lu*. "When multiple instance learning meets foundation models: Advancing histological whole slide image analysis". <b>Medical Image Analysis (MedIA)</b>, pp.103456, 2025 (2023 IF: 10.7) (中科院1区-Top).</li>
 
 <li>Tong Wang#, Su-Jin Shin#, Mingkang Wang, Qi Xu, Guiyang Jiang, Fengyu Cong, Jeonghyun Kang, <b>Hongming Xu*</b>. "Multi-task Adaptive Resolution Network for Lymph Node Metastasis Diagnosis from Whole Slide Images of Colorectal Cancer". <b>IEEE Journal of Biomedical and Health Informatics (JBHI) </b>, vol.29, no.1, pp.420-432, 2025 (2023 IF: 6.7) (中科院1区-Top).</li>
