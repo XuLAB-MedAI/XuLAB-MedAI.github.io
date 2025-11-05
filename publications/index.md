@@ -36,6 +36,9 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 #### Journal Papers
 
 <ol>
+
+<li>Qibin Zhang, Xinyu Hao, Tong Wang, Yanmei Zhu, Yaqi Du, Peng Gao, Fengyu Cong, Cheng Lu*, and <b>Hongming Xu*</b>. "Online Teaching: Distilling Decomposed Multimodal Knowledge for Breast Cancer Biomarker Prediction". <b>Accepted By IEEE Transactions on Medical Imaging (TMI)</b>, Oct.2025 (2024 IF: 9.8)(中科院1区-Top).</li>
+
 <li>Xinyu Hao, <b>Hongming Xu*</b>, Xiaofeng Wang, Tong Wang, Timo Hamalainen, Fengyu Cong. "Cyclic translations between pathomics and genomics improve automatic cancer diagnosis from whole slide images". <b>Engineering Applications of Artificial Intelligence (EAAI)</b>, pp.112302 2025 (2024 IF: 8.0)(中科院1区-Top).</li>
   
 <li>Yali Wang, Haochun Shi, Xingye Qiao, Fengyu Cong, Yanbin Zhao, <b>Hongming Xu*</b>. "Exploring universal segmentation models for automatic quantification
