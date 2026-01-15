@@ -92,6 +92,15 @@ of cardiac functional parameters from zebrafish heartbeat videos". <b>Medical & 
 #### Conference Papers
 
 <ol>
+
+<li>Kaiqi Qiang, <b>Hongming Xu*</b>, Qibin Zhang, Chen Wu, Fengyu Cong, and Haozhe Piao. "Toward Modality-Robust Brain Tumor Segmentation: Distilling Foundation Models for Incomplete MRI Scans". Accepted by <b> IEEE-ISBI (ISBI)</b>, 2026.</li>
+  
+<li>Yuqi Ding, Mingde Xu, Xinyu Hao, Juan Su, Yiyao Sun, Mingchen Jiang, Chunna Yang, and <b>Hongming Xu*</b>. "Segmentation-Guided Multi-Task Learning for MRI-Based Prediction of Brain Metastasis Origin". Accepted by <b> IEEE-ISBI (ISBI)</b>, 2026.</li>
+  
+<li>Chen Wu, Qibin Zhang, Bo Zhu, and <b>Hongming Xu*</b>. "MSFF-ST: A Multi-Scale Feature Fusion Model for Spatial Transcriptomics Prediction". Accepted by <b> IEEE-BIBM (BIBM)</b>, 2025.</li>
+  
+<li>Xingye Qiao, <b>Hongming Xu*</b>, Weiwei Zhou, Yipeng Xu, Qiao Li, Yang Zhou, Jiaxin Zhou, and Fengyu Cong. "A Two-stage Coarse-to-fine Detection Model Integrating YOLO11 and VGG16 for Cell Subtyping in High-Content Imaging". Accepted by <b> Proc.MVIPIT (MVIPIT)</b>, 2025 (Best Paper Award).</li>
+  
 <li>Qibin Zhang, Xinyu Hao, Qiao Chen, Rui Xu, Fengyu Cong, Cheng Lu*, and <b>Hongming Xu*</b>. "Multi-modal Knowledge Decomposition based Online Distillation for Biomarker Prediction in Breast Cancer Histopathology". In <b>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</b>,  pp. 353-363. Cham: Springer Nature Switzerland, 2025 (CCF-B，医学图像处理顶会).</li>
   
 <li>Xinyu Hao, <b>Hongming Xu*</b>, Qibin Zhang, Qi Xu, Ilkka Polonen, and Fengyu Cong. "Dual Selective Gleason Pattern-Aware Multiple Instance Learning for Grade Group Prediction in Histopathology Images". In <b>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</b>,  pp. 187-196. Cham: Springer Nature Switzerland, 2025 (CCF-B，医学图像处理顶会).</li>
