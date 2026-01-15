@@ -37,6 +37,8 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 
 <ol>
 
+<li>Zhou, Weiwei, Tong Wang, Huaiyu Zhu, Zeng Yan, Fengyu Cong, Guiyang Jiang, and <b>Hongming Xu*</b>. "TB-YOLO: Automated tumor budding detection in immunohistochemistry slides of colorectal cancer". <b>Biomedical Signal Processing and Control (BSPC)</b>, 116 (2026): 109456. (2024 IF: 4.9)(中科院2区).</li>
+
 <li>Qibin Zhang, Xinyu Hao, Tong Wang, Yanmei Zhu, Yaqi Du, Peng Gao, Fengyu Cong, Cheng Lu*, and <b>Hongming Xu*</b>. "Online Teaching: Distilling Decomposed Multimodal Knowledge for Breast Cancer Biomarker Prediction". <b>Accepted By IEEE Transactions on Medical Imaging (TMI)</b>, Oct.2025 (2024 IF: 9.8)(中科院1区-Top).</li>
 
 <li>Xinyu Hao, <b>Hongming Xu*</b>, Xiaofeng Wang, Tong Wang, Timo Hamalainen, Fengyu Cong. "Cyclic translations between pathomics and genomics improve automatic cancer diagnosis from whole slide images". <b>Engineering Applications of Artificial Intelligence (EAAI)</b>, pp.112302 2025 (2024 IF: 8.0)(中科院1区-Top).</li>
