@@ -13,9 +13,9 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 
 ## Highlighted
 
-{% include citation.html lookup="When multiple instance learning meets foundation models: Advancing histological whole slide image analysis" style="rich" %}
+{% include citation.html lookup="Dual selective gleason pattern-aware multiple instance learning with uncertainty regularization for grade group prediction in histopathology images" style="rich" %}
 
-{% include citation.html lookup="ODA-GAN:Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised Learning for Virtual Immunohistochemistry Staining" style="rich" %}
+{% include citation.html lookup="Virtual Immunohistochemistry Staining with Dual-Aligned Multi-Task Feature Guidance" style="rich" %}
 
 {% include section.html %}
 
