@@ -1,3 +1,48 @@
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: doi:10.1016/j.media.2026.104005
+  title: 'Dual selective gleason pattern-aware multiple instance learning with uncertainty regularization for grade group prediction in histopathology images'
+  authors:
+  - Xinyu, Hao
+  - Hongming Xu
+  - Jingdong Zhang
+  - Qi Xu
+  - Ilkka Pölönen
+  - Fengyu Cong
+  publisher: Medical Image Analysis
+  date: '2026-02-23'
+  link: https://doi.org/qtp4
+  type: paper
+  description: null
+  image: images/citations/26mia.jpg
+  tags:
+  - Selective aggregation
+  - Expert concepts
+  - Uncertainty estimation
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/TMI.2025.3628252
+  title: "Online Teaching: Distilling Decomposed Multimodal Knowledge for Breast Cancer Biomarker Prediction"
+  authors:
+  - Qibin Zhang
+  - Xinyu Hao
+  - Tong Wang
+  - Yanmei Zhu
+  - Yaqi Du
+  - Peng Gao
+  - Fengyu Cong
+  - Cheng Lu
+  - Hongming Xu
+  publisher: IEEE Transactions on Medical Imaging
+  date: '2025-11-03'
+  link: https://10.1109/TMI.2025.3628252
+  image: images/citations/25tmi.jpg
+  tags:
+  - Online distillation
+  - Missing modality
+  - Knowledge decomposition
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.media.2025.103456
   title: 'When multiple instance learning meets foundation models: Advancing histological
     whole slide image analysis'
@@ -24,60 +69,22 @@
   - Multiple instance learning
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1007/978-3-031-72378-0_9
-  title: "Double-Tier Attention Based Multi-label Learning Network for\_Predicting\
-    \ Biomarkers from\_Whole Slide Images of\_Breast Cancer"
-  authors:
-  - Mingkang Wang
-  - Tong Wang
-  - Fengyu Cong
-  - Cheng Lu
-  - Hongming Xu
-  publisher: Medical Image Computing and Computer Assisted Intervention (MICCAI 2024)
-  date: '2024-10-03'
-  link: https://doi.org/g89gxk
-  image: https://media.springernature.com/full/springer-static/image/chp%3A10.1007%2F978-3-031-72378-0_9/MediaObjects/631669_1_En_9_Fig1_HTML.png?as=webp
-  tags:
-  - Computational pathology
-  - Multiple instance learning
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.1109/JBHI.2024.3485703
-  title: Multi-Task Adaptive Resolution Network for Lymph Node Metastasis Diagnosis
-    From Whole Slide Images of Colorectal Cancer
-  authors:
-  - Tong Wang
-  - Su-Jin Shin
-  - Mingkang Wang
-  - Qi Xu
-  - Guiyang Jiang
-  - Fengyu Cong
-  - Jeonghyun Kang
-  - Hongming Xu
-  publisher: IEEE Journal of Biomedical and Health Informatics
-  date: '2024-10-24'
-  link: https://doi.org/g89gxf
-  image: images/citations/24jbhi.jpg
-  tags:
-  - Computational pathology
-  - Multi task learning
-  plugin: sources.py
-  file: sources.yaml
-
 - id: Coming soon
-  title: ODA-GAN:Orthogonal Decoupling Alignment GAN Assisted by Weakly-supervised Learning for Virtual Immunohistochemistry Staining
+  title: Virtual Immunohistochemistry Staining with Dual-Aligned Multi-Task Feature
+    Guidance
   authors:
-  - Tong Wang
-  - Mingkang Wang
-  - Zhongze Wang
-  - Hongkai Wang
-  - Qi Xu
-  - Fengyu Cong
+  - Shigeng Xie
   - Hongming Xu
-  publisher: Conference on Computer Vision and Pattern Recognition (CVPR 2025)
-  date: '2025-06-16'
-  image: images/citations/25cvpr.jpg
+  - Guiyang Jiang
+  - Tuomo Rossi
+  - Tommi Kärkkäinen
+  - Fengyu Cong
+  publisher: Conference on Computer Vision and Pattern Recognition (CVPR 2026)
+  date: '2026-01-16'
+  image: images/citations/26cvpr.jpg
   tags:
   - Virtual Staining
+  - Feature Guidance
   - Generative Adversarial Network
-  - Domain Adapation
+  plugin: sources.py
+  file: sources.yaml
