@@ -36,7 +36,7 @@
   publisher: IEEE Transactions on Medical Imaging
   date: '2025-11-03'
   link: https://10.1109/TMI.2025.3628252
-  image: images/citations/25tmi.jpg
+  image: images/citations/25tmi.png
   tags:
   - Online distillation
   - Missing modality
@@ -81,7 +81,7 @@
   - Fengyu Cong
   publisher: Conference on Computer Vision and Pattern Recognition (CVPR 2026)
   date: '2026-01-16'
-  image: images/citations/26cvpr.jpg
+  image: images/citations/26cvpr.png
   tags:
   - Virtual Staining
   - Feature Guidance
