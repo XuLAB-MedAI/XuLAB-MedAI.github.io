@@ -95,7 +95,7 @@ of cardiac functional parameters from zebrafish heartbeat videos". <b>Medical & 
 
 <ol>
 
-<li>Jing Dai, Chen Wu, Ming Wu, Qibin Zhang, Zexi Wu, Jingdong Zhang, Hongming Xu*. "HGP-Mamba: Integrating Histology and Generated Protein Features for Mamba-based Multimodal Survival Risk Prediction". accepted by The IEEE International Conference on Multimedia & Expo (ICME), Mar. 2026 (CCF-B类，多媒体计算顶会).</li>
+<li>Jing Dai, Chen Wu, Ming Wu, Qibin Zhang, Zexi Wu, Jingdong Zhang, <b>Hongming Xu*</b>. "HGP-Mamba: Integrating Histology and Generated Protein Features for Mamba-based Multimodal Survival Risk Prediction". accepted by The IEEE International Conference on Multimedia & Expo (ICME), Mar. 2026 (CCF-B类，多媒体计算顶会).</li>
 
 <li>Shigeng Xie, <b>Hongming Xu*</b>, Guiyang Jiang, Tuomo Rossi, Tommi Kärkkäinen, and Fengyu Cong. "Virtual Immunohistochemistry Staining with Dual-Aligned Multi-Task Feature Guidance". <b>Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)</b>, 2026 (CCF-A，CV领域顶会).</li>
 
