@@ -94,8 +94,9 @@ of cardiac functional parameters from zebrafish heartbeat videos". <b>Medical & 
 #### Conference Papers
 
 <ol>
-
 <li>Jing Dai, Chen Wu, Ming Wu, Qibin Zhang, Zexi Wu, Jingdong Zhang, <b>Hongming Xu*</b>. "HGP-Mamba: Integrating Histology and Generated Protein Features for Mamba-based Multimodal Survival Risk Prediction". accepted by <b> The IEEE International Conference on Multimedia & Expo (ICME)</b>, Mar. 2026 (CCF-B类，多媒体计算顶会).</li>
+
+<li>Zexi Wu, Baolu Li, Jing Dai, Yiming Zhang, Yue Ma, Qinghe Wang, Xu Jia, and <b>Hongming Xu*</b>. "Video2LoRA: Unified Semantic-Controlled Video Generation via Per-Reference-Video LoRA". <b>Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)</b>, pp. 4202-4212, 2026 (CCF-A，CV领域顶会).</li>
 
 <li>Shigeng Xie, <b>Hongming Xu*</b>, Guiyang Jiang, Tuomo Rossi, Tommi Kärkkäinen, and Fengyu Cong. "Virtual Immunohistochemistry Staining with Dual-Aligned Multi-Task Feature Guidance". <b>Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)</b>, pp. 35311-35320, 2026 (CCF-A，CV领域顶会).</li>
 
@@ -181,6 +182,8 @@ of cardiac functional parameters from zebrafish heartbeat videos". <b>Medical & 
 
 #### Conference Papers
 <ol>
+   <li>Long Chen, Wei Miao, Xin Gao, Yunzhi Zhuge, <b>Hongming Xu</b>, Yaxin Li, Qi Xu. "Spatial-Frequency Spiking Neural Network for Underwater Object Detection". Accepted by Proceedings of the AAAI Conference on Artificial Intelligence(AAAI), pp. 20217 - 20225, 2026 (CCF-A类).</li>
+  
    <li>Wei Miao, Jiangrong Shen, <b>Hongming Xu</b>, Tommi Kärkkäinen, Qi Xu, Yi Xu, Fengyu Cong. "Advanced SpikingYOLOX: Extending Spiking Neural Network on Object Detection with Spike-based Partial Self-Attention and 2D-Spiking Transformer". Accepted by ACM Multimedia, 2025 (CCF-A类).</li>
   
   <li>Yaxin Li, Qi Xu, Jiangrong Shen, <b>Hongming Xu</b>, Long Chen, Gang Pan. "Towards efficient deep spiking neural networks construction with spiking activity based pruning". Proceedings of the 41st International Conference on Machine Learning (ICML), pp. 29063 - 29073, 2024 (CCF-A类).</li>
