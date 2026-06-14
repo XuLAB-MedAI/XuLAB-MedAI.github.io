@@ -95,17 +95,17 @@ of cardiac functional parameters from zebrafish heartbeat videos". <b>Medical & 
 
 <ol>
 
-<li>Jing Dai, Chen Wu, Ming Wu, Qibin Zhang, Zexi Wu, Jingdong Zhang, <b>Hongming Xu*</b>. "HGP-Mamba: Integrating Histology and Generated Protein Features for Mamba-based Multimodal Survival Risk Prediction". accepted by The IEEE International Conference on Multimedia & Expo (ICME), Mar. 2026 (CCF-B类，多媒体计算顶会).</li>
+<li>Jing Dai, Chen Wu, Ming Wu, Qibin Zhang, Zexi Wu, Jingdong Zhang, <b>Hongming Xu*</b>. "HGP-Mamba: Integrating Histology and Generated Protein Features for Mamba-based Multimodal Survival Risk Prediction". accepted by <b> The IEEE International Conference on Multimedia & Expo (ICME)<b>, Mar. 2026 (CCF-B类，多媒体计算顶会).</li>
 
-<li>Shigeng Xie, <b>Hongming Xu*</b>, Guiyang Jiang, Tuomo Rossi, Tommi Kärkkäinen, and Fengyu Cong. "Virtual Immunohistochemistry Staining with Dual-Aligned Multi-Task Feature Guidance". <b>Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)</b>, 2026 (CCF-A，CV领域顶会).</li>
+<li>Shigeng Xie, <b>Hongming Xu*</b>, Guiyang Jiang, Tuomo Rossi, Tommi Kärkkäinen, and Fengyu Cong. "Virtual Immunohistochemistry Staining with Dual-Aligned Multi-Task Feature Guidance". <b>Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)</b>, pp. 35311-35320, 2026 (CCF-A，CV领域顶会).</li>
 
-<li>Ranran Wang, Jinze Li, Mirka Saarela, Fengyu Cong, Yueping Liu, and <b>Hongming Xu*</b>. "TEXT-DRIVEN VIRTUAL IMMUNOHISTOCHEMICAL STAIN TRANSFER". <b> IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</b>, 2026.</li>
+<li>Ranran Wang, Jinze Li, Mirka Saarela, Fengyu Cong, Yueping Liu, and <b>Hongming Xu*</b>. "TEXT-DRIVEN VIRTUAL IMMUNOHISTOCHEMICAL STAIN TRANSFER". <b> IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</b>.IEEE, pp. 7547-7551, 2026.</li>
 
-<li>Kaiqi Qiang, <b>Hongming Xu*</b>, Qibin Zhang, Chen Wu, Fengyu Cong, and Haozhe Piao. "Toward Modality-Robust Brain Tumor Segmentation: Distilling Foundation Models for Incomplete MRI Scans". Accepted by <b> IEEE-ISBI (ISBI)</b>, 2026.</li>
+<li>Kaiqi Qiang, <b>Hongming Xu*</b>, Qibin Zhang, Chen Wu, Fengyu Cong, and Haozhe Piao. "Toward Modality-Robust Brain Tumor Segmentation: Distilling Foundation Models for Incomplete MRI Scans". Accepted by <b> IEEE-ISBI (ISBI)</b>, pp. 1-4, 2026.</li>
   
-<li>Yuqi Ding, Mingde Xu, Xinyu Hao, Juan Su, Yiyao Sun, Mingchen Jiang, Chunna Yang, and <b>Hongming Xu*</b>. "Segmentation-Guided Multi-Task Learning for MRI-Based Prediction of Brain Metastasis Origin". Accepted by <b> IEEE-ISBI (ISBI)</b>, 2026.</li>
+<li>Yuqi Ding, Mingde Xu, Xinyu Hao, Juan Su, Yiyao Sun, Mingchen Jiang, Chunna Yang, and <b>Hongming Xu*</b>. "Segmentation-Guided Multi-Task Learning for MRI-Based Prediction of Brain Metastasis Origin". Accepted by <b> IEEE-ISBI (ISBI)</b>, pp. 1-4, 2026.</li>
   
-<li>Chen Wu, Qibin Zhang, Bo Zhu, and <b>Hongming Xu*</b>. "MSFF-ST: A Multi-Scale Feature Fusion Model for Spatial Transcriptomics Prediction". Accepted by <b> IEEE-BIBM (BIBM)</b>, 2025.</li>
+<li>Chen Wu, Qibin Zhang, Bo Zhu, and <b>Hongming Xu*</b>. "MSFF-ST: A Multi-Scale Feature Fusion Model for Spatial Transcriptomics Prediction". Accepted by <b> IEEE-BIBM (BIBM)</b>, pp. 619-622, 2025.</li>
   
 <li>Xingye Qiao, <b>Hongming Xu*</b>, Weiwei Zhou, Yipeng Xu, Qiao Li, Yang Zhou, Jiaxin Zhou, and Fengyu Cong. "A Two-stage Coarse-to-fine Detection Model Integrating YOLO11 and VGG16 for Cell Subtyping in High-Content Imaging". Accepted by <b> Proc.MVIPIT (MVIPIT)</b>, 2025 (Best Paper Award).</li>
   
