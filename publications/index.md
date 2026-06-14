@@ -41,7 +41,7 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 
 <li>Weiwei, Zhou, Tong Wang, Huaiyu Zhu, Zeng Yan, Fengyu Cong, Guiyang Jiang, and <b>Hongming Xu*</b>. "TB-YOLO: Automated tumor budding detection in immunohistochemistry slides of colorectal cancer". <b>Biomedical Signal Processing and Control (BSPC)</b>, 116 (2026): 109456. (2024 IF: 4.9)(中科院2区).</li>
 
-<li>Qibin Zhang, Xinyu Hao, Tong Wang, Yanmei Zhu, Yaqi Du, Peng Gao, Fengyu Cong, Cheng Lu*, and <b>Hongming Xu*</b>. "Online Teaching: Distilling Decomposed Multimodal Knowledge for Breast Cancer Biomarker Prediction". <b>Accepted By IEEE Transactions on Medical Imaging (TMI)</b>, Oct.2025 (2024 IF: 9.8)(中科院1区-Top).</li>
+<li>Qibin Zhang, Xinyu Hao, Tong Wang, Yanmei Zhu, Yaqi Du, Peng Gao, Fengyu Cong, Cheng Lu*, and <b>Hongming Xu*</b>. "Online Teaching: Distilling Decomposed Multimodal Knowledge for Breast Cancer Biomarker Prediction". <b>Accepted By IEEE Transactions on Medical Imaging (TMI)</b>, vol. 45, no. 4, pp. 1539-1552, April 2026 (2024 IF: 9.8)(中科院1区-Top).</li>
 
 <li>Xinyu Hao, <b>Hongming Xu*</b>, Xiaofeng Wang, Tong Wang, Timo Hamalainen, Fengyu Cong. "Cyclic translations between pathomics and genomics improve automatic cancer diagnosis from whole slide images". <b>Engineering Applications of Artificial Intelligence (EAAI)</b>, pp.112302 2025 (2024 IF: 8.0)(中科院1区-Top).</li>
   
@@ -95,7 +95,7 @@ of cardiac functional parameters from zebrafish heartbeat videos". <b>Medical & 
 
 <ol>
 
-<li>Jing Dai, Chen Wu, Ming Wu, Qibin Zhang, Zexi Wu, Jingdong Zhang, <b>Hongming Xu*</b>. "HGP-Mamba: Integrating Histology and Generated Protein Features for Mamba-based Multimodal Survival Risk Prediction". accepted by <b> The IEEE International Conference on Multimedia & Expo (ICME)<b>, Mar. 2026 (CCF-B类，多媒体计算顶会).</li>
+<li>Jing Dai, Chen Wu, Ming Wu, Qibin Zhang, Zexi Wu, Jingdong Zhang, <b>Hongming Xu*</b>. "HGP-Mamba: Integrating Histology and Generated Protein Features for Mamba-based Multimodal Survival Risk Prediction". accepted by <b> The IEEE International Conference on Multimedia & Expo (ICME)</b>, Mar. 2026 (CCF-B类，多媒体计算顶会).</li>
 
 <li>Shigeng Xie, <b>Hongming Xu*</b>, Guiyang Jiang, Tuomo Rossi, Tommi Kärkkäinen, and Fengyu Cong. "Virtual Immunohistochemistry Staining with Dual-Aligned Multi-Task Feature Guidance". <b>Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)</b>, pp. 35311-35320, 2026 (CCF-A，CV领域顶会).</li>
 
