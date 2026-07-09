@@ -102,6 +102,8 @@ of cardiac functional parameters from zebrafish heartbeat videos". <b>Medical & 
 <li>Lanxi Hu, Qibin Zhang, Qiao Chen, Bo Huang, and <b>Hongming Xu*</b>. "LASP-MIL: Language-Aligned Semantic Pruning for Multi-scale Multiple Instance Learning in Whole Slide Image Classification". In the 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2026 </li>
 
 <li>Shihui Zu, Chen Wu, Yong Zhang, Sun Tao, and <b>Hongming Xu*</b>. "Benchmarking Deep Learning Models against Manual Assessment: A Dual-Track Evaluation of TME Quantification in HER2+ Breast Cancer". In the 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2026 </li>
+
+<li>Yihao Xing, Yue Dong, Xinyu Hao, Lanxi Hu, Fengying Qin, Mingke Tian, Yiyi Luan, Huiting Pang, and <b>Hongming Xu*</b>. "Segmentation-Guided Feature Extraction from Multi-Sequence MRI for Predicting Lymph Node Metastasis in Cervival Cancer". In the 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2026 </li>
   
 <li>Jing Dai, Chen Wu, Ming Wu, Qibin Zhang, Zexi Wu, Jingdong Zhang, and <b>Hongming Xu*</b>. "HGP-Mamba: Integrating Histology and Generated Protein Features for Mamba-based Multimodal Survival Risk Prediction". accepted by <b> The IEEE International Conference on Multimedia & Expo (ICME)</b>, Mar. 2026 (CCF-B类，多媒体计算顶会).</li>
 
