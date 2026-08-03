@@ -1,7 +1,7 @@
 ---
 name: Qibin Zhang
 image: images/team/ZhangQ.jpg
-description: M.Sc., 2026, Westlake Phd
+description: M.Sc., 2026, Westlake PhD
 role: graduate
 graduation_year: 2026
 aliases:
