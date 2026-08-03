@@ -1,8 +1,8 @@
 ---
 name: Qibin Zhang
 image: images/team/ZhangQ.jpg
-description: Master Student
-role: undergrad3
+description: M.Sc., 2026, Westlake Phd
+role: graduate
 aliases:
   - Qibin Zhang
   - Q. Zhang
