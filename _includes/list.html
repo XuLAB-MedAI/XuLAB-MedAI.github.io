@@ -5,6 +5,14 @@
   | data_filter: include.filters
 %}
 
+{% if include.sort %}
+  {% assign data = data | sort: include.sort %}
+{% endif %}
+
+{% if include.reverse %}
+  {% assign data = data | reverse %}
+{% endif %}
+
 {% assign years = data
   | group_by_exp: "d", "d.date | date: '%Y'"
   | sort: "name"
