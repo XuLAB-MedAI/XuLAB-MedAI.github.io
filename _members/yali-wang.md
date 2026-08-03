@@ -1,8 +1,8 @@
 ---
 name: Yali Wang
 image: images/team/WangY.jpg
-description: Master Student
-role: undergrad3
+description: Doctor Student
+role: phd
 aliases:
   - Yali Wang
   - Y. Wang
