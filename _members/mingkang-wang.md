@@ -3,6 +3,7 @@ name: Mingkang Wang
 image: images/team/WangM.jpg
 description: M.Sc., 2025, Huawei
 role: graduate
+graduation_year: 2025
 aliases:
   - Mingkang Wang
   - M. Wang
