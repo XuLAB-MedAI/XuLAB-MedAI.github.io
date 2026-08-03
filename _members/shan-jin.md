@@ -1,8 +1,8 @@
 ---
 name: Shan Jin
 image: images/team/JinS.jpg
-description: Doctor Student
-role: phd
+description: PostDoctor
+role: postdoc
 aliases:
   - Shan Jin
   - S. Jin
