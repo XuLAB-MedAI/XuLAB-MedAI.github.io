@@ -1,8 +1,9 @@
 ---
 name: Tong Wang
 image: images/team/WangT.jpg
-description: M.Sc., 2025, UNC Phd
+description: M.Sc., 2025, UNC PhD
 role: graduate
+graduation_year: 2025
 aliases:
   - Tong Wang
   - T. Wang
