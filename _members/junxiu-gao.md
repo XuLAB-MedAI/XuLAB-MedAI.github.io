@@ -3,6 +3,7 @@ name: Junxiu Gao
 image: images/team/GaoJ.jpg
 description: M.Sc., 2024, China Mobile
 role: graduate
+graduation_year: 2025
 aliases:
   - Junxiu Gao
   - J. Gao
