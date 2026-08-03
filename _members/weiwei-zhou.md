@@ -1,8 +1,9 @@
 ---
 name: Weiwei Zhou
 image: images/team/ZhouW.jpg
-description: M.Sc., 2026, XJTU Phd
+description: M.Sc., 2026, XJTU PhD
 role: graduate
+graduation_year: 2026
 aliases:
   - Weiwei Zhou
   - W. Zhou
