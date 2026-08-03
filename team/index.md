@@ -25,7 +25,7 @@ nav:
 <!-- {% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %} -->
 
 ## Graduate
-{% include list.html data="members" component="portrait" filters="role: graduate" %}
+{% include list.html data="members" component="portrait" filters="role: graduate" sort="graduation_year" reverse=true %}
 
 {% include section.html %}
 # {% include icon.html icon="fa-solid fa-bullhorn" %}Join us!
