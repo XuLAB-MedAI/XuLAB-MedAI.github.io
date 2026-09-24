@@ -2,7 +2,7 @@
 name: Yaxue Liu
 image: images/team/LiuY.jpg
 description: Master Student
-role: undergrad1
+role: undergrad2
 aliases:
   - Yaxue Liu
   - Y. Liu
