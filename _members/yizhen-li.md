@@ -2,7 +2,7 @@
 name: Yizhen Li
 image: images/team/LiY.jpg
 description: Master Student
-role: undergrad1
+role: undergrad2
 aliases:
   - Yizhen Li
   - Y. Li
