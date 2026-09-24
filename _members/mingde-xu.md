@@ -2,7 +2,7 @@
 name: Mingde Xu
 image: images/team/XuM.jpg
 description: Master Student
-role: undergrad2
+role: undergrad3
 aliases:
   - Mingde Xu
   - M. Xu
