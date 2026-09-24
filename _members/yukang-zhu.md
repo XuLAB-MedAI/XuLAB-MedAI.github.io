@@ -2,7 +2,7 @@
 name: Yukang Zhu
 image: images/team/ZhuY.jpg
 description: Master Student
-role: undergrad1
+role: undergrad2
 aliases:
   - Yukang Zhu
   - Y. Zhu
