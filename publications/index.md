@@ -37,18 +37,20 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 
 <ol>
 
-<li>Xinyu, Hao, <b>Hongming Xu*</b>, Jingdong Zhang, Qi Xu, Ilkka Pölönen, and Fengyu Cong. "Dual Selective Gleason Pattern-Aware Multiple Instance Learning with Uncertainty Regularization for Grade Group Prediction in Histopathology Images". <b>Medical Image Analysis (MedIA)</b>, pp.104005, 2026 (2023 IF: 10.7) (中科院1区-Top).</li>
+<li>Hongbo Liu, <b>Hongming Xu*</b>,Ilkka Pölönen, Chao Tang,Mingliang Zhang,Su Yao,Cheng Lu,Fengyu Cong. "SAM-HovNet: SAM-Enhanced Multi-Class Nucleus Segmentation and Classification in Hepatocellular Carcinoma Slides". <b>Accepted By IEEE Transactions on Biomedical Engineering (TBME)</b>，pp.1-13,2026(2025 IF:4.4) (中科院2区).</li>
+
+<li>Xinyu, Hao, <b>Hongming Xu*</b>, Jingdong Zhang, Qi Xu, Ilkka Pölönen, and Fengyu Cong. "Dual Selective Gleason Pattern-Aware Multiple Instance Learning with Uncertainty Regularization for Grade Group Prediction in Histopathology Images". <b>Medical Image Analysis (MedIA)</b>, pp.104005, 2026 (2025 IF: 14.0) (中科院1区-Top).</li>
 
 <li>Weiwei, Zhou, Tong Wang, Huaiyu Zhu, Zeng Yan, Fengyu Cong, Guiyang Jiang, and <b>Hongming Xu*</b>. "TB-YOLO: Automated tumor budding detection in immunohistochemistry slides of colorectal cancer". <b>Biomedical Signal Processing and Control (BSPC)</b>, 116 (2026): 109456. (2024 IF: 4.9)(中科院2区).</li>
 
-<li>Qibin Zhang, Xinyu Hao, Tong Wang, Yanmei Zhu, Yaqi Du, Peng Gao, Fengyu Cong, Cheng Lu*, and <b>Hongming Xu*</b>. "Online Teaching: Distilling Decomposed Multimodal Knowledge for Breast Cancer Biomarker Prediction". <b>Accepted By IEEE Transactions on Medical Imaging (TMI)</b>, vol. 45, no. 4, pp. 1539-1552, April 2026 (2024 IF: 9.8)(中科院1区-Top).</li>
+<li>Qibin Zhang, Xinyu Hao, Tong Wang, Yanmei Zhu, Yaqi Du, Peng Gao, Fengyu Cong, Cheng Lu*, and <b>Hongming Xu*</b>. "Online Teaching: Distilling Decomposed Multimodal Knowledge for Breast Cancer Biomarker Prediction". <b>IEEE Transactions on Medical Imaging (TMI)</b>, vol. 45, no. 4, pp. 1539-1552, April 2026 (2025 IF: 12.4)(中科院1区-Top).</li>
 
 <li>Xinyu Hao, <b>Hongming Xu*</b>, Xiaofeng Wang, Tong Wang, Timo Hamalainen, Fengyu Cong. "Cyclic translations between pathomics and genomics improve automatic cancer diagnosis from whole slide images". <b>Engineering Applications of Artificial Intelligence (EAAI)</b>, pp.112302 2025 (2024 IF: 8.0)(中科院1区-Top).</li>
   
 <li>Yali Wang, Haochun Shi, Xingye Qiao, Fengyu Cong, Yanbin Zhao, <b>Hongming Xu*</b>. "Exploring universal segmentation models for automatic quantification
 of cardiac functional parameters from zebrafish heartbeat videos". <b>Medical & Biological Engineering & Computing (MBEC)</b>, Sep. 2025 (2024 IF: 2.6).</li>
 
-<li><b>Hongming Xu#</b>, Mingkang Wang, Duanbo Shi, Huamin Qin, Yunpeng Zhang, Zaiyi Liu, Anant Madabhushi, Peng Gao, Fengyu Cong, Cheng Lu*. "When multiple instance learning meets foundation models: Advancing histological whole slide image analysis". <b>Medical Image Analysis (MedIA)</b>, pp.103456, 2025 (2023 IF: 10.7) (中科院1区-Top).</li>
+<li><b>Hongming Xu#</b>, Mingkang Wang, Duanbo Shi, Huamin Qin, Yunpeng Zhang, Zaiyi Liu, Anant Madabhushi, Peng Gao, Fengyu Cong, Cheng Lu*. "When multiple instance learning meets foundation models: Advancing histological whole slide image analysis". <b>Medical Image Analysis (MedIA)</b>, pp.103456, 2025 (2025 IF: 14.0) (中科院1区-Top).</li>
 
 <li>Tong Wang#, Su-Jin Shin#, Mingkang Wang, Qi Xu, Guiyang Jiang, Fengyu Cong, Jeonghyun Kang, <b>Hongming Xu*</b>. "Multi-task Adaptive Resolution Network for Lymph Node Metastasis Diagnosis from Whole Slide Images of Colorectal Cancer". <b>IEEE Journal of Biomedical and Health Informatics (JBHI) </b>, vol.29, no.1, pp.420-432, 2025 (2023 IF: 6.7) (中科院1区-Top).</li>
 
@@ -80,7 +82,7 @@ of cardiac functional parameters from zebrafish heartbeat videos". <b>Medical & 
 
 <li><b>Hongming Xu</b>, Cheng Lu, Richard Berendt, Naresh Jha, Mrinal Mandal. "Automated analysis and classification of melanocytic tumor on skin whole slide images". <b>Computerized Medical Imaging and Graphics (CMIG)</b>, vol. 66, pp. 124-134, 2018 (IF: 4.79) (中科院2区).</li>
 
-<li><b>Hongming Xu</b>, Cheng Lu, Richard Berendt, Naresh Jha, Mrinal Mandal. "Automatic nuclear segmentation using multi-scale radial line scanning with dynamic programming". <b>IEEE Transactions on Biomedical Engineering (TBME)</b>, vol. 64, no. 10, pp. 2475-2485, 2017 (IF: 4.538) (中科院2区).</li>
+<li><b>Hongming Xu</b>, Cheng Lu, Richard Berendt, Naresh Jha, Mrinal Mandal. "Automatic nuclear segmentation using multi-scale radial line scanning with dynamic programming". <b>IEEE Transactions on Biomedical Engineering (TBME)</b>, vol. 64, no. 10, pp. 2475-2485, 2017 (2025 IF: 4.4) (中科院2区).</li>
 
 <li><b>Hongming Xu</b>, Cheng Lu, Richard Berendt, Naresh Jha, Mrinal Mandal. "Automatic nuclei detection based on generalized Laplacian of Gaussian Filters". <b>IEEE Journal of Biomedical and Health Informatics (JBHI)</b>, vol. 21, no. 3, pp. 826-837, 2017 (IF: 5.772) (中科院1区-Top).</li>
 
@@ -94,7 +96,7 @@ of cardiac functional parameters from zebrafish heartbeat videos". <b>Medical & 
 #### Conference Papers
 
 <ol>
-  
+
 <li>Jing Dai, Qibin Zhang, Weiwei Zhou, Mingde Xu, Jingsong Liu, Jingdong Zhang, and <b>Hongming Xu*</b>. "CIGMSurv: Clinical Information Guided Multimodal Survival Prediction with Local Prototype Association and Global Feature Alignment". In <b>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</b>, 2026 (CCF-B类，医学图像处理顶会).</li>
 
 <li>Qiao Chen, <b>Hongming Xu*</b>, Xinyu Hao, Lanxi Hu, Huamin Qin, Tommi Kärkkäinen, and Fengyu Cong. "Structure-aware Knowledge Distillation from Multimodal Teachers for Glioma Molecular Classification". In the 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2026 </li>
@@ -113,13 +115,13 @@ of cardiac functional parameters from zebrafish heartbeat videos". <b>Medical & 
 
 <li>Ranran Wang, Jinze Li, Mirka Saarela, Fengyu Cong, Yueping Liu, and <b>Hongming Xu*</b>. "TEXT-DRIVEN VIRTUAL IMMUNOHISTOCHEMICAL STAIN TRANSFER". <b> IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)</b>.IEEE, pp. 7547-7551, 2026.</li>
 
-<li>Kaiqi Qiang, <b>Hongming Xu*</b>, Qibin Zhang, Chen Wu, Fengyu Cong, and Haozhe Piao. "Toward Modality-Robust Brain Tumor Segmentation: Distilling Foundation Models for Incomplete MRI Scans". Accepted by <b> IEEE-ISBI (ISBI)</b>, pp. 1-4, 2026.</li>
+<li>Kaiqi Qiang, <b>Hongming Xu*</b>, Qibin Zhang, Chen Wu, Fengyu Cong, and Haozhe Piao. "Toward Modality-Robust Brain Tumor Segmentation: Distilling Foundation Models for Incomplete MRI Scans". <b> IEEE-ISBI (ISBI)</b>, pp. 8-11, 2026.</li>
   
-<li>Yuqi Ding, Mingde Xu, Xinyu Hao, Juan Su, Yiyao Sun, Mingchen Jiang, Chunna Yang, and <b>Hongming Xu*</b>. "Segmentation-Guided Multi-Task Learning for MRI-Based Prediction of Brain Metastasis Origin". Accepted by <b> IEEE-ISBI (ISBI)</b>, pp. 1-4, 2026.</li>
+<li>Yuqi Ding, Mingde Xu, Xinyu Hao, Juan Su, Yiyao Sun, Mingchen Jiang, Chunna Yang, and <b>Hongming Xu*</b>. "Segmentation-Guided Multi-Task Learning for MRI-Based Prediction of Brain Metastasis Origin". <b> IEEE-ISBI (ISBI)</b>, pp. 8-11, 2026.</li>
   
-<li>Chen Wu, Qibin Zhang, Bo Zhu, and <b>Hongming Xu*</b>. "MSFF-ST: A Multi-Scale Feature Fusion Model for Spatial Transcriptomics Prediction". Accepted by <b> IEEE-BIBM (BIBM)</b>, pp. 619-622, 2025.</li>
+<li>Chen Wu, Qibin Zhang, Bo Zhu, and <b>Hongming Xu*</b>. "MSFF-ST: A Multi-Scale Feature Fusion Model for Spatial Transcriptomics Prediction".  <b> IEEE-BIBM (BIBM)</b>, pp. 15-18, 2025.</li>
   
-<li>Xingye Qiao, <b>Hongming Xu*</b>, Weiwei Zhou, Yipeng Xu, Qiao Li, Yang Zhou, Jiaxin Zhou, and Fengyu Cong. "A Two-stage Coarse-to-fine Detection Model Integrating YOLO11 and VGG16 for Cell Subtyping in High-Content Imaging". Accepted by <b> Proc.MVIPIT (MVIPIT)</b>, 2025 (Best Paper Award).</li>
+<li>Xingye Qiao, <b>Hongming Xu*</b>, Weiwei Zhou, Yipeng Xu, Qiao Li, Yang Zhou, Jiaxin Zhou, and Fengyu Cong. "A Two-stage Coarse-to-fine Detection Model Integrating YOLO11 and VGG16 for Cell Subtyping in High-Content Imaging". <b> Proc.MVIPIT (MVIPIT)</b>, pp. 61-70, 2025 (Best Paper Award).</li>
   
 <li>Qibin Zhang, Xinyu Hao, Qiao Chen, Rui Xu, Fengyu Cong, Cheng Lu*, and <b>Hongming Xu*</b>. "Multi-modal Knowledge Decomposition based Online Distillation for Biomarker Prediction in Breast Cancer Histopathology". In <b>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</b>,  pp. 353-363. Cham: Springer Nature Switzerland, 2025 (CCF-B，医学图像处理顶会).</li>
   
