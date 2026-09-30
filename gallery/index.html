@@ -1,0 +1,166 @@
+---
+layout: default
+---
+
+<p class="xeyebrow">Demo Gallery</p>
+  <h1 class="xg-title"><i class="icon fa-solid fa-images"></i>演示图集</h1>
+  <p class="xsec-lead">六张截图，串起一条完整的数字病理工作流：从全切片浏览与信息管理，到 AI 辅助解读，再到细胞核级别的实例分割与分类。</p>
+  <div class="xcta-row">
+    <a class="xcta" data-style="ghost" href="/">
+      <i class="icon fa-solid fa-arrow-left"></i>
+      <span>返回首页</span>
+    </a>
+    <span class="xcta-note">点击任意截图可放大查看</span>
+  </div>
+
+<!-- section break -->
+
+<h2 id="platform">一 · 数字病理全切片平台</h2>
+  <p>以病人—病例—切片三级组织管理切片，打开即送达完整扫描元数据；阅片与 AI 解读共用同一界面，不必在多个软件之间来回切换。</p>
+
+  <div class="xg-grid">
+    <figure class="xfig">
+      <a class="xshot" href="images/gallery/06-slide-info-panel.jpg" data-lightbox data-caption="切片信息与元数据">
+        <span class="xshot-bar"><i></i><i></i><i></i><b>切片信息 · 1.svs</b></span>
+        <img src="images/gallery/06-slide-info-panel.jpg" alt="Slide information panel showing scan metadata and associated images" loading="lazy">
+        <span class="xshot-zoom"><i class="icon fa-solid fa-magnifying-glass-plus"></i></span>
+      </a>
+      <figcaption>
+        <h4>切片信息与元数据</h4>
+        <p>左侧为病人列表，支持按病人、编号或切片检索；右侧直接呈现扫描仪、物镜、分辨率、金字塔层级与文件大小，并附 HE 与 macro 关联图像。</p>
+        <ul class="xchips">
+          <li>尺寸 101110 × 79907</li>
+          <li>扫描仪 Aperio</li>
+          <li>物镜 40×</li>
+          <li>0.264 μm/px</li>
+          <li>金字塔 4 级</li>
+          <li data-accent>文件大小 1.3 GB</li>
+        </ul>
+      </figcaption>
+    </figure>
+
+    <figure class="xfig">
+      <a class="xshot" href="images/gallery/01-viewer-ai-chat.jpg" data-lightbox data-caption="全片阅片与 AI 对话解读">
+        <span class="xshot-bar"><i></i><i></i><i></i><b>镜阅AI · AI 对话</b></span>
+        <img src="images/gallery/01-viewer-ai-chat.jpg" alt="Whole-slide viewer with the AI reading assistant answering a question" loading="lazy">
+        <span class="xshot-zoom"><i class="icon fa-solid fa-magnifying-glass-plus"></i></span>
+      </a>
+      <figcaption>
+        <h4>全片阅片与 AI 对话解读</h4>
+        <p>一边浏览一边提问，AI 在图上用红、黄、青三色圈标注候选区域，并逐条给出判断依据——细胞密度、结构形态与边界特征，而不是只给一句结论。</p>
+        <ul class="xchips">
+          <li>切片信息 / AI 对话 双标签</li>
+          <li>图上定位标注</li>
+          <li>支持追加追问</li>
+        </ul>
+      </figcaption>
+    </figure>
+  </div>
+
+<!-- section break -->
+
+<h2 id="nuclei">二 · 细胞核实例分割与分类</h2>
+  <p>同一套分割结果可在全片、区域、细胞三个尺度上查看：宏观用于把握分布，微观用于核对边界。每一级都可交互，标注不是一张烧死的热力图。</p>
+
+  <div class="xg-grid" data-cols="1">
+    <figure class="xfig">
+      <a class="xshot" href="images/gallery/04-nuclei-whole-slide.jpg" data-lightbox data-caption="全片尺度细胞核分割">
+        <span class="xshot-bar"><i></i><i></i><i></i><b>全片尺度 · 视场约 10%</b></span>
+        <img src="images/gallery/04-nuclei-whole-slide.jpg" alt="Whole-slide nuclei segmentation with per-cell classification" loading="lazy">
+        <span class="xshot-zoom"><i class="icon fa-solid fa-magnifying-glass-plus"></i></span>
+      </a>
+      <figcaption>
+        <h4>全片尺度细胞核分割</h4>
+        <p>一次推理覆盖整张切片，把每个细胞核实例化并按类型着色；缩略图总览与主视图联动，可快速跳到细胞最密集的区域。</p>
+        <ul class="xchips">
+          <li data-accent>细胞核 16 449 个</li>
+          <li>视场约 10%</li>
+          <li>缩略图联动总览</li>
+          <li>按类型着色</li>
+        </ul>
+      </figcaption>
+    </figure>
+
+    <figure class="xfig">
+      <a class="xshot" href="images/gallery/05-nuclei-region-layer.jpg" data-lightbox data-caption="区域级分割分类与图层控制">
+        <span class="xshot-bar"><i></i><i></i><i></i><b>区域级 · 图层控制</b></span>
+        <img src="images/gallery/05-nuclei-region-layer.jpg" alt="Region-level nuclei classification with an adjustable layer panel" loading="lazy">
+        <span class="xshot-zoom"><i class="icon fa-solid fa-magnifying-glass-plus"></i></span>
+      </a>
+      <figcaption>
+        <h4>区域级分割分类与图层控制</h4>
+        <p>分割结果以独立图层叠加，不遮挡原始形态；可切换「全部 / 框选」，实时调节不透明度，并在图例中直接读取每一类的计数。</p>
+        <ul class="xchips">
+          <li data-accent>细胞核 21 849 个</li>
+          <li>5 类</li>
+          <li>不透明度可调</li>
+          <li>全部 / 框选</li>
+        </ul>
+        <ul class="xlegend">
+          <li><span style="background:#14b8a6"></span>基质细胞 11807</li>
+          <li><span style="background:#ef4444"></span>肿瘤核 7757</li>
+          <li><span style="background:#8b5cf6"></span>淋巴细胞 2046</li>
+          <li><span style="background:#f59e0b"></span>上皮细胞 165</li>
+          <li><span style="background:#3b82f6"></span>其他 74</li>
+        </ul>
+      </figcaption>
+    </figure>
+  </div>
+
+  <div class="xg-grid">
+    <figure class="xfig">
+      <a class="xshot" href="images/gallery/02-nuclei-region-201.jpg" data-lightbox data-caption="细胞级实例分割 · 放大 201%">
+        <span class="xshot-bar"><i></i><i></i><i></i><b>细胞级 · 201%</b></span>
+        <img src="images/gallery/02-nuclei-region-201.jpg" alt="Cell-level nuclei polygons with per-cell measurements" loading="lazy">
+        <span class="xshot-zoom"><i class="icon fa-solid fa-magnifying-glass-plus"></i></span>
+      </a>
+      <figcaption>
+        <h4>细胞级实例分割 · 单核可编辑</h4>
+        <p>放大到细胞尺度，每个核以独立多边形轮廓给出；可框选批量改类别，右侧逐核列出面积、等效直径、周长与圆度等形态学指标。</p>
+        <ul class="xchips">
+          <li>范围内 49 个核批量操作</li>
+          <li>面积 27 μm²</li>
+          <li>等效直径 4.6 μm</li>
+          <li>圆度 0.66</li>
+        </ul>
+      </figcaption>
+    </figure>
+
+    <figure class="xfig">
+      <a class="xshot" href="images/gallery/03-nuclei-201.jpg" data-lightbox data-caption="细胞级轮廓精度 · 放大 548%">
+        <span class="xshot-bar"><i></i><i></i><i></i><b>细胞级 · 548%</b></span>
+        <img src="images/gallery/03-nuclei-201.jpg" alt="Nuclei contours at 548 percent magnification" loading="lazy">
+        <span class="xshot-zoom"><i class="icon fa-solid fa-magnifying-glass-plus"></i></span>
+      </a>
+      <figcaption>
+        <h4>细胞级轮廓精度</h4>
+        <p>继续放大到 548%，分割边界仍紧贴细胞核轮廓，不会在放大后暴露出粗糙的多边形近似，可用于后续形态学与空间分布分析。</p>
+        <ul class="xchips">
+          <li>推理 CellViT · 256 c16</li>
+          <li>0.25 μm/px</li>
+          <li data-accent>放大 548%</li>
+        </ul>
+      </figcaption>
+    </figure>
+  </div>
+
+<!-- section break -->
+
+<h2 id="more">三 · 继续了解</h2>
+  <div class="xg-end">
+    <p class="xsec-lead">想进一步了解方法细节、数据规模或与我们合作，欢迎从对应页面继续。</p>
+    <div class="xcta-row">
+      <a class="xcta" href="/">
+        <i class="icon fa-solid fa-house"></i>
+        <span>返回首页</span>
+      </a>
+      <a class="xcta" data-style="ghost" href="/research/">
+        <i class="icon fa-solid fa-flask"></i>
+        <span>Browse our research</span>
+      </a>
+      <a class="xcta" data-style="ghost" href="/contact/">
+        <i class="icon fa-solid fa-envelope"></i>
+        <span>Contact us</span>
+      </a>
+    </div>
+  </div>
