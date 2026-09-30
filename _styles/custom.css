@@ -1,0 +1,472 @@
+/* ==========================================================================
+   Xu Lab — custom layout & new components
+   Loaded LAST, so it overrides the harvested template CSS at equal
+   specificity. Note: `section[data-size=wide]` (0,1,1) still outranks the
+   plain `section` selector below, so wide/full sections keep their padding.
+   ========================================================================== */
+
+/* --------------------------------------------------------------------------
+   1. Widen the content column
+   Template shipped `section { padding: 40px max(40px, (100% - 1000px)/2) }`,
+   i.e. content was hard-capped at 1000px. Raised to 1400px.
+   At 1440 viewport: 1000px -> 1360px usable (+36%).
+   -------------------------------------------------------------------------- */
+:root {
+  --page: 1400px;
+}
+
+section {
+  padding: 40px max(40px, (100% - var(--page)) / 2);
+}
+
+/* --------------------------------------------------------------------------
+   2. Shared bits
+   -------------------------------------------------------------------------- */
+.xeyebrow {
+  margin: 0 0 6px 0;
+  color: var(--primary);
+  font-size: 0.78rem;
+  font-weight: var(--bold);
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  text-align: left;
+}
+
+.xsec-lead {
+  max-width: 900px;
+  margin: 0 0 8px 0;
+  color: var(--gray);
+  font-size: var(--large);
+  text-align: left;
+}
+
+/* --------------------------------------------------------------------------
+   3. Row 1 — Our Research owns the whole row, laid out as three columns:
+        [ original bg1.png illustration ] [ Our Research + Browse button ] [ new product shot + CTA ]
+   The original `.feature` wrapper is flattened with `display: contents` so its
+   two children become grid items — the source markup stays untouched, and the
+   illustration keeps roughly the size it had on the original page (~400px).
+   -------------------------------------------------------------------------- */
+.xrp {
+  display: grid;
+  grid-template-columns: minmax(0, 3fr) minmax(0, 2.2fr) minmax(0, 4fr);
+  align-items: center;
+  gap: 40px;
+  margin: 32px 0 56px;
+}
+
+.xrp > .feature {
+  display: contents;
+}
+
+.xrp > .feature > .feature-image {
+  width: 100%;
+}
+
+.xrp > .feature > .feature-text {
+  min-width: 0;
+}
+
+.xrp-media {
+  min-width: 0;
+}
+
+/* framed "browser window" screenshot — makes the demo shot read as a product */
+.xshot {
+  position: relative;
+  display: block;
+  border: solid 1px var(--light-gray);
+  border-radius: calc(var(--rounded) + 4px);
+  background: var(--background);
+  overflow: hidden;
+  box-shadow: 0 8px 26px -12px var(--overlay), var(--shadow);
+  text-decoration: none;
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+a.xshot:hover {
+  transform: translateY(-3px);
+  border-color: var(--primary);
+  box-shadow: 0 16px 38px -14px var(--overlay), var(--shadow);
+}
+
+.xshot-bar {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 9px 13px;
+  border-bottom: solid 1px var(--light-gray);
+  background: var(--background-alt);
+}
+
+.xshot-bar i {
+  display: block;
+  width: 9px;
+  height: 9px;
+  border-radius: 999px;
+  background: var(--light-gray);
+}
+
+.xshot-bar b {
+  margin-left: 8px;
+  color: var(--gray);
+  font-size: 0.76rem;
+  font-weight: var(--regular);
+  letter-spacing: 0.5px;
+}
+
+.xshot img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* magnifier hint, only on clickable shots */
+a.xshot .xshot-zoom {
+  position: absolute;
+  right: 12px;
+  bottom: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 34px;
+  height: 34px;
+  border-radius: 999px;
+  background: var(--background);
+  color: var(--primary);
+  box-shadow: var(--shadow);
+  opacity: 0;
+  transform: translateY(6px);
+  transition: opacity 0.25s ease, transform 0.25s ease;
+}
+
+a.xshot:hover .xshot-zoom {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* the CTA that leads to the demo gallery */
+.xcta-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-top: 18px;
+}
+
+.xcta {
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 13px 22px;
+  border-radius: var(--rounded);
+  background: var(--primary);
+  color: #fff;
+  font-family: var(--heading);
+  font-weight: var(--semi-bold);
+  line-height: 1;
+  text-decoration: none;
+  box-shadow: 0 8px 20px -10px var(--primary);
+  transition: transform 0.2s ease, box-shadow 0.2s ease, opacity 0.2s ease;
+}
+
+.xcta:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 14px 26px -10px var(--primary);
+  opacity: 0.94;
+}
+
+.xcta[data-style=ghost] {
+  background: none;
+  color: var(--primary);
+  box-shadow: none;
+}
+
+.xcta[data-style=ghost]:hover {
+  color: var(--text);
+  box-shadow: none;
+}
+
+.xcta-note {
+  color: var(--gray);
+  font-size: 0.85rem;
+}
+
+/* --------------------------------------------------------------------------
+   4. Row 2 — Our Publications + Our Team, two per row,
+      each card = image on the left, title + button on the right
+   -------------------------------------------------------------------------- */
+.xduo {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 32px;
+  margin: 40px 0 0 0;
+}
+
+.xcard2 {
+  display: grid;
+  grid-template-columns: 42% minmax(0, 1fr);
+  align-items: center;
+  border: solid 1px var(--light-gray);
+  border-radius: var(--rounded);
+  background: var(--background);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  transition: transform 0.25s ease, box-shadow 0.25s ease, border-color 0.25s ease;
+}
+
+.xcard2:hover {
+  transform: translateY(-3px);
+  border-color: var(--primary);
+  box-shadow: 0 14px 32px -16px var(--overlay), var(--shadow);
+}
+
+.xcard2-img {
+  display: block;
+  height: 100%;
+  min-height: 158px;
+  overflow: hidden;
+}
+
+.xcard2-img img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.4s ease;
+}
+
+.xcard2:hover .xcard2-img img {
+  transform: scale(1.04);
+}
+
+.xcard2-body {
+  padding: 22px 24px;
+}
+
+.xcard2-body .feature-title {
+  margin: 0 0 2px 0;
+  text-align: left;
+}
+
+.xcard2-body .button-wrapper {
+  display: block;
+}
+
+.xcard2-body .button {
+  margin: 8px 0 0 0;
+}
+
+/* --------------------------------------------------------------------------
+   5. Gallery page
+   -------------------------------------------------------------------------- */
+.xg-hero {
+  padding-bottom: 0;
+}
+
+.xg-title {
+  margin: 20px 0 10px 0;
+}
+
+.xg-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 44px 40px;
+  margin: 36px 0 0 0;
+  align-items: start;
+}
+
+.xg-grid[data-cols="1"] {
+  grid-template-columns: minmax(0, 1fr);
+  gap: 56px;
+}
+
+.xfig {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  margin: 0;
+  min-width: 0;
+}
+
+.xfig figcaption {
+  min-width: 0;
+}
+
+.xfig h4 {
+  margin: 0 0 6px 0;
+}
+
+.xfig > figcaption > p {
+  margin: 0;
+  color: var(--text);
+  text-align: left;
+}
+
+/* metric chips */
+.xchips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 16px 0 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.xchips li {
+  margin: 0;
+  padding: 5px 12px;
+  border: solid 1px var(--light-gray);
+  border-radius: 999px;
+  background: var(--background-alt);
+  color: var(--gray);
+  font-size: 0.8rem;
+  line-height: 1.6;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.xchips li[data-accent] {
+  border-color: var(--primary);
+  color: var(--primary);
+}
+
+/* class legend swatches */
+.xlegend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 18px;
+  margin: 16px 0 0 0;
+  padding: 0;
+  list-style: none;
+  font-size: 0.85rem;
+}
+
+.xlegend li {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0;
+  padding: 0;
+  color: var(--gray);
+  text-align: left;
+}
+
+.xlegend span {
+  display: block;
+  width: 11px;
+  height: 11px;
+  border-radius: 3px;
+  flex-shrink: 0;
+}
+
+/* closing CTA band */
+.xg-end {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 18px;
+}
+
+/* --------------------------------------------------------------------------
+   6. Lightbox
+   -------------------------------------------------------------------------- */
+.xlb {
+  position: fixed;
+  inset: 0;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 16px;
+  padding: 32px;
+  background: #000000eb;
+  z-index: 999;
+}
+
+.xlb[data-open] {
+  display: flex;
+}
+
+.xlb img {
+  max-width: 96vw;
+  max-height: 84vh;
+  width: auto;
+  height: auto;
+  border-radius: var(--rounded);
+  box-shadow: 0 20px 60px #00000080;
+}
+
+.xlb-cap {
+  max-width: 96vw;
+  color: #f0f0f0;
+  font-size: 0.9rem;
+  letter-spacing: 0.4px;
+  text-align: center;
+}
+
+.xlb-close {
+  position: absolute;
+  top: 20px;
+  right: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 42px;
+  height: 42px;
+  border: solid 1px #ffffff40;
+  border-radius: 999px;
+  background: #ffffff14;
+  color: #fff;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.xlb-close:hover {
+  background: #ffffff30;
+}
+
+/* --------------------------------------------------------------------------
+   7. Responsive
+   -------------------------------------------------------------------------- */
+@media (max-width: 1100px) {
+  /* `.feature` is flattened with display:contents, so the template's own
+     narrow-width stacking rule no longer reaches it - handle it here */
+  .xrp {
+    grid-template-columns: minmax(0, 1fr);
+    gap: 32px;
+  }
+
+  .xrp > .feature > .feature-image {
+    width: 100%;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 900px) {
+  .xduo,
+  .xg-grid {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .xg-grid[data-cols="1"] {
+    gap: 44px;
+  }
+}
+
+@media (max-width: 620px) {
+  .xcard2 {
+    grid-template-columns: minmax(0, 1fr);
+  }
+
+  .xcard2-img {
+    aspect-ratio: 2 / 1;
+    min-height: 0;
+  }
+
+  section {
+    padding: 32px 20px;
+  }
+}
