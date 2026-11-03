@@ -37,6 +37,8 @@ See [Google Scholar](https://scholar.google.com/citations?hl=en&user=nErn9W8AAAA
 
 <ol>
 
+<li> Weiwei Zhou, Dongdong Zhou, Qibin Zhang, Pan Zang, Guiyang Jiang, Fengyu Cong, Chao Liang, Shuo Li, Cheng Lu, and <b>Hongming Xu* </b>. "Global-Local Information Fusion via Contrastive Learning and Optimal Transport for Weakly Paired H&E-to-IHC Stain Transfer. "<b> Information Fusion</b>. 2027, 139:104879(2025 IF:17.4) (中科院1区-Top) </li>
+
 <li>Hongbo Liu, <b>Hongming Xu*</b>,Ilkka Pölönen, Chao Tang,Mingliang Zhang,Su Yao,Cheng Lu,Fengyu Cong. "SAM-HovNet: SAM-Enhanced Multi-Class Nucleus Segmentation and Classification in Hepatocellular Carcinoma Slides". <b>Accepted By IEEE Transactions on Biomedical Engineering (TBME)</b>，pp.1-13,2026(2025 IF:4.4) (中科院2区).</li>
 
 <li>Xinyu, Hao, <b>Hongming Xu*</b>, Jingdong Zhang, Qi Xu, Ilkka Pölönen, and Fengyu Cong. "Dual Selective Gleason Pattern-Aware Multiple Instance Learning with Uncertainty Regularization for Grade Group Prediction in Histopathology Images". <b>Medical Image Analysis (MedIA)</b>, pp.104005, 2026 (2025 IF: 14.0) (中科院1区-Top).</li>
