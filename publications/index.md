@@ -99,6 +99,15 @@ of cardiac functional parameters from zebrafish heartbeat videos". <b>Medical & 
 
 <ol>
 
+<li> Weiwei Zhou, Guiyang Jiang, Chao Liang, and <b>Hongming Xu *(最后通讯)</b>. CTG-Fusion: Synergizing GAN and Diffusion Priors via Frequency-Decoupled Learning for Trustworthy Virtual Staining. accepted In <b> IEEE
+International Conference on Bioinformatics and Biomedicine (BIBM)</b>, 2026 (生物信息顶会，CCF-B 类)</li>
+
+<li>Ming Wu, Mingde Xu, Jing Dai, Yuqi Ding, Huizhe Xu, and <b>Hongming Xu *(最后通讯)</b>. TESB: Time-coupled and Endpoint-guided Schrodinger Bridge for Efficient MRI Translation. accepted In <b>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</b>, 2026 (生物信息顶会，CCF-B 类)</li>
+
+<li>Mingde Xu, Ming Wu, Yuqi Ding, Jing Dai, Qibin Zhang, Xinyu Hao, and<b> Hongming Xu*(最后通讯)</b>. MMCP: Multi-scale Momentum Contrastive Pretraining for Slide Representation Learning in Endometrial Cancer Molecular Subtyping. accepted In <b>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</b>, 2026(生物信息顶会，CCF-B 类)</li>
+
+<li>Xinyu Hao, <b>Hongming Xu (唯一通讯)*</b>, Ilkka Polonen, Xin Fan, and Fengyu Cong. Beyond the Visible: Detecting Occult Malignancy in Benign Prostate Biopsies via Teacher-Student Causal Ranking. accepted In <b>IEEE International Conference on Bioinformatics and Biomedicine (BIBM)</b>, 2026 (生物信息顶会，CCF-B 类)</li>
+
 <li>Jing Dai, Qibin Zhang, Weiwei Zhou, Mingde Xu, Jingsong Liu, Jingdong Zhang, and <b>Hongming Xu*</b>. "CIGMSurv: Clinical Information Guided Multimodal Survival Prediction with Local Prototype Association and Global Feature Alignment". In <b>International Conference on Medical Image Computing and Computer-Assisted Intervention (MICCAI)</b>, 2026 (CCF-B类，医学图像处理顶会).</li>
 
 <li>Qiao Chen, <b>Hongming Xu*</b>, Xinyu Hao, Lanxi Hu, Huamin Qin, Tommi Kärkkäinen, and Fengyu Cong. "Structure-aware Knowledge Distillation from Multimodal Teachers for Glioma Molecular Classification". In the 48th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2026 </li>
